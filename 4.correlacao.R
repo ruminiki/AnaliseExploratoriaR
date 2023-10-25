@@ -31,7 +31,6 @@ colSums(is.na(df))
 #Estatísticas univariadas
 summary(df)
 
-# gráfico de dispersão Mortalidade x Saneamento
 ggplot(df, aes(x = numero_faltas, y = media_final)) +
   geom_point(color = "#39568CFF", size = 1.2) +
   labs(x = "Ira", y = "Média Final")+

@@ -1,8 +1,7 @@
-library(ggplot2)
 library(dplyr)
 
 #################################
-# Carregaro arquivo de dados
+# Carregar arquivo de dados
 #################################
 #+ O dataset é uma amostra de estudantes que cursaram a disciplina de Cálculo I
 #+ não deve ser utilizado para inferências sobre todo o universo de estudantes.

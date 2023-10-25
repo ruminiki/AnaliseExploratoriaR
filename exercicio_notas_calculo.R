@@ -12,7 +12,7 @@
 # Existe correlação entre a idade de ingresso no curso e a média final do estudante?
 
 #################################
-# Carregaro arquivo de dados
+# Carregar arquivo de dados
 #################################
 df <- read.csv("data/notas_calculo.csv")
 

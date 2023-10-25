@@ -25,6 +25,13 @@
 
 # Vamos conhecer as operações fundamentais do R
 
+#COMENTÁRIOS
+# Os textos, neste script, que se iniciam com # indicam que são comentários, 
+# ou seja, não serão comandos interpretados
+
+# Os códigos são digitados diretamente e são identificados como comandos
+# O R funciona com base em objetos que ficam listados no environment
+
 1 + 1
 10 - 2
 25 * 2
@@ -32,9 +39,21 @@
 3 ^ 2
 sqrt(25)
 
-# Um parêntese: perceba que os textos, neste script, se iniciam com #
-# Os códigos são digitados diretamente e são identificados como comandos
-# O R funciona com base em objetos que ficam listados no environment
+##################### VARIÁVEIS #########################
+#########################################################
+
+# Uma variável é um espaço na memória do computador que é usado para armazenar um valor
+# e são usadas para representar dados que podem mudar durante a execução de um programa.
+# No R as variáveis podem ter letras, números e caracters . _
+# O R é case sensitive, ou seja, ele diferencia letras minúsculas de maiúsculas.
+# É uma boa prática encontrar nomes significativos, que representem o valor que elas armazenam,
+# não muito extensos, e que sigam um padrão, por exemplo: minha_variavel
+
+nome <- "Afonso"
+cpf  <- "000.000.000-00"
+
+#imprime o valor das variáveis nome e cpf
+cat("O CPF do " , nome , " é: " , cpf)
 
 ############### ESTRUTURAS DE DADOS #####################
 # VETORES
@@ -119,38 +138,7 @@ sequencia >= 598
 sequencia > 100
 sequencia <= 100
 
-
-############### ESTRUTURAS DE DADOS #####################
-# FATORES
 #########################################################
-
-# Fatores: contêm variáveis categóricas que podem ser ordenadas
-# A seguir, para criar um fator, vamos utilizar o c() dentro da função factor()
-# A função factor() tem dois argumentos adicionais: levels e labels
-
-altura <- factor(c("alto", "médio", "alto", "baixo", "médio", "alto"), 
-                 levels = c("baixo", "médio", "alto"),
-                 labels = c("prédios baixos",
-                            "prédios médios",
-                            "prédios altos"))
-
-class(altura)
-
-altura
-
-# No caso dos fatores, a variável, inclusive, pode estar indicada como numérica
-
-respostas <- factor(c(1, 2, 2, 3, 1, 2, 3, 3, 1, 2, 1, 1, 3, 2, 3),
-                    levels = c(1, 2, 3),
-                    labels = c("discordo totalmente",
-                               "não concordo, nem discordo",
-                               "concordo totalmente"))
-
-class(respostas)
-
-respostas
-
-############### ESTRUTURAS DE DADOS #####################
 # MATRIZES
 #########################################################
 # Matrizes: As matrizes são estruturas de dados usadas para armazenar dados em um formato tabular. 
