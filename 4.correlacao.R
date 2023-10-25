@@ -24,6 +24,25 @@ df$numero_faltas[is.na(df$numero_faltas)] <- mean(df$numero_faltas, na.rm = TRUE
 #confere se ainda existem NAs
 colSums(is.na(df)) 
 
+##################################################################################
+#                         ANÁLISE GRÁFICA                                        #
+##################################################################################
+
+#Estatísticas univariadas
+summary(df)
+
+# gráfico de dispersão Mortalidade x Saneamento
+ggplot(df, aes(x = numero_faltas, y = media_final)) +
+  geom_point(color = "#39568CFF", size = 1.2) +
+  labs(x = "Ira", y = "Média Final")+
+  scale_color_manual("Legenda:", values = "grey50") +
+  theme_classic()
+
+df %>% 
+  ggplot(aes(x = carga_horaria_sucesso, group=situacao, fill=situacao)) + 
+  geom_density(adjust=1.5, alpha = 0.2) + 
+  scale_x_continuous(trans="log2") 
+
 #################### CORRELAÇÃO ####################
 #+ O Coeficiente de Correlação indica a força e a direção 
 #+ da relação entre duas variáveis. Em geral, 
