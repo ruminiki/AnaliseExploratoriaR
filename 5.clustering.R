@@ -14,14 +14,21 @@ df <- df %>% mutate(status = case_when(media_final < 5 ~ "REP",
                                        media_final >= 7 ~ "APR"))
 
 ################################################
+# O método kmeans aceita apenas variáveis numéricas. Portanto,
+# separamos elas usando o select_if. O método é sensível a valores 
+# discrepantes e variações de escalas, por isso utilizamos o scale para 
+# padronização dos valores.
+df_cluster <- scale(df[,colnames(select_if(df, is.numeric))])
+
 set.seed(1)
-# Elaboração da clusterização não hieráquica k-means
-cluster_kmeans <- kmeans(scale(df[,colnames(select_if(df, is.numeric))]), centers = 4)
 
-#visualização dos clusters
-fviz_cluster(cluster_kmeans, scale(df[,colnames(select_if(df, is.numeric))]), geom = "point", ellipse.type = "norm", repel=TRUE)
+# Método k-means
+cluster_kmeans <- kmeans(df_cluster, centers = 4)
 
-# Criando variável categórica para indicação do cluster no banco de dados
+# Visualização dos clusters
+fviz_cluster(cluster_kmeans, df_cluster, geom = "point", ellipse.type = "norm", repel=TRUE)
+
+# Variável categórica para indicação do cluster no banco de dados
 df$cluster <- cluster_kmeans$cluster
 
 ################################################
@@ -37,7 +44,7 @@ ggplot(as.data.frame(table(df$status, df$cluster)),
         legend.text = element_text(size = 10),
         legend.title = element_blank())
 
-#estatísticas nos clusters
+#estatísticas dos clusters
 table(df$cluster)
 table(df$pais_origem, df$cluster)
 table(df$sexo, df$cluster)

@@ -16,7 +16,8 @@ library(hrbrthemes)
 # Faça o box-plot da média final e responda:
 # Quantos estudantes estão acima do terceiro quartil?
 
-# Faça o gráfico de dispersão do ira e média final;
+# CORRELAÇÃO
+# Faça o gráfico de dispersão entre ira e média final, cr_total_integralizados e cr_total_pendentes;
 # Faça o mapa de correlação e identifique:
 # Existe correlação entre o número de faltas e a média final do estudante?
 # Existe correlação entre a idade de ingresso no curso e a média final do estudante?
@@ -75,6 +76,12 @@ df %>% ggplot(aes(x=media_final, fill=sexo)) +
   geom_density(alpha = 0.4) + 
   scale_fill_viridis(discrete = T) +
   facet_wrap(~ raca)
+
+#os dados apontam para dois picos, próximo de zero, e entre 5 e 7
+#pode-se verificar a média por status
+mean(df$media_final[df$status == "APR"], na.rm = T)
+mean(df$media_final[df$status == "REC"], na.rm = T)
+mean(df$media_final[df$status == "REP"], na.rm = T)
 
 #raça
 df %>% ggplot(aes(x=status, fill=sexo)) +
@@ -152,6 +159,8 @@ df %>% ggplot(aes(x=media_final, fill=raca)) +
 ggplot(df, aes(y=media_final))+
   geom_boxplot()
 
+# com a camada geom_jitter, possível mostrar os pontos de dados no boxplot
+# útil para avaliar a quantidade de observações por grupo
 ggplot(df, aes(x=sexo, y=media_final, fill=sexo))+
   geom_boxplot() + 
   geom_jitter(alpha = 0.2) +
@@ -162,42 +171,93 @@ ggplot(df, aes(y=media_final))+
   scale_fill_viridis(discrete=TRUE) +
   facet_wrap(~ pais_origem)
 
-#encontrando o valor da nota limite no terceiro quartil
+#encontrando o valor da nota limite no terceiro quartil (75%)
 quantile(df$media_final, probs = seq(0, 1, 0.25))
 
 # Quantos estudantes estão acima do terceiro quartil?
 df %>% filter(media_final > 5.4) %>% summarise(total = n())
 
 ######################################################################
-# Faça o gráfico de dispersão do ira e média final;
+# CORRELAÇÃO
+# Faça o gráfico de dispersão entre ira e média final, cr_total_integralizados e cr_total_pendentes.
 # Faça o mapa de correlação e identifique:
 # Existe correlação entre o numero de faltas e a média final do estudante?
 # Existe correlação entre a idade de ingresso no curso e a média final do estudante?
 ######################################################################
 ggplot(df, aes(x=media_final, y=ira))+
-  geom_point(alpha=0.2)
+  geom_point(alpha=0.2) + 
+  geom_smooth(method = lm, se = FALSE)
 
 ggplot(df, aes(x=media_final, y=numero_faltas))+
-  geom_point(alpha=0.2)
+  geom_point(alpha=0.2) +
+  geom_smooth(method = lm, se = FALSE)
 
 ggplot(df, aes(x=media_final, y=idade_ingresso_curso))+
-  geom_point(alpha=0.2)
+  geom_point(alpha=0.2) +
+  geom_smooth(method = lm, se = FALSE)
+
+ggplot(df, aes(x=periodo_atual, y=cr_total_pendentes))+
+  geom_point(alpha=0.2) +
+  geom_smooth(method = lm, se = FALSE)
+
+ggplot(df, aes(x=cr_total_pendentes, y=cr_total_integralizados))+
+  geom_point(alpha=0.2) + 
+  geom_smooth(method = "lm", formula = y ~ x, se = F, size = 1, level = 0.95) +
+  theme_classic()
+
+ggplot(df, aes(status, media_final)) + 
+  geom_violin() +
+  stat_summary(
+    aes(
+      y = stage(media_final, after_stat = 8),
+      label = after_stat(paste(mean, "±", sd))
+    ),
+    geom = "text",
+    fun.data = ~ round(data.frame(mean = mean(.x), sd = sd(.x)), 2)
+  )
 
 #################### CORRELAÇÃO ####################
 #+ O Coeficiente de Correlação indica a força e a direção 
-#+ da relação entre duas variáveis. Em geral, 
-#+ a característica é boa se tiver uma forte correlação com a variável resposta 
-#+ e não tenha forte correlação com outras características.
+#+ da relação entre duas variáveis. 
+#+ Em geral, a característica é boa se tiver uma forte correlação 
+#+ com a variável resposta e não tenha forte correlação com outras características.
 ###################################################
 
-#gera um dataframe somente com as variáveis numéricas
+# Separa um dataframe com as variáveis do tipo número
 df.cor <- df[,colnames(select_if(df, is.numeric))]
 
-# Cria a matriz de correlação
-df.cor <- cor(df.cor)
+# Cria a matriz de correlação das variáveis numéricas
+correlacoes <- cor(df.cor)
+view(correlacoes)
+
 #plota o mapa das correlações
-corrplot(df.cor, method = 'square', sig.level = 0.05)
+corrplot(correlacoes, method = 'circle', sig.level = 0.05)
 
 #outro método de apresentar a correlação, nesse caso a função 
 #chart.Correlation calcula a correlação e plota o gráfico
 chart.Correlation(df.cor, histogram=FALSE, method = "pearson", pch=25)
+
+
+#################### EXERCÍCIO PARA PRATICAR ####################
+#+ No dataset existem alguns atributos que indicam o semestre atual (periodo_atual),
+#+ os créditos cursados (cr_total_integralizados) e créditos pendentes (cr_total_pendentes).
+#+ Considere que em um curso regular de 5 anos o aluno deverá cursar 10 semestres.
+#+ Verifique, há alunos atrasados em relação ao prazo de conclusão do curso?
+#+ Gere um gráfico de barras com os totais de alunos dentro do prazo e de alunos atrasados em relação ao prazo de conclusão.
+
+#+ OBS: Exercício apenas para FINS DIDÁTICOS, uma vez que cada registro corresponde
+#+ a uma matrícula em uma disciplina, portanto um estudante pode ter mais de uma matrícula.
+#################################################################
+
+# Separa os registros com créditos pendentes. 
+# Classifica como atraso aqueles com periodo_atual > 10
+df_prazo_formacao <- df %>% 
+  filter(cr_total_pendentes > 0) %>% 
+  mutate(status_prazo_formacao = ifelse(periodo_atual > 10, "ATRASADO", "NO PRAZO"))
+
+cat("Existem ",nrow(df_prazo_formacao), " registros atrasados em relação ao prazo de conclusão do curso.");
+
+df_chart <- df_prazo_formacao %>% group_by(status_prazo_formacao) %>% summarise(count = n())
+
+ggplot(df_chart, aes(x=status_prazo_formacao, y=count))+
+  geom_bar(stat="identity")

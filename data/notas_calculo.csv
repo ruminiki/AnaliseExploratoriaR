@@ -1,1553 +1,1553 @@
-"idade_ingresso_curso","periodo_atual","raca","turno","pais_origem","sexo","ira","media_final","ch_total","numero_faltas"
-19,11,"Branco(a)","MTN","Paraguai","F",4.3333,1.4,90,0
-19,11,"Branco(a)","MTN","Paraguai","F",4.3333,6,90,14
-18,10,"Branco(a)","MTN","Paraguai","M",2.7689,0.2,90,0
-18,10,"Branco(a)","MTN","Paraguai","M",2.7689,0.3,90,38
-18,10,"Branco(a)","MTN","Paraguai","M",2.7689,0.5,90,0
-18,10,"Branco(a)","MTN","Paraguai","M",2.7689,0.7,90,22
-19,13,"Pardo(a)","MTN","Paraguai","F",4.5001,0.8,90,0
-19,13,"Pardo(a)","MTN","Paraguai","F",4.5001,6,90,16
-20,20,"Não Declarado(a)","MTN","Bolívia","F",6.4455,5.3,90,0
-20,20,"Não Declarado(a)","MTN","Bolívia","F",6.4455,9,90,4
-21,11,"Pardo(a)","MTN","Paraguai","M",4.4388,0.2,90,0
-21,11,"Pardo(a)","MTN","Paraguai","M",4.4388,0.4,90,38
-21,11,"Pardo(a)","MTN","Paraguai","M",4.4388,1.2,90,8
-21,11,"Pardo(a)","MTN","Paraguai","M",4.4388,1.8,90,18
-21,11,"Pardo(a)","MTN","Paraguai","M",4.4388,2.1,90,0
-23,8,"Não Declarado(a)","MTN","Brasil","M",4.8414,0.9,90,16
-23,8,"Não Declarado(a)","MTN","Brasil","M",4.8414,2.2,90,0
-18,14,"Pardo(a)","MTN","Argentina","F",6.4271,3.2,90,0
-18,14,"Pardo(a)","MTN","Argentina","F",6.4271,7.9,90,4
-20,11,"Não Declarado(a)","MTN","Argentina","M",4.3991,0.6,90,10
-20,11,"Não Declarado(a)","MTN","Argentina","M",4.3991,1.1,90,0
-20,11,"Não Declarado(a)","MTN","Argentina","M",4.3991,1.1,90,15
-20,11,"Não Declarado(a)","MTN","Argentina","M",4.3991,1.5,90,10
-20,11,"Não Declarado(a)","MTN","Argentina","M",4.3991,2.9,90,0
-23,7,"Não Declarado(a)","MTN","Brasil","M",3.4385,0,90,0
-23,7,"Não Declarado(a)","MTN","Brasil","M",3.4385,0,90,52
-20,10,"Não Declarado(a)","MTN","Brasil","M",3.5846,0,90,38
-20,10,"Não Declarado(a)","MTN","Brasil","M",3.5846,1.9,90,0
-19,17,"Branco(a)","MTN","Paraguai","M",6.575,3.7,90,0
-19,17,"Branco(a)","MTN","Paraguai","M",6.575,6,90,8
-23,11,"Não Declarado(a)","MTN","Bolívia","M",2.2463,0.2,90,26
-23,11,"Não Declarado(a)","MTN","Bolívia","M",2.2463,0.2,90,64
-23,11,"Não Declarado(a)","MTN","Bolívia","M",2.2463,0.3,90,0
-20,13,"Indígena","MTN","Paraguai","M",3.524,2.4,90,0
-20,13,"Indígena","MTN","Paraguai","M",3.524,6.2,90,9
-18,11,"Não Declarado(a)","MTN","Bolívia","M",2.9664,0,90,0
-18,11,"Não Declarado(a)","MTN","Bolívia","M",2.9664,0,90,16
-18,11,"Não Declarado(a)","MTN","Bolívia","M",2.9664,0.1,90,0
-18,11,"Não Declarado(a)","MTN","Bolívia","M",2.9664,0.2,90,18
-18,11,"Não Declarado(a)","MTN","Bolívia","M",2.9664,0.3,90,4
-20,12,"Pardo(a)","MTN","Argentina","M",4.7104,3.9,90,0
-20,12,"Pardo(a)","MTN","Argentina","M",4.7104,6.3,90,12
-19,15,"Pardo(a)","MTN","Bolívia","M",4.0382,4.4,90,0
-19,15,"Pardo(a)","MTN","Bolívia","M",4.0382,6,90,6
-19,16,"Branco(a)","MTN","Paraguai","F",5.2765,6.1,90,0
-19,9,"Não Declarado(a)","MTN","Paraguai","M",3.9549,0,90,30
-19,9,"Não Declarado(a)","MTN","Paraguai","M",3.9549,0.3,90,0
-19,9,"Não Declarado(a)","MTN","Paraguai","M",3.9549,0.3,90,44
-19,9,"Não Declarado(a)","MTN","Paraguai","M",3.9549,1.2,90,10
-19,9,"Não Declarado(a)","MTN","Paraguai","M",3.9549,2.1,90,0
-19,6,"Branco(a)","MTN","Brasil","M",3.7196,0,90,16
-18,7,"Não Declarado(a)","MTN","Bolívia","M",5.4164,6.4,90,0
-19,11,"Pardo(a)","MTN","Paraguai","F",3.4969,0,90,20
-19,11,"Pardo(a)","MTN","Paraguai","F",3.4969,0.2,90,6
-19,11,"Pardo(a)","MTN","Paraguai","F",3.4969,1.7,90,0
-19,11,"Pardo(a)","MTN","Paraguai","F",3.4969,1.8,90,0
-19,11,"Pardo(a)","MTN","Paraguai","F",3.4969,4,90,12
-19,10,"Não Declarado(a)","MTN","Paraguai","M",2.6696,0,90,0
-19,10,"Não Declarado(a)","MTN","Paraguai","M",2.6696,0,90,70
-19,10,"Não Declarado(a)","MTN","Paraguai","M",2.6696,0.2,90,18
-19,10,"Não Declarado(a)","MTN","Paraguai","M",2.6696,0.3,90,0
-24,16,"Não Declarado(a)","MTN","Uruguai","M",3.642,2.2,90,0
-24,16,"Não Declarado(a)","MTN","Uruguai","M",3.642,2.3,90,18
-24,16,"Não Declarado(a)","MTN","Uruguai","M",3.642,6,90,0
-17,4,"Branco(a)","MTN","Brasil","M",3.7095,0,90,0
-25,5,"Preto(a)","MTN","Brasil","M",6.0114,0,90,0
-17,13,"Branco(a)","MTN","Brasil","F",8.0449,7.8,90,0
-18,14,"Branco(a)","MTN","Brasil","F",6.3428,4.5,90,0
-18,14,"Branco(a)","MTN","Brasil","F",6.3428,6.2,90,8
-26,6,"Pardo(a)","MTN","Brasil","M",4.6062,0,90,59
-26,6,"Pardo(a)","MTN","Brasil","M",4.6062,0,90,86
-19,11,"Não Declarado(a)","MTN","Bolívia","M",4.1423,0.5,90,36
-19,11,"Não Declarado(a)","MTN","Bolívia","M",4.1423,1.6,90,6
-19,11,"Não Declarado(a)","MTN","Bolívia","M",4.1423,1.7,90,42
-19,11,"Não Declarado(a)","MTN","Bolívia","M",4.1423,3.2,90,0
-19,11,"Não Declarado(a)","MTN","Bolívia","M",4.1423,3.4,90,0
-19,11,"Não Declarado(a)","MTN","Bolívia","M",4.1423,4.2,90,2
-27,5,"Branco(a)","MTN","Brasil","F",6.8846,0.8,90,0
-25,11,"Branco(a)","MTN","Peru","M",5.4292,2.3,90,0
-25,11,"Branco(a)","MTN","Peru","M",5.4292,6.5,90,2
-18,16,"Pardo(a)","MTN","Equador","M",6.5935,1.6,90,0
-18,16,"Pardo(a)","MTN","Equador","M",6.5935,6.2,90,2
-22,22,"Indígena","MTN","Equador","M",6.2983,5.3,90,0
-22,22,"Indígena","MTN","Equador","M",6.2983,6.4,90,10
-18,5,"Branco(a)","MTN","Paraguai","F",3.8187,0.1,90,46
-18,5,"Branco(a)","MTN","Paraguai","F",3.8187,1.3,90,0
-18,7,"Pardo(a)","MTN","Paraguai","M",3.5507,0,90,74
-18,7,"Pardo(a)","MTN","Paraguai","M",3.5507,0.1,90,14
-18,7,"Pardo(a)","MTN","Paraguai","M",3.5507,0.2,90,0
-18,7,"Pardo(a)","MTN","Paraguai","M",3.5507,0.6,90,0
-18,9,"Pardo(a)","MTN","Peru","F",5.323,3.2,90,0
-18,9,"Pardo(a)","MTN","Peru","F",5.323,7,90,8
-19,9,"Pardo(a)","MTN","Argentina","M",3.6593,0.1,90,22
-19,9,"Pardo(a)","MTN","Argentina","M",3.6593,1.9,90,4
-19,9,"Pardo(a)","MTN","Argentina","M",3.6593,2,90,0
-19,9,"Pardo(a)","MTN","Argentina","M",3.6593,3.3,90,21
-18,15,"Pardo(a)","MTN","Equador","F",5.791,0.6,90,36
-18,15,"Pardo(a)","MTN","Equador","F",5.791,1.1,102,0
-18,15,"Pardo(a)","MTN","Equador","F",5.791,1.2,90,46
-18,15,"Pardo(a)","MTN","Equador","F",5.791,1.9,90,0
-18,15,"Pardo(a)","MTN","Equador","F",5.791,2,90,14
-18,15,"Pardo(a)","MTN","Equador","F",5.791,3.2,90,0
-18,15,"Pardo(a)","MTN","Equador","F",5.791,3.7,102,26
-18,15,"Pardo(a)","MTN","Equador","F",5.791,4.8,90,12
-18,15,"Pardo(a)","MTN","Paraguai","M",4.3555,0,90,40
-18,15,"Pardo(a)","MTN","Paraguai","M",4.3555,0,102,0
-18,15,"Pardo(a)","MTN","Paraguai","M",4.3555,0,102,48
-18,15,"Pardo(a)","MTN","Paraguai","M",4.3555,0.1,90,66
-18,15,"Pardo(a)","MTN","Paraguai","M",4.3555,0.2,102,8
-18,15,"Pardo(a)","MTN","Paraguai","M",4.3555,0.5,102,18
-18,15,"Pardo(a)","MTN","Paraguai","M",4.3555,0.6,102,0
-18,15,"Pardo(a)","MTN","Paraguai","M",4.3555,0.8,90,0
-18,15,"Pardo(a)","MTN","Paraguai","M",4.3555,0.9,90,18
-18,15,"Pardo(a)","MTN","Paraguai","M",4.3555,1.4,90,0
-18,15,"Pardo(a)","MTN","Paraguai","M",4.3555,5.3,102,15
-18,7,"Pardo(a)","MTN","Argentina","F",3.95,0.1,90,14
-18,7,"Pardo(a)","MTN","Argentina","F",3.95,0.2,90,0
-18,7,"Pardo(a)","MTN","Argentina","F",3.95,0.8,90,6
-18,7,"Pardo(a)","MTN","Argentina","F",3.95,1,90,0
-18,14,"Pardo(a)","MTN","Equador","M",7.0611,4.1,90,0
-18,14,"Pardo(a)","MTN","Equador","M",7.0611,6.1,90,2
-17,8,"Pardo(a)","MTN","Bolívia","M",3.026,0,90,0
-17,8,"Pardo(a)","MTN","Bolívia","M",3.026,0,90,62
-17,8,"Pardo(a)","MTN","Bolívia","M",3.026,0,90,76
-17,8,"Pardo(a)","MTN","Bolívia","M",3.026,0.2,90,0
-17,8,"Pardo(a)","MTN","Bolívia","M",3.026,0.4,90,12
-20,12,"Pardo(a)","MTN","Bolívia","M",6.0383,6.3,90,0
-18,6,"Branco(a)","MTN","Paraguai","F",3.4143,0,90,0
-22,17,"Pardo(a)","MTN","Equador","M",5.2442,0.4,90,20
-22,17,"Pardo(a)","MTN","Equador","M",5.2442,0.6,90,0
-22,17,"Pardo(a)","MTN","Equador","M",5.2442,1.5,90,4
-22,17,"Pardo(a)","MTN","Equador","M",5.2442,2.3,90,0
-22,17,"Pardo(a)","MTN","Equador","M",5.2442,4.1,102,10
-22,17,"Pardo(a)","MTN","Equador","M",5.2442,5.4,102,8
-22,17,"Pardo(a)","MTN","Equador","M",5.2442,6,102,0
-18,16,"Pardo(a)","MTN","Paraguai","M",7.1021,6.9,90,0
-20,6,"Não Declarado(a)","MTN","Paraguai","M",3.7648,0,90,0
-21,10,"Pardo(a)","MTN","Equador","M",5.749,2.7,90,0
-21,10,"Pardo(a)","MTN","Equador","M",5.749,6,90,8
-18,14,"Pardo(a)","MTN","Equador","M",6.784,4,90,0
-18,14,"Pardo(a)","MTN","Equador","M",6.784,6.5,90,6
-21,16,"Pardo(a)","MTN","Bolívia","M",5.7948,2.8,90,0
-21,16,"Pardo(a)","MTN","Bolívia","M",5.7948,6.2,90,2
-20,5,"Não Declarado(a)","MTN","Argentina","M",4.5714,0.1,90,0
-20,5,"Não Declarado(a)","MTN","Argentina","M",4.5714,1.3,90,24
-18,16,"Branco(a)","MTN","Paraguai","F",6.4695,5,90,0
-18,16,"Branco(a)","MTN","Paraguai","F",6.4695,6.1,90,2
-17,4,"Não Declarado(a)","MTN","Paraguai","F",5.5838,0.9,90,0
-22,15,"Indígena","MTN","Bolívia","M",2.6959,2.8,102,2
-20,6,"Pardo(a)","MTN","Bolívia","F",3.4437,0,90,0
-20,6,"Pardo(a)","MTN","Bolívia","F",3.4437,0.2,90,12
-18,15,"Pardo(a)","MTN","Equador","F",6.9246,5.3,90,0
-18,15,"Pardo(a)","MTN","Equador","F",6.9246,7,90,10
-23,15,"Preto(a)","MTN","Bolívia","F",4.7317,3.6,90,0
-23,15,"Preto(a)","MTN","Bolívia","F",4.7317,6,90,2
-18,17,"Indígena","MTN","Peru","F",6.0433,6.4,90,0
-18,16,"Não Declarado(a)","MTN","Bolívia","M",6.7375,5,90,0
-18,16,"Não Declarado(a)","MTN","Bolívia","M",6.7375,7.5,90,2
-19,6,"Pardo(a)","MTN","Paraguai","F",3.8576,0,90,0
-19,6,"Pardo(a)","MTN","Paraguai","F",3.8576,0,90,34
-18,17,"Branco(a)","MTN","Paraguai","F",6.3397,5,90,0
-18,17,"Branco(a)","MTN","Paraguai","F",6.3397,7.7,90,2
-32,9,"Preto(a)","MTN","Brasil","M",2.6806,0,90,64
-32,9,"Preto(a)","MTN","Brasil","M",2.6806,0.3,90,42
-32,9,"Preto(a)","MTN","Brasil","M",2.6806,0.8,90,0
-20,7,"Pardo(a)","MTN","Paraguai","M",3.8681,0,90,52
-20,7,"Pardo(a)","MTN","Paraguai","M",3.8681,0.7,90,14
-20,7,"Pardo(a)","MTN","Paraguai","M",3.8681,1.3,90,0
-20,7,"Pardo(a)","MTN","Paraguai","M",3.8681,1.8,90,0
-21,13,"Pardo(a)","MTN","Brasil","F",5.8472,1.1,90,0
-21,13,"Pardo(a)","MTN","Brasil","F",5.8472,6.2,90,2
-19,15,"Não Declarado(a)","MTN","Colômbia","M",6.1247,3,90,0
-19,15,"Não Declarado(a)","MTN","Colômbia","M",6.1247,4.5,90,14
-19,15,"Não Declarado(a)","MTN","Colômbia","M",6.1247,6.5,90,0
-18,15,"Não Declarado(a)","MTN","Colômbia","M",4.8829,0.2,102,10
-18,15,"Não Declarado(a)","MTN","Colômbia","M",4.8829,0.4,90,0
-18,15,"Não Declarado(a)","MTN","Colômbia","M",4.8829,0.6,90,14
-18,15,"Não Declarado(a)","MTN","Colômbia","M",4.8829,0.7,102,33
-18,15,"Não Declarado(a)","MTN","Colômbia","M",4.8829,0.8,90,10
-18,15,"Não Declarado(a)","MTN","Colômbia","M",4.8829,1.6,90,0
-18,15,"Não Declarado(a)","MTN","Colômbia","M",4.8829,2.2,102,20
-19,16,"Não Declarado(a)","MTN","Colômbia","M",6.1364,6.4,90,0
-19,4,"Branco(a)","MTN","Colômbia","M",5.0235,0,90,0
-20,12,"Branco(a)","MTN","Colômbia","M",7.314,7.8,90,0
-18,15,"Pardo(a)","MTN","Colômbia","M",4.3208,0,90,12
-18,15,"Pardo(a)","MTN","Colômbia","M",4.3208,0.2,90,0
-18,15,"Pardo(a)","MTN","Colômbia","M",4.3208,0.2,102,22
-18,15,"Pardo(a)","MTN","Colômbia","M",4.3208,0.2,102,58
-18,15,"Pardo(a)","MTN","Colômbia","M",4.3208,0.4,102,32
-20,23,"Pardo(a)","MTN","El Salvador","M",6.1681,6.7,90,0
-21,7,"Pardo(a)","N","Venezuela","M",5.8772,3.7,90,0
-19,17,"Pardo(a)","MTN","Venezuela","F",6.5346,6.5,90,0
-42,7,"Branco(a)","MTN","Brasil","M",3.9296,3.1,90,0
-42,7,"Branco(a)","MTN","Brasil","M",3.9296,6,90,0
-22,9,"Pardo(a)","MTN","Peru","M",4.2565,1.7,90,0
-22,9,"Pardo(a)","MTN","Peru","M",4.2565,5.2,90,4
-22,9,"Pardo(a)","MTN","Peru","M",4.2565,6,90,0
-19,12,"Indígena","MTN","Peru","M",7.2755,9.1,90,0
-22,14,"Amarelo(a)","MTN","Peru","F",3.7696,0.1,90,70
-22,14,"Amarelo(a)","MTN","Peru","F",3.7696,0.1,102,0
-22,14,"Amarelo(a)","MTN","Peru","F",3.7696,0.4,90,0
-22,14,"Amarelo(a)","MTN","Peru","F",3.7696,0.6,102,42
-22,14,"Amarelo(a)","MTN","Peru","F",3.7696,0.9,90,60
-22,14,"Amarelo(a)","MTN","Peru","F",3.7696,1,102,0
-22,14,"Amarelo(a)","MTN","Peru","F",3.7696,1.2,90,0
-22,14,"Amarelo(a)","MTN","Peru","F",3.7696,1.9,102,42
-22,14,"Amarelo(a)","MTN","Peru","F",3.7696,2,102,48
-22,14,"Amarelo(a)","MTN","Peru","F",3.7696,3.2,90,8
-18,12,"Pardo(a)","MTN","Peru","M",7.4432,7.7,90,0
-25,11,"Não Declarado(a)","MTN","Peru","M",3.179,8,90,0
-19,7,"Pardo(a)","MTN","Peru","M",2.6679,0,90,0
-19,7,"Pardo(a)","MTN","Peru","M",2.6679,0,90,62
-19,7,"Pardo(a)","MTN","Peru","M",2.6679,0,90,66
-19,7,"Pardo(a)","MTN","Peru","M",2.6679,0.2,90,0
-19,7,"Pardo(a)","MTN","Peru","M",2.6679,2.7,90,20
-20,8,"Não Declarado(a)","MTN","Brasil","M",5.7672,4,90,0
-20,8,"Não Declarado(a)","MTN","Brasil","M",5.7672,4.9,90,2
-25,12,"Indígena","MTN","Peru","M",5.0129,6.6,90,0
-22,6,"Não Declarado(a)","MTN","Brasil","M",2.7337,0,90,82
-18,14,"Branco(a)","MTN","Brasil","F",6.352,0.7,90,18
-18,14,"Branco(a)","MTN","Brasil","F",6.352,6.8,90,8
-22,5,"Branco(a)","MTN","Brasil","F",4.0388,0,90,48
-22,5,"Branco(a)","MTN","Brasil","F",4.0388,0,90,52
-22,5,"Branco(a)","MTN","Brasil","F",4.0388,0,90,96
-16,5,"Pardo(a)","MTN","Brasil","M",5.35,0.7,90,0
-16,5,"Pardo(a)","MTN","Brasil","M",5.35,0.7,90,22
-19,3,"Branco(a)","MTN","Brasil","M",5.4367,0,90,46
-17,3,"Branco(a)","MTN","Brasil","M",3.4742,0,90,72
-17,9,"Pardo(a)","MTN","Brasil","M",6.3073,0.5,90,34
-17,9,"Pardo(a)","MTN","Brasil","M",6.3073,2.5,90,9
-17,9,"Pardo(a)","MTN","Brasil","M",6.3073,6.3,90,26
-17,10,"Branco(a)","MTN","Brasil","F",9.2013,9.8,90,8
-18,17,"Branco(a)","MTN","Brasil","F",7.9882,6,90,4
-17,18,"Branco(a)","MTN","Brasil","F",6.8949,0.1,90,16
-17,18,"Branco(a)","MTN","Brasil","F",6.8949,3.6,90,17
-17,18,"Branco(a)","MTN","Brasil","F",6.8949,6.6,90,14
-20,17,"Branco(a)","MTN","Brasil","F",7.1169,5.1,90,2
-19,5,"Pardo(a)","MTN","Brasil","M",5.0298,0,90,24
-19,5,"Pardo(a)","MTN","Brasil","M",5.0298,0.5,90,54
-19,5,"Pardo(a)","MTN","Brasil","M",5.0298,2.6,90,40
-18,16,"Pardo(a)","MTN","Brasil","F",6.5791,0.3,90,24
-18,16,"Pardo(a)","MTN","Brasil","F",6.5791,6,90,0
-17,14,"Pardo(a)","MTN","Brasil","M",6.7391,6.3,90,10
-17,14,"Branco(a)","MTN","Brasil","F",5.9719,0.3,90,16
-18,15,"Amarelo(a)","MTN","Brasil","F",6.6279,6.5,90,12
-32,4,"Branco(a)","MTN","Brasil","M",7.0936,1,90,6
-18,7,"Branco(a)","MTN","Brasil","F",5.9642,5.4,90,2
-17,10,"Branco(a)","MTN","Brasil","F",8.2417,9.5,90,2
-19,7,"Branco(a)","MTN","Brasil","M",3.9899,0.6,102,0
-19,7,"Branco(a)","MTN","Brasil","M",3.9899,1,90,15
-19,7,"Branco(a)","MTN","Brasil","M",3.9899,1.3,90,20
-19,7,"Branco(a)","MTN","Brasil","M",3.9899,1.7,102,10
-17,17,"Branco(a)","MTN","Brasil","F",5.9973,1.6,90,14
-17,17,"Branco(a)","MTN","Brasil","F",5.9973,5.7,90,0
-17,17,"Branco(a)","MTN","Brasil","F",5.9973,7.9,102,8
-18,17,"Branco(a)","MTN","Brasil","F",6.4778,0.3,90,8
-19,15,"Branco(a)","MTN","Brasil","M",6.5443,0.8,90,26
-19,15,"Branco(a)","MTN","Brasil","M",6.5443,2.6,90,0
-19,15,"Branco(a)","MTN","Brasil","M",6.5443,6.5,102,12
-17,10,"Branco(a)","MTN","Brasil","F",8.504,9.9,90,2
-17,4,"Branco(a)","MTN","Brasil","F",5.6545,0,90,18
-17,4,"Branco(a)","MTN","Brasil","F",5.6545,0.6,90,24
-17,14,"Pardo(a)","MTN","Brasil","M",4.921,1.1,90,16
-17,14,"Pardo(a)","MTN","Brasil","M",4.921,2.1,90,0
-17,14,"Pardo(a)","MTN","Brasil","M",4.921,5.3,102,12
-17,14,"Pardo(a)","MTN","Brasil","M",4.921,6.1,102,16
-18,9,"Não Declarado(a)","MTN","Brasil","M",2.4001,0,102,0
-18,9,"Não Declarado(a)","MTN","Brasil","M",2.4001,0,102,76
-18,9,"Não Declarado(a)","MTN","Brasil","M",2.4001,0,102,82
-22,17,"Pardo(a)","MTN","Peru","M",6.8944,6,90,0
-20,7,"Branco(a)","MTN","Paraguai","F",5.0661,0.2,90,12
-20,7,"Branco(a)","MTN","Paraguai","F",5.0661,0.4,90,20
-20,7,"Branco(a)","MTN","Paraguai","F",5.0661,0.9,102,28
-20,7,"Branco(a)","MTN","Paraguai","F",5.0661,1.9,102,4
-20,5,"Branco(a)","MTN","Paraguai","F",6.2695,0,90,26
-20,5,"Branco(a)","MTN","Paraguai","F",6.2695,2.4,102,21
-20,5,"Branco(a)","MTN","Paraguai","F",6.2695,6,102,0
-18,3,"Branco(a)","MTN","Brasil","F",6.5067,0.5,90,28
-32,10,"Preto(a)","MTN","Brasil","M",8.0834,6,90,0
-17,5,"Branco(a)","MTN","Brasil","M",5.2293,0,90,26
-20,15,"Branco(a)","MTN","Paraguai","M",6.1594,3.3,90,10
-20,15,"Branco(a)","MTN","Paraguai","M",6.1594,6.3,90,8
-20,12,"Branco(a)","MTN","Paraguai","M",7.9849,8.4,90,8
-19,12,"Pardo(a)","MTN","Paraguai","M",7.3427,6.8,90,2
-21,14,"Pardo(a)","N","Paraguai","F",4.8165,0,102,32
-18,17,"Pardo(a)","MTN","Paraguai","M",5.0718,6.8,90,4
-19,7,"Branco(a)","MTN","Paraguai","M",4.8093,0.1,90,48
-19,7,"Branco(a)","MTN","Paraguai","M",4.8093,0.5,90,50
-19,7,"Branco(a)","MTN","Paraguai","M",4.8093,0.9,102,31
-18,13,"Pardo(a)","MTN","Brasil","M",5.3973,1.2,90,26
-22,12,"Pardo(a)","MTN","Uruguai","M",6.7073,8.2,90,12
-18,19,"Pardo(a)","MTN","Colômbia","F",7.0826,2.3,90,2
-18,19,"Pardo(a)","MTN","Colômbia","F",7.0826,7.3,90,10
-19,18,"Branco(a)","MTN","Colômbia","F",7.0327,3,90,0
-19,18,"Branco(a)","MTN","Colômbia","F",7.0327,6.1,102,8
-20,15,"Amarelo(a)","MTN","Colômbia","F",7.1055,1.2,90,0
-20,15,"Amarelo(a)","MTN","Colômbia","F",7.1055,6.8,102,2
-18,17,"Indígena","MTN","Colômbia","F",7.0267,6.4,90,7
-18,9,"Branco(a)","MTN","Brasil","M",5.6413,0,90,44
-18,9,"Branco(a)","MTN","Brasil","M",5.6413,1.3,90,38
-18,9,"Branco(a)","MTN","Brasil","M",5.6413,1.8,102,38
-18,9,"Branco(a)","MTN","Brasil","M",5.6413,3,102,41
-18,9,"Branco(a)","MTN","Brasil","M",5.6413,4.3,102,34
-18,6,"Pardo(a)","MTN","Paraguai","M",4.8458,1.3,90,0
-18,6,"Pardo(a)","MTN","Paraguai","M",4.8458,1.4,102,60
-18,6,"Pardo(a)","MTN","Paraguai","M",4.8458,3.5,90,20
-18,5,"Branco(a)","MTN","Paraguai","F",5.795,2.7,90,4
-18,11,"Branco(a)","MTN","Paraguai","M",7.4511,5.2,90,4
-18,14,"Não Declarado(a)","MTN","Paraguai","F",5.5272,2.9,90,2
-18,17,"Branco(a)","MTN","Paraguai","F",6.4826,4.1,90,2
-19,17,"Branco(a)","MTN","Paraguai","F",5.2267,4.7,90,4
-19,17,"Branco(a)","MTN","Paraguai","F",5.2267,7.7,90,4
-18,13,"Não Declarado(a)","MTN","Paraguai","M",4.4103,6,102,6
-18,17,"Indígena","MTN","Bolívia","F",6.2867,6,90,6
-19,13,"Não Declarado(a)","MTN","Bolívia","F",6.8444,5.1,90,0
-19,13,"Não Declarado(a)","MTN","Bolívia","F",6.8444,6.2,90,10
-23,12,"Indígena","MTN","Bolívia","M",6.7981,6.5,90,0
-18,14,"Branco(a)","MTN","Paraguai","F",4.451,0,90,50
-18,14,"Branco(a)","MTN","Paraguai","F",4.451,6,102,12
-18,4,"Branco(a)","MTN","Paraguai","M",5.7343,0.8,90,22
-21,7,"Não Declarado(a)","MTN","Colômbia","F",6.6355,0.3,90,20
-21,7,"Não Declarado(a)","MTN","Colômbia","F",6.6355,3.8,90,20
-21,7,"Não Declarado(a)","MTN","Colômbia","F",6.6355,8.3,90,0
-20,3,"Indígena","MTN","Equador","F",5.1667,0.1,90,22
-19,8,"Branco(a)","MTN","Paraguai","F",5.6388,0,90,32
-19,8,"Branco(a)","MTN","Paraguai","F",5.6388,0.2,90,14
-19,8,"Branco(a)","MTN","Paraguai","F",5.6388,6,102,6
-20,8,"Pardo(a)","MTN","Equador","M",5.6968,0,102,0
-20,8,"Pardo(a)","MTN","Equador","M",5.6968,0.6,102,0
-19,16,"Não Declarado(a)","MTN","Equador","F",6.052,0.5,90,10
-19,16,"Não Declarado(a)","MTN","Equador","F",6.052,6.2,90,0
-20,4,"Pardo(a)","MTN","Colômbia","F",7.7803,1.6,90,6
-22,6,"Não Declarado(a)","MTN","Colômbia","F",6.234,0.9,90,0
-34,18,"Preto(a)","MTN","Brasil","M",2.0228,0,102,38
-34,18,"Preto(a)","MTN","Brasil","M",2.0228,0,102,61
-34,18,"Preto(a)","MTN","Brasil","M",2.0228,0.1,102,56
-34,18,"Preto(a)","MTN","Brasil","M",2.0228,0.2,90,50
-34,14,"Pardo(a)","MTN","Brasil","F",2.2075,0,102,10
-34,14,"Pardo(a)","MTN","Brasil","F",2.2075,0,102,48
-19,13,"Pardo(a)","MTN","Paraguai","F",5.7608,0.3,90,24
-19,13,"Pardo(a)","MTN","Paraguai","F",5.7608,6,102,0
-18,11,"Branco(a)","MTN","Brasil","M",7.5498,5.2,90,2
-18,14,"Não Declarado(a)","MTN","Paraguai","F",5.9912,2,90,8
-18,14,"Não Declarado(a)","MTN","Paraguai","F",5.9912,5.7,102,26
-18,14,"Não Declarado(a)","MTN","Paraguai","F",5.9912,6,102,6
-20,17,"Pardo(a)","MTN","Colômbia","M",6.8381,2,90,6
-20,17,"Pardo(a)","MTN","Colômbia","M",6.8381,6.9,102,2
-18,18,"Branco(a)","MTN","Colômbia","M",6.7245,2.3,90,0
-18,18,"Branco(a)","MTN","Colômbia","M",6.7245,2.6,102,11
-18,18,"Branco(a)","MTN","Colômbia","M",6.7245,2.9,102,8
-18,18,"Branco(a)","MTN","Colômbia","M",6.7245,5,102,0
-18,18,"Branco(a)","MTN","Colômbia","M",6.7245,6.4,102,6
-18,15,"Branco(a)","MTN","Brasil","M",6.2975,2.1,90,0
-18,15,"Branco(a)","MTN","Brasil","M",6.2975,6.1,102,12
-20,14,"Branco(a)","MTN","Paraguai","F",3.1279,0,102,52
-20,14,"Branco(a)","MTN","Paraguai","F",3.1279,0.6,102,0
-21,6,"Pardo(a)","MTN","Bolívia","M",6.4797,1.2,90,22
-19,5,"Branco(a)","MTN","Brasil","F",5.0281,0,102,76
-19,5,"Branco(a)","MTN","Brasil","F",5.0281,0.3,90,36
-21,15,"Branco(a)","MTN","Brasil","M",5.4742,7.1,90,0
-18,7,"Pardo(a)","MTN","Brasil","M",6.3634,0.4,90,42
-18,7,"Pardo(a)","MTN","Brasil","M",6.3634,1.6,102,23
-21,11,"Branco(a)","MTN","Brasil","M",6.39,6.2,90,10
-19,8,"Branco(a)","MTN","Brasil","M",6.6523,3,90,16
-19,8,"Branco(a)","MTN","Brasil","M",6.6523,4.3,90,26
-19,8,"Branco(a)","MTN","Brasil","M",6.6523,7.7,102,20
-18,6,"Branco(a)","MTN","Brasil","F",6.004,1.8,102,0
-17,15,"Branco(a)","MTN","Brasil","M",8.2806,7.5,90,2
-17,15,"Branco(a)","MTN","Brasil","M",7.537,7,102,4
-18,9,"Branco(a)","MTN","Brasil","F",5.2207,0,102,25
-18,9,"Branco(a)","MTN","Brasil","F",5.2207,0,102,94
-18,5,"Pardo(a)","MTN","Brasil","M",4.8434,0,102,25
-17,10,"Branco(a)","MTN","Brasil","M",7.5338,7,102,8
-17,16,"Branco(a)","MTN","Brasil","M",7.4445,3.9,90,4
-17,16,"Branco(a)","MTN","Brasil","M",7.4445,7.6,102,14
-20,8,"Branco(a)","MTN","Brasil","F",5.1759,0.5,102,0
-20,8,"Branco(a)","MTN","Brasil","F",5.1759,1,102,15
-20,8,"Branco(a)","MTN","Brasil","F",5.1759,1.2,102,20
-20,8,"Branco(a)","MTN","Brasil","F",5.1759,1.8,102,2
-20,11,"Branco(a)","MTN","Brasil","M",0.3842,0,102,94
-33,5,"Pardo(a)","MTN","Brasil","M",5.4896,3.9,90,16
-33,5,"Pardo(a)","MTN","Brasil","M",5.4896,6.5,102,20
-20,11,"Pardo(a)","MTN","Brasil","M",6.0045,1.1,102,0
-20,11,"Pardo(a)","MTN","Brasil","M",6.0045,2.4,90,18
-20,11,"Pardo(a)","MTN","Brasil","M",6.0045,4.5,102,0
-20,11,"Pardo(a)","MTN","Brasil","M",6.0045,6.3,102,11
-18,10,"Pardo(a)","MTN","Brasil","M",7.9341,9.4,90,18
-18,18,"Preto(a)","MTN","Brasil","M",7.0471,7.7,90,2
-19,12,"Branco(a)","MTN","Brasil","F",5.0769,6.1,102,0
-18,14,"Pardo(a)","MTN","Brasil","M",7.259,6.5,90,4
-18,6,"Pardo(a)","MTN","Brasil","M",5.4595,6.5,102,8
-23,13,"Branco(a)","MTN","Brasil","M",6.8774,6,102,0
-18,17,"Branco(a)","MTN","Brasil","F",7.1454,6.8,102,6
-21,14,"Branco(a)","MTN","Brasil","F",7.0063,0.8,90,48
-21,14,"Branco(a)","MTN","Brasil","F",7.0063,5.5,102,0
-21,14,"Branco(a)","MTN","Brasil","F",7.0063,6.7,102,18
-18,17,"Branco(a)","MTN","Brasil","F",6.5338,1,102,0
-18,17,"Branco(a)","MTN","Brasil","F",6.5338,4.6,102,0
-18,17,"Branco(a)","MTN","Brasil","F",6.5338,6.6,102,11
-18,8,"Pardo(a)","MTN","Brasil","F",3.5825,1.2,102,48
-17,15,"Branco(a)","MTN","Brasil","F",7.1872,6.4,102,0
-20,10,"Branco(a)","MTN","Brasil","M",5.4852,0.4,102,22
-20,10,"Branco(a)","MTN","Brasil","M",5.4852,1.7,102,0
-20,10,"Branco(a)","MTN","Brasil","M",5.4852,3.4,102,10
-20,10,"Branco(a)","MTN","Brasil","M",5.4852,5,102,2
-18,7,"Branco(a)","MTN","Brasil","M",6.7102,4.2,90,2
-18,7,"Branco(a)","MTN","Brasil","M",6.7102,6.4,102,6
-18,5,"Branco(a)","MTN","Brasil","F",5.7299,0.2,90,48
-18,5,"Branco(a)","MTN","Brasil","F",5.7299,2,102,26
-18,13,"Branco(a)","MTN","Brasil","F",6.6832,0.4,102,22
-18,13,"Branco(a)","MTN","Brasil","F",6.6832,1.1,102,0
-18,13,"Branco(a)","MTN","Brasil","F",6.6832,1.2,102,32
-18,13,"Branco(a)","MTN","Brasil","F",6.6832,1.6,102,0
-18,13,"Branco(a)","MTN","Brasil","F",6.6832,2.1,102,21
-18,13,"Branco(a)","MTN","Brasil","F",6.6832,3.1,102,6
-18,13,"Branco(a)","MTN","Brasil","F",6.6832,3.5,102,20
-18,13,"Branco(a)","MTN","Brasil","F",6.6832,3.6,102,22
-18,6,"Pardo(a)","MTN","Brasil","F",5.4746,0.8,102,0
-18,6,"Pardo(a)","MTN","Brasil","F",5.4746,2.2,102,13
-18,6,"Pardo(a)","MTN","Brasil","F",5.4746,2.4,102,22
-19,15,"Pardo(a)","MTN","Brasil","M",5.9356,0.1,102,0
-19,15,"Pardo(a)","MTN","Brasil","M",5.9356,3.4,102,8
-19,15,"Pardo(a)","MTN","Brasil","M",5.9356,4.1,102,0
-19,15,"Pardo(a)","MTN","Brasil","M",5.9356,4.6,102,16
-19,15,"Pardo(a)","MTN","Brasil","M",5.9356,6.8,102,10
-18,6,"Branco(a)","MTN","Brasil","F",6.5739,6.2,102,8
-24,11,"Branco(a)","MTN","Brasil","F",4.3898,0.3,102,24
-24,11,"Branco(a)","MTN","Brasil","F",4.3898,0.7,102,18
-24,11,"Branco(a)","MTN","Brasil","F",4.3898,1.6,102,0
-17,16,"Branco(a)","MTN","Brasil","M",6.5538,0,102,43
-17,16,"Branco(a)","MTN","Brasil","M",6.5538,0.2,102,20
-17,16,"Branco(a)","MTN","Brasil","M",6.5538,0.9,102,16
-17,16,"Branco(a)","MTN","Brasil","M",6.5538,3.6,102,22
-17,16,"Branco(a)","MTN","Brasil","M",6.5538,7.1,102,8
-18,12,"Branco(a)","MTN","Brasil","F",5.5496,0,102,0
-18,12,"Branco(a)","MTN","Brasil","F",5.5496,0.2,102,35
-18,12,"Branco(a)","MTN","Brasil","F",5.5496,0.3,102,38
-17,5,"Branco(a)","MTN","Brasil","F",4.5379,0,102,75
-18,12,"Pardo(a)","MTN","Brasil","M",4.2718,0.4,102,0
-24,12,"Pardo(a)","MTN","Brasil","F",5.0986,1.9,102,28
-24,12,"Pardo(a)","MTN","Brasil","F",5.0986,3.7,102,10
-18,5,"Branco(a)","MTN","Brasil","M",6.3912,3.4,102,17
-19,17,"Branco(a)","MTN","Brasil","F",4.5226,6.4,102,10
-17,7,"Branco(a)","MTN","Brasil","F",5.994,1.4,102,20
-17,7,"Branco(a)","MTN","Brasil","F",5.994,6,102,13
-28,8,"Preto(a)","MTN","Haiti","M",2.7564,0,102,88
-28,8,"Preto(a)","MTN","Haiti","M",2.7564,0.7,102,10
-28,8,"Preto(a)","MTN","Haiti","M",2.7564,1.1,102,0
-17,5,"Branco(a)","MTN","Brasil","F",5.7096,0.5,102,0
-17,5,"Branco(a)","MTN","Brasil","F",5.7096,2.1,102,22
-17,5,"Branco(a)","MTN","Brasil","F",5.7096,2.7,90,16
-17,11,"Branco(a)","MTN","Brasil","M",5.356,4.6,102,0
-20,19,"Pardo(a)","N","Paraguai","F",6.6412,0.7,102,22
-25,15,"Preto(a)","MTN","Haiti","M",5.787,7.4,90,0
-17,5,"Branco(a)","MTN","Brasil","M",5.2029,0,102,27
-28,7,"Pardo(a)","MTN","Brasil","F",4.2433,0,102,37
-28,7,"Pardo(a)","MTN","Brasil","F",4.2433,5,102,0
-18,19,"Branco(a)","MTN","Paraguai","F",7.6343,8.3,102,0
-18,7,"Pardo(a)","MTN","Chile","M",5.7921,0.5,102,8
-18,7,"Pardo(a)","MTN","Chile","M",5.7921,0.6,102,12
-18,7,"Pardo(a)","MTN","Chile","M",5.7921,1.5,102,0
-18,7,"Pardo(a)","MTN","Chile","M",5.7921,1.8,102,0
-18,15,"Não Declarado(a)","N","Paraguai","F",6.8256,0,102,20
-20,17,"Branco(a)","MTN","Paraguai","M",2.1802,0,102,38
-20,17,"Branco(a)","MTN","Paraguai","M",2.1802,0,102,76
-23,13,"Preto(a)","MTN","Haiti","M",4.7634,1.1,102,10
-23,13,"Preto(a)","MTN","Haiti","M",4.7634,3.8,102,0
-19,13,"Não Declarado(a)","MTN","Peru","F",6.9955,6.4,90,8
-22,5,"Preto(a)","MTN","Haiti","F",4.0221,0,102,0
-18,6,"Pardo(a)","MTN","Chile","F",5.4919,1,102,0
-16,14,"Não Declarado(a)","MTN","Paraguai","F",7.2931,6,90,2
-19,13,"Pardo(a)","MTN","El Salvador","M",7.7505,8.3,90,16
-19,16,"Branco(a)","MTN","Chile","M",6.3373,0.2,102,0
-19,16,"Branco(a)","MTN","Chile","M",6.3373,0.5,102,0
-19,16,"Branco(a)","MTN","Chile","M",6.3373,1.3,102,21
-19,16,"Branco(a)","MTN","Chile","M",6.3373,6,102,16
-18,7,"Branco(a)","MTN","Paraguai","F",5.8214,0.7,102,9
-18,7,"Branco(a)","MTN","Paraguai","F",5.8214,2.1,102,0
-18,7,"Branco(a)","MTN","Paraguai","F",5.8214,4.8,102,0
-25,11,"Preto(a)","MTN","Brasil","M",5.2188,0,102,86
-25,11,"Preto(a)","MTN","Brasil","M",5.2188,0.5,102,0
-25,11,"Preto(a)","MTN","Brasil","M",5.2188,1.7,102,24
-21,16,"Branco(a)","MTN","Chile","M",7.0368,6.4,90,8
-18,15,"Branco(a)","MTN","Paraguai","F",7.8276,9.3,90,8
-22,18,"Pardo(a)","MTN","Equador","M",6.8991,4.6,102,0
-22,18,"Pardo(a)","MTN","Equador","M",6.8991,6,102,0
-17,15,"Branco(a)","MTN","Paraguai","F",5.618,0.5,102,10
-17,15,"Branco(a)","MTN","Paraguai","F",5.618,0.6,102,18
-17,15,"Branco(a)","MTN","Paraguai","F",5.618,0.6,102,22
-17,15,"Branco(a)","MTN","Paraguai","F",5.618,2.4,102,22
-17,15,"Branco(a)","MTN","Paraguai","F",5.618,4.4,102,0
-22,5,"Preto(a)","MTN","Haiti","M",5.8363,1.9,90,20
-22,5,"Preto(a)","MTN","Haiti","M",5.8363,6,102,0
-27,4,"Preto(a)","MTN","Haiti","M",4.7276,0.6,90,12
-18,13,"Não Declarado(a)","MTN","Paraguai","M",4.7215,0.6,102,24
-18,13,"Não Declarado(a)","MTN","Paraguai","M",4.7215,1.7,102,18
-18,13,"Não Declarado(a)","MTN","Paraguai","M",4.7215,2.3,102,2
-25,15,"Preto(a)","MTN","Haiti","M",6.472,8.1,102,12
-18,7,"Branco(a)","MTN","Paraguai","F",5.1816,0,102,68
-18,8,"Não Declarado(a)","MTN","Brasil","M",4.9384,0.8,102,12
-18,8,"Não Declarado(a)","MTN","Brasil","M",4.9384,6,102,8
-17,11,"Branco(a)","MTN","Paraguai","F",4.5537,0.5,102,0
-17,11,"Branco(a)","MTN","Paraguai","F",4.5537,6,102,2
-30,12,"Preto(a)","MTN","Haiti","M",5.0117,2.2,102,0
-30,12,"Preto(a)","MTN","Haiti","M",5.0117,6.4,102,4
-18,9,"Não Declarado(a)","MTN","Paraguai","F",6.4856,0.3,102,0
-21,6,"Pardo(a)","MTN","Chile","M",4.4356,0.3,102,0
-21,6,"Pardo(a)","MTN","Chile","M",4.4356,0.4,90,34
-21,6,"Pardo(a)","MTN","Chile","M",4.4356,0.5,102,0
-20,12,"Branco(a)","MTN","Paraguai","M",3.4987,0,90,62
-20,12,"Branco(a)","MTN","Paraguai","M",3.4987,0,102,6
-20,12,"Branco(a)","MTN","Paraguai","M",3.4987,0.2,102,0
-20,12,"Branco(a)","MTN","Paraguai","M",3.4987,4.1,102,0
-20,12,"Branco(a)","MTN","Paraguai","M",3.4987,5.6,102,12
-20,12,"Pardo(a)","MTN","Paraguai","M",4.3044,6.5,102,2
-18,17,"Não Declarado(a)","MTN","Peru","M",5.3123,6.4,90,26
-18,11,"Não Declarado(a)","MTN","Chile","F",5.6444,0.8,102,18
-26,13,"Preto(a)","MTN","Haiti","M",5.372,0,102,66
-26,13,"Preto(a)","MTN","Haiti","M",5.372,2.7,102,0
-26,13,"Preto(a)","MTN","Haiti","M",5.372,3,102,11
-25,14,"Preto(a)","MTN","Haiti","M",6.6433,7.8,102,2
-28,7,"Preto(a)","MTN","Haiti","M",5.5304,6,102,4
-25,13,"Preto(a)","MTN","Haiti","M",6.9952,6.4,102,2
-25,7,"Preto(a)","MTN","Haiti","M",4.7185,2.9,102,6
-25,7,"Preto(a)","MTN","Haiti","M",4.7185,5.2,102,0
-18,19,"Branco(a)","MTN","Paraguai","F",6.6876,6.8,102,20
-17,15,"Não Declarado(a)","MTN","Paraguai","F",5.9538,0.5,90,28
-17,15,"Não Declarado(a)","MTN","Paraguai","F",5.9538,3.1,102,6
-17,15,"Não Declarado(a)","MTN","Paraguai","F",5.9538,4.9,102,0
-17,15,"Não Declarado(a)","MTN","Paraguai","F",5.9538,6,102,0
-21,16,"Indígena","MTN","Equador","M",2.3583,0,102,10
-21,16,"Indígena","MTN","Equador","M",2.3583,0,102,20
-21,16,"Indígena","MTN","Equador","M",2.3583,0.1,102,0
-21,16,"Indígena","MTN","Equador","M",2.3583,0.3,102,20
-21,16,"Indígena","MTN","Equador","M",2.3583,0.7,102,48
-18,12,"Pardo(a)","MTN","Paraguai","F",6.2492,0.3,102,40
-21,18,"Pardo(a)","MTN","Equador","F",7.1379,1.9,90,22
-21,18,"Pardo(a)","MTN","Equador","F",7.1379,6,102,10
-24,5,"Preto(a)","MTN","Haiti","M",4.3948,3.2,102,0
-25,14,"Indígena","MTN","Equador","M",4.4644,3,102,4
-18,7,"Pardo(a)","MTN","Paraguai","M",3.5985,0.1,102,0
-18,7,"Pardo(a)","MTN","Paraguai","M",3.5985,0.2,90,30
-18,15,"Não Declarado(a)","MTN","Paraguai","M",7.7173,6.4,90,4
-18,17,"Branco(a)","MTN","Paraguai","F",4.2974,0.1,102,30
-18,17,"Branco(a)","MTN","Paraguai","F",4.2974,1.5,102,10
-18,17,"Branco(a)","MTN","Paraguai","F",4.2974,1.8,102,16
-18,17,"Branco(a)","MTN","Paraguai","F",4.2974,3.2,102,2
-18,17,"Branco(a)","MTN","Paraguai","F",4.2974,5,102,24
-36,5,"Preto(a)","MTN","Brasil","M",5.2893,4.2,102,0
-18,5,"Branco(a)","MTN","Paraguai","M",4.2269,0.1,102,0
-17,12,"Indígena","MTN","Peru","F",3.8765,0.3,102,14
-17,12,"Indígena","MTN","Peru","F",3.8765,0.5,102,0
-17,12,"Indígena","MTN","Peru","F",3.8765,0.8,102,10
-17,12,"Indígena","MTN","Peru","F",3.8765,0.8,102,18
-17,12,"Indígena","MTN","Peru","F",3.8765,4,102,14
-18,7,"Branco(a)","MTN","Brasil","M",2.5682,0.2,102,0
-24,5,"Preto(a)","MTN","Haiti","M",3.8557,0,102,78
-18,14,"Branco(a)","MTN","Paraguai","F",7.0721,4.1,102,0
-18,14,"Branco(a)","MTN","Paraguai","F",7.0721,6.1,102,0
-17,12,"Branco(a)","MTN","Brasil","M",6.3775,0.7,102,34
-17,12,"Branco(a)","MTN","Brasil","M",6.3775,0.8,90,22
-17,12,"Branco(a)","MTN","Brasil","M",6.3775,6.8,102,0
-17,15,"Pardo(a)","MTN","Brasil","F",6.5049,1,90,42
-17,15,"Pardo(a)","MTN","Brasil","F",6.5049,6.1,102,0
-17,5,"Branco(a)","MTN","Brasil","M",5.4212,0.8,102,28
-17,15,"Branco(a)","MTN","Brasil","F",7.9581,6.1,90,0
-17,16,"Branco(a)","MTN","Brasil","M",7.7024,6.3,90,2
-17,6,"Branco(a)","MTN","Brasil","M",6.2872,6.9,90,14
-18,9,"Pardo(a)","MTN","Bolívia","F",6.6105,0.3,90,6
-18,16,"Pardo(a)","MTN","Bolívia","F",6.7297,8.4,102,4
-22,7,"Indígena","MTN","Bolívia","M",2.0168,0,102,36
-17,12,"Branco(a)","MTN","Brasil","M",5.1092,6,90,10
-18,15,"Branco(a)","MTN","Brasil","F",7.9098,7.3,90,6
-20,14,"Branco(a)","MTN","Chile","M",6.8747,3.7,102,8
-20,14,"Branco(a)","MTN","Chile","M",6.8747,4,102,21
-18,10,"Não Declarado(a)","MTN","Equador","F",8.0666,8.2,90,0
-18,7,"Indígena","MTN","Bolívia","M",4.9618,0.7,102,6
-18,13,"Não Declarado(a)","MTN","Colômbia","M",7.2312,0.4,90,16
-18,13,"Não Declarado(a)","MTN","Colômbia","M",7.2312,2,102,0
-18,13,"Não Declarado(a)","MTN","Colômbia","M",7.2312,6.7,102,8
-20,16,"Indígena","MTN","El Salvador","F",7.8849,8.1,102,2
-32,8,"Preto(a)","MTN","Brasil","M",5.6688,0.6,102,0
-32,8,"Preto(a)","MTN","Brasil","M",5.6688,1.1,102,0
-32,8,"Preto(a)","MTN","Brasil","M",5.6688,2.1,102,8
-32,8,"Preto(a)","MTN","Brasil","M",5.6688,6,102,20
-17,6,"Branco(a)","MTN","Brasil","M",2.2634,0,102,28
-17,6,"Branco(a)","MTN","Brasil","M",2.2634,0,102,74
-21,3,"Branco(a)","MTN","Brasil","M",1.3944,0,102,76
-21,3,"Branco(a)","MTN","Brasil","M",1.3944,0.2,90,40
-20,4,"Branco(a)","MTN","Brasil","M",4.2629,0.6,102,58
-36,11,"Branco(a)","MTN","Brasil","M",4.0278,0,102,0
-36,11,"Branco(a)","MTN","Brasil","M",4.0278,0,102,42
-36,11,"Branco(a)","MTN","Brasil","M",4.0278,1.2,102,10
-36,11,"Branco(a)","MTN","Brasil","M",4.0278,1.2,102,12
-36,11,"Branco(a)","MTN","Brasil","M",4.0278,1.3,102,31
-36,11,"Branco(a)","MTN","Brasil","M",4.0278,2.9,102,8
-23,3,"Pardo(a)","MTN","Brasil","F",4.1303,0,102,66
-29,6,"Pardo(a)","MTN","Brasil","F",4.0702,0,102,0
-29,6,"Pardo(a)","MTN","Brasil","F",4.0702,0,102,52
-29,6,"Pardo(a)","MTN","Brasil","F",4.0702,0.3,102,0
-29,6,"Pardo(a)","MTN","Brasil","F",4.0702,0.5,90,4
-18,13,"Preto(a)","MTN","Brasil","M",4.9061,0.3,102,16
-18,13,"Preto(a)","MTN","Brasil","M",4.9061,0.7,102,0
-18,13,"Preto(a)","MTN","Brasil","M",4.9061,1,102,48
-18,13,"Preto(a)","MTN","Brasil","M",4.9061,2.2,102,8
-18,13,"Preto(a)","MTN","Brasil","M",4.9061,4,102,2
-21,4,"Branco(a)","MTN","Brasil","F",3.9016,0.1,102,0
-21,4,"Branco(a)","MTN","Brasil","F",3.9016,0.2,90,52
-21,4,"Branco(a)","MTN","Brasil","F",3.9016,0.6,102,50
-35,3,"Branco(a)","MTN","Brasil","M",5.0736,0,90,24
-20,12,"Não Declarado(a)","MTN","Argentina","F",5.7422,0.9,102,0
-20,12,"Não Declarado(a)","MTN","Argentina","F",5.7422,2.7,102,0
-20,12,"Não Declarado(a)","MTN","Argentina","F",5.7422,3.2,102,0
-20,12,"Não Declarado(a)","MTN","Argentina","F",5.7422,4.2,102,2
-18,15,"Branco(a)","MTN","Brasil","F",6.6423,0.3,102,0
-18,15,"Branco(a)","MTN","Brasil","F",6.6423,4.8,102,14
-18,15,"Branco(a)","MTN","Brasil","F",6.6423,6.6,102,6
-17,17,"Pardo(a)","MTN","Brasil","M",8.0645,6.8,102,0
-18,5,"Branco(a)","MTN","Brasil","M",6.4864,6.2,102,0
-17,15,"Pardo(a)","MTN","Brasil","F",7.2955,4.6,102,0
-17,15,"Pardo(a)","MTN","Brasil","F",7.2955,6,102,15
-19,12,"Não Declarado(a)","MTN","Brasil","M",7.2085,6.9,102,0
-17,11,"Branco(a)","MTN","Brasil","M",7.9608,7.4,102,0
-17,16,"Pardo(a)","MTN","Brasil","M",7.8287,6.1,102,0
-17,9,"Branco(a)","MTN","Brasil","M",7.3568,6,102,0
-16,12,"Branco(a)","MTN","Brasil","M",7.6503,5.4,102,0
-16,12,"Branco(a)","MTN","Brasil","M",7.6503,6.7,102,4
-17,13,"Branco(a)","MTN","Brasil","M",7.6106,3.7,102,0
-17,13,"Branco(a)","MTN","Brasil","M",7.6106,6.8,102,10
-17,13,"Branco(a)","MTN","Brasil","M",7.3182,1.3,102,0
-17,13,"Branco(a)","MTN","Brasil","M",7.3182,6.9,102,18
-17,15,"Branco(a)","MTN","Brasil","F",6.5269,4,102,18
-17,15,"Branco(a)","MTN","Brasil","F",6.5269,6.6,102,16
-21,17,"Branco(a)","MTN","Brasil","M",8.0705,3.5,102,0
-21,17,"Branco(a)","MTN","Brasil","M",8.0705,7,102,25
-18,15,"Branco(a)","MTN","Brasil","F",7.0439,6,102,15
-19,11,"Preto(a)","MTN","Brasil","F",6.6636,0.6,102,0
-19,11,"Preto(a)","MTN","Brasil","F",6.6636,1.1,102,6
-19,11,"Preto(a)","MTN","Brasil","F",6.6636,2.4,102,0
-19,11,"Preto(a)","MTN","Brasil","F",6.6636,6,102,10
-17,15,"Pardo(a)","MTN","Brasil","M",5.7325,0.5,102,0
-17,15,"Pardo(a)","MTN","Brasil","M",5.7325,1.9,102,0
-17,15,"Pardo(a)","MTN","Brasil","M",5.7325,5.1,102,18
-17,15,"Pardo(a)","MTN","Brasil","M",5.7325,6,102,4
-18,6,"Branco(a)","MTN","Brasil","F",5.4458,3,102,0
-18,6,"Branco(a)","MTN","Brasil","F",5.4458,6.2,102,0
-17,17,"Pardo(a)","MTN","Brasil","M",7.6722,6.6,102,0
-24,7,"Branco(a)","MTN","Brasil","M",5.7759,1.6,102,10
-24,7,"Branco(a)","MTN","Brasil","M",5.7759,4.8,102,10
-24,7,"Branco(a)","MTN","Brasil","M",5.7759,8,102,4
-17,11,"Pardo(a)","MTN","Brasil","M",8.3021,8.1,102,0
-17,15,"Branco(a)","MTN","Brasil","M",7.555,0.3,102,0
-17,15,"Branco(a)","MTN","Brasil","M",7.555,7.3,102,16
-17,10,"Branco(a)","MTN","Brasil","M",6.7289,6.4,102,0
-18,9,"Não Declarado(a)","MTN","Brasil","M",4.3495,1.7,102,12
-18,9,"Pardo(a)","MTN","Brasil","M",2.2771,0,102,32
-19,6,"Amarelo(a)","MTN","Brasil","M",3.0925,0,102,0
-19,6,"Amarelo(a)","MTN","Brasil","M",3.0925,0,102,82
-19,6,"Amarelo(a)","MTN","Brasil","M",3.0925,0.4,102,26
-26,9,"Preto(a)","MTN","Brasil","M",1.7747,0,102,22
-23,10,"Branco(a)","MTN","Brasil","M",5.005,2.6,102,16
-23,10,"Branco(a)","MTN","Brasil","M",5.005,2.9,102,22
-23,10,"Branco(a)","MTN","Brasil","M",5.005,3.6,102,20
-23,10,"Branco(a)","MTN","Brasil","M",5.005,7.1,102,22
-19,5,"Branco(a)","MTN","Brasil","F",4.0864,0,102,0
-19,5,"Branco(a)","MTN","Brasil","F",4.0864,3.1,102,0
-19,5,"Branco(a)","MTN","Brasil","F",4.0864,3.2,102,10
-19,9,"Branco(a)","MTN","Brasil","M",5.3812,0.2,102,10
-19,9,"Branco(a)","MTN","Brasil","M",5.3812,1.2,102,52
-19,9,"Branco(a)","MTN","Brasil","M",5.3812,3,102,58
-19,9,"Branco(a)","MTN","Brasil","M",5.3812,3.6,102,20
-18,7,"Branco(a)","MTN","Brasil","F",6.0519,6.5,102,0
-24,7,"Não Declarado(a)","MTN","Brasil","M",3.62,0.1,102,10
-24,7,"Não Declarado(a)","MTN","Brasil","M",3.62,1.2,102,49
-24,7,"Não Declarado(a)","MTN","Brasil","M",3.62,1.3,102,24
-17,11,"Branco(a)","MTN","Brasil","F",7.0378,3.2,102,0
-17,11,"Branco(a)","MTN","Brasil","F",7.0378,7.2,102,10
-22,3,"Branco(a)","MTN","Brasil","F",5.0448,1.6,102,37
-18,9,"Branco(a)","MTN","Brasil","M",5.2746,0.3,102,8
-18,9,"Branco(a)","MTN","Brasil","M",5.2746,3.8,102,10
-18,9,"Branco(a)","MTN","Brasil","M",5.2746,5.6,102,20
-18,9,"Branco(a)","MTN","Brasil","M",5.2746,6.9,102,18
-19,12,"Branco(a)","MTN","Brasil","M",6.0323,0.1,102,0
-19,12,"Branco(a)","MTN","Brasil","M",6.0323,1.1,102,0
-19,12,"Branco(a)","MTN","Brasil","M",6.0323,1.4,102,6
-19,12,"Branco(a)","MTN","Brasil","M",6.0323,4.5,102,4
-19,12,"Branco(a)","MTN","Brasil","M",6.0323,6,102,10
-17,4,"Pardo(a)","MTN","Brasil","M",4.1865,0.1,102,0
-17,13,"Pardo(a)","MTN","Brasil","M",7.1573,4.8,102,0
-17,13,"Pardo(a)","MTN","Brasil","M",7.1573,6.6,102,0
-18,14,"Branco(a)","MTN","Brasil","F",2.6369,0,102,12
-18,14,"Branco(a)","MTN","Brasil","F",2.6369,1.3,102,22
-18,14,"Branco(a)","MTN","Brasil","F",2.6369,2.8,102,70
-17,5,"Branco(a)","MTN","Brasil","F",3.9824,0.1,102,12
-18,14,"Branco(a)","MTN","Brasil","M",6.7572,0.5,102,0
-18,14,"Branco(a)","MTN","Brasil","M",6.7572,2.4,102,0
-18,14,"Branco(a)","MTN","Brasil","M",6.7572,4.3,102,24
-18,14,"Branco(a)","MTN","Brasil","M",6.7572,5.4,102,12
-18,14,"Branco(a)","MTN","Brasil","M",6.7572,6.9,102,0
-18,7,"Branco(a)","MTN","Brasil","F",5.8112,6,102,13
-19,7,"Pardo(a)","MTN","Brasil","M",5.4039,6,102,0
-18,3,"Pardo(a)","MTN","Brasil","M",7.1314,3.7,102,0
-17,5,"Branco(a)","MTN","Brasil","F",4.6491,0.1,102,28
-17,5,"Branco(a)","MTN","Brasil","F",4.6491,2.7,102,0
-26,9,"Branco(a)","MTN","Brasil","M",3.1989,0,102,26
-26,9,"Branco(a)","MTN","Brasil","M",3.1989,0,102,72
-26,9,"Branco(a)","MTN","Brasil","M",3.1989,0,102,76
-17,9,"Pardo(a)","MTN","Brasil","F",5.2075,1.6,102,6
-17,9,"Pardo(a)","MTN","Brasil","F",5.2075,3.1,102,4
-17,9,"Pardo(a)","MTN","Brasil","F",5.2075,3.8,102,40
-19,10,"Pardo(a)","MTN","Brasil","M",1.5893,0,102,84
-17,5,"Branco(a)","MTN","Brasil","M",4.3146,0,102,0
-17,5,"Branco(a)","MTN","Brasil","M",4.3146,3.7,102,26
-18,5,"Pardo(a)","MTN","Brasil","M",3.055,1,102,25
-24,6,"Branco(a)","MTN","Brasil","F",5.3611,0.5,102,6
-17,14,"Branco(a)","MTN","Brasil","M",7.18,1.7,102,0
-17,14,"Branco(a)","MTN","Brasil","M",7.18,2.2,102,22
-17,14,"Branco(a)","MTN","Brasil","M",7.18,7.6,102,10
-18,6,"Branco(a)","MTN","Brasil","M",3.583,0,102,0
-17,11,"Branco(a)","MTN","Brasil","M",7.7416,6.1,102,0
-17,14,"Branco(a)","MTN","Paraguai","M",8.354,8.6,102,0
-19,14,"Branco(a)","MTN","Paraguai","M",7.1892,2.5,102,0
-19,14,"Branco(a)","MTN","Paraguai","M",7.1892,4.4,102,0
-19,14,"Branco(a)","MTN","Paraguai","M",7.1892,6.5,102,2
-18,12,"Branco(a)","MTN","Paraguai","F",7.8557,6.3,102,0
-18,15,"Branco(a)","MTN","Paraguai","M",6.0053,4.6,102,15
-18,15,"Branco(a)","MTN","Paraguai","M",6.0053,5.2,102,4
-18,9,"Branco(a)","MTN","Paraguai","M",3.9729,0.1,102,36
-18,9,"Branco(a)","MTN","Paraguai","M",3.9729,4.8,102,8
-17,12,"Branco(a)","MTN","Paraguai","F",8.0819,7,102,0
-20,5,"Não Declarado(a)","MTN","Paraguai","F",4.4339,1,102,28
-18,15,"Pardo(a)","MTN","Paraguai","M",3.2853,2.5,102,0
-18,15,"Pardo(a)","MTN","Paraguai","M",3.2853,5.3,102,25
-18,15,"Pardo(a)","MTN","Paraguai","M",3.2853,6,102,28
-19,14,"Branco(a)","MTN","Paraguai","F",5.5182,0,102,8
-19,14,"Branco(a)","MTN","Paraguai","F",5.5182,0,102,26
-19,14,"Branco(a)","MTN","Paraguai","F",5.5182,0.7,102,20
-19,11,"Branco(a)","MTN","Paraguai","M",2.5897,1.5,102,77
-19,14,"Branco(a)","MTN","Argentina","M",7.281,1.6,102,0
-19,14,"Branco(a)","MTN","Argentina","M",7.281,2.7,102,0
-19,14,"Branco(a)","MTN","Argentina","M",7.281,6,102,2
-18,14,"Branco(a)","MTN","Paraguai","M",7.2058,4.3,102,15
-18,14,"Branco(a)","MTN","Paraguai","M",7.2058,6,102,2
-17,10,"Branco(a)","MTN","Paraguai","F",4.6372,0.6,102,8
-17,10,"Branco(a)","MTN","Paraguai","F",4.6372,0.7,102,4
-17,10,"Branco(a)","MTN","Paraguai","F",4.6372,2.9,102,0
-18,12,"Não Declarado(a)","MTN","Paraguai","F",7.8868,6.1,102,0
-17,16,"Pardo(a)","MTN","Paraguai","F",7.2493,1.2,102,0
-17,16,"Pardo(a)","MTN","Paraguai","F",7.2493,4.4,102,2
-17,16,"Pardo(a)","MTN","Paraguai","F",7.2493,6,102,0
-18,9,"Branco(a)","MTN","Paraguai","M",4.4639,0,102,10
-22,12,"Preto(a)","MTN","Brasil","M",7.4868,7.2,102,0
-18,15,"Indígena","MTN","Peru","M",5.705,1.1,102,16
-18,15,"Indígena","MTN","Peru","M",5.705,6,102,16
-17,5,"Branco(a)","MTN","Paraguai","M",3.5431,0.4,102,72
-18,13,"Branco(a)","MTN","Paraguai","M",7.0547,6.1,102,0
-18,15,"Pardo(a)","MTN","Panamá","M",5.8427,1.4,102,0
-18,15,"Pardo(a)","MTN","Panamá","M",5.8427,6.6,102,4
-18,13,"Pardo(a)","MTN","Paraguai","M",4.7823,1.8,102,0
-18,13,"Pardo(a)","MTN","Paraguai","M",4.7823,4.7,102,25
-18,13,"Pardo(a)","MTN","Paraguai","M",4.7823,6,102,6
-18,8,"Pardo(a)","MTN","Paraguai","M",4.8809,0,102,0
-18,8,"Pardo(a)","MTN","Paraguai","M",4.8809,6.3,102,15
-21,15,"Indígena","MTN","Equador","M",6.7396,2.5,102,0
-21,15,"Indígena","MTN","Equador","M",6.7396,6,102,2
-19,14,"Pardo(a)","MTN","Bolívia","M",7.307,2.3,102,25
-19,14,"Pardo(a)","MTN","Bolívia","M",7.307,6,102,6
-18,13,"Branco(a)","MTN","Guatemala","M",7.8497,7.2,102,0
-19,7,"Não Declarado(a)","MTN","Peru","M",3.4883,6,102,25
-20,15,"Branco(a)","MTN","Paraguai","M",7.5357,9,102,0
-18,15,"Indígena","MTN","Equador","M",5.4256,4,102,0
-18,15,"Indígena","MTN","Equador","M",5.4256,6.2,102,0
-18,11,"Branco(a)","MTN","Paraguai","F",5.048,0.4,102,20
-18,11,"Branco(a)","MTN","Paraguai","F",5.048,0.7,102,6
-21,10,"Pardo(a)","MTN","Peru","M",3.1721,0,102,10
-21,10,"Pardo(a)","MTN","Peru","M",3.1721,0.7,102,54
-21,5,"Branco(a)","MTN","Brasil","F",6.55,7.1,102,12
-18,13,"Amarelo(a)","MTN","Paraguai","F",2.9657,0,102,0
-22,12,"Branco(a)","MTN","Paraguai","F",7.4705,7.3,102,0
-19,15,"Indígena","MTN","Peru","M",6.9154,5.8,102,30
-19,15,"Indígena","MTN","Peru","M",6.9154,7.2,102,0
-26,10,"Branco(a)","MTN","Colômbia","F",8.2852,2.7,102,0
-26,10,"Branco(a)","MTN","Colômbia","F",8.2852,7.5,102,0
-18,11,"Não Declarado(a)","MTN","Colômbia","F",7.0899,7.2,102,6
-18,11,"Não Declarado(a)","MTN","Paraguai","M",7.6597,6.7,102,0
-18,15,"Não Declarado(a)","MTN","Paraguai","M",7.1348,2.5,102,0
-18,15,"Não Declarado(a)","MTN","Paraguai","M",7.1348,7.8,102,0
-19,14,"Branco(a)","MTN","Paraguai","M",7.9284,8.5,102,0
-18,12,"Pardo(a)","MTN","Colômbia","M",7.3146,6.6,102,0
-21,13,"Branco(a)","MTN","Colômbia","F",7.81,8.5,102,0
-24,11,"Branco(a)","MTN","El Salvador","M",7.6636,7.9,102,0
-18,15,"Não Declarado(a)","MTN","Paraguai","F",7.0464,3.4,102,8
-18,15,"Não Declarado(a)","MTN","Paraguai","F",7.0464,4.9,102,6
-18,15,"Não Declarado(a)","MTN","Paraguai","F",7.0464,6,102,20
-18,15,"Branco(a)","MTN","Argentina","M",6.3964,0.5,102,32
-18,15,"Branco(a)","MTN","Argentina","M",6.3964,0.9,102,22
-17,15,"Não Declarado(a)","MTN","Paraguai","F",5.7507,1.9,102,10
-17,15,"Não Declarado(a)","MTN","Paraguai","F",5.7507,6,102,0
-29,8,"Pardo(a)","MTN","Brasil","F",6.3661,0.1,102,34
-29,8,"Pardo(a)","MTN","Brasil","F",6.3661,0.2,102,32
-29,8,"Pardo(a)","MTN","Brasil","F",6.3661,0.5,102,0
-26,13,"Pardo(a)","MTN","Brasil","M",5.1318,1.1,102,0
-26,13,"Pardo(a)","MTN","Brasil","M",5.1318,1.1,102,15
-26,13,"Pardo(a)","MTN","Brasil","M",5.1318,6,102,4
-18,12,"Não Declarado(a)","MTN","Colômbia","F",7.5838,6,102,0
-18,12,"Pardo(a)","MTN","Paraguai","M",3.541,0,102,28
-18,12,"Pardo(a)","MTN","Paraguai","M",3.541,0,102,42
-18,12,"Não Declarado(a)","MTN","Paraguai","F",4.1925,5.3,102,6
-18,7,"Não Declarado(a)","MTN","Paraguai","M",5.3127,1.8,102,0
-18,7,"Não Declarado(a)","MTN","Paraguai","M",5.3127,6.7,102,10
-19,12,"Pardo(a)","MTN","Brasil","M",7.807,3.7,102,0
-19,12,"Pardo(a)","MTN","Brasil","M",7.807,4.4,102,0
-19,12,"Pardo(a)","MTN","Brasil","M",7.807,6.4,102,21
-19,5,"Amarelo(a)","MTN","Brasil","F",4.651,0.5,102,0
-27,11,"Branco(a)","MTN","Brasil","M",4.7769,0.9,102,6
-18,5,"Branco(a)","MTN","Brasil","M",4.486,0,102,12
-17,9,"Branco(a)","MTN","Brasil","F",4.2108,3.3,102,8
-25,16,"Pardo(a)","MTN","Paraguai","M",4.3724,0.1,102,0
-25,16,"Pardo(a)","MTN","Paraguai","M",4.3724,0.3,102,6
-25,16,"Pardo(a)","MTN","Paraguai","M",4.3724,0.6,102,0
-25,16,"Pardo(a)","MTN","Paraguai","M",4.3724,1.2,102,8
-25,16,"Pardo(a)","MTN","Paraguai","M",4.3724,1.7,102,10
-25,16,"Pardo(a)","MTN","Paraguai","M",4.3724,2.5,102,14
-17,11,"Branco(a)","MTN","Brasil","M",3.7518,0,102,26
-17,11,"Branco(a)","MTN","Brasil","M",3.7518,0,102,58
-18,7,"Branco(a)","MTN","Brasil","F",5.5425,1.9,102,12
-18,7,"Branco(a)","MTN","Brasil","F",5.5425,4.1,102,15
-17,11,"Não Declarado(a)","MTN","Brasil","M",6.6746,1.6,102,0
-17,11,"Não Declarado(a)","MTN","Brasil","M",6.6746,3,102,0
-17,11,"Não Declarado(a)","MTN","Brasil","M",6.6746,6.6,102,18
-18,10,"Pardo(a)","MTN","Brasil","F",3.6233,0,102,12
-18,10,"Pardo(a)","MTN","Brasil","F",3.6233,0.3,102,46
-17,12,"Branco(a)","MTN","Brasil","M",8.1132,0,102,0
-17,12,"Branco(a)","MTN","Brasil","M",8.1132,6,102,11
-18,9,"Branco(a)","MTN","Brasil","F",3.4579,0,102,6
-18,9,"Branco(a)","MTN","Brasil","F",3.4579,0,102,76
-18,9,"Branco(a)","MTN","Brasil","F",3.4579,0.1,102,0
-18,9,"Branco(a)","MTN","Brasil","F",3.4579,0.5,102,10
-19,8,"Branco(a)","MTN","Brasil","F",6.3593,1.5,102,10
-19,8,"Branco(a)","MTN","Brasil","F",6.3593,2.7,102,6
-19,8,"Branco(a)","MTN","Brasil","F",6.3593,6.3,102,4
-19,14,"Amarelo(a)","MTN","Argentina","F",7.3373,0.5,102,0
-19,14,"Amarelo(a)","MTN","Argentina","F",7.3373,6.2,102,0
-28,5,"Branco(a)","MTN","Brasil","M",4.9637,0,102,96
-28,5,"Branco(a)","MTN","Brasil","M",4.9637,1.2,102,14
-22,9,"Pardo(a)","MTN","Brasil","F",3.5419,0,102,84
-20,5,"Branco(a)","MTN","Brasil","F",3.25,0,102,0
-20,5,"Branco(a)","MTN","Brasil","F",3.25,0,102,36
-20,5,"Branco(a)","MTN","Brasil","F",3.25,0.3,102,56
-21,14,"Branco(a)","MTN","Brasil","M",5.534,0,102,0
-21,14,"Branco(a)","MTN","Brasil","M",5.534,0,102,18
-21,14,"Branco(a)","MTN","Brasil","M",5.534,0.4,102,0
-21,14,"Branco(a)","MTN","Brasil","M",5.534,6,102,14
-18,6,"Pardo(a)","MTN","Brasil","F",4.3788,0,102,60
-17,12,"Branco(a)","MTN","Brasil","M",8.2328,6.2,102,3
-17,8,"Pardo(a)","MTN","Brasil","M",4.65,0,102,10
-17,8,"Pardo(a)","MTN","Brasil","M",4.65,1.9,102,27
-18,8,"Amarelo(a)","MTN","Brasil","M",4.8457,0,102,32
-18,9,"Pardo(a)","MTN","Brasil","M",2.9463,0.2,102,22
-18,9,"Pardo(a)","MTN","Brasil","M",2.9463,2,102,10
-18,9,"Pardo(a)","MTN","Brasil","M",2.9463,3,102,24
-24,8,"Branco(a)","MTN","Brasil","M",3.9597,0.2,102,46
-24,8,"Branco(a)","MTN","Brasil","M",3.9597,0.8,102,73
-19,13,"Pardo(a)","MTN","Brasil","M",6.1098,0.6,102,10
-19,13,"Pardo(a)","MTN","Brasil","M",6.1098,0.6,102,12
-19,13,"Pardo(a)","MTN","Brasil","M",6.1098,0.8,102,8
-19,13,"Pardo(a)","MTN","Brasil","M",6.1098,1.2,102,18
-16,3,"Pardo(a)","MTN","Brasil","M",6.9229,9.2,102,14
-17,5,"Branco(a)","MTN","Brasil","F",6.0324,0.2,102,8
-18,13,"Branco(a)","MTN","Brasil","F",7.866,2.3,102,14
-18,13,"Branco(a)","MTN","Brasil","F",7.866,4,102,6
-18,13,"Branco(a)","MTN","Brasil","F",7.866,6.9,102,8
-29,13,"Não Declarado(a)","MTN","Brasil","M",3.4211,6,102,18
-18,13,"Pardo(a)","MTN","Brasil","M",7.3184,2.6,102,12
-18,13,"Pardo(a)","MTN","Brasil","M",7.3184,3.4,102,4
-18,13,"Pardo(a)","MTN","Brasil","M",7.3184,6.1,102,0
-18,7,"Branco(a)","MTN","Brasil","M",5.9148,7.2,102,8
-18,13,"Branco(a)","MTN","Brasil","M",6.9491,6,102,14
-17,11,"Branco(a)","MTN","Brasil","F",8.5568,6.6,102,2
-17,6,"Pardo(a)","MTN","Brasil","M",4.9879,2,102,2
-17,6,"Pardo(a)","MTN","Brasil","M",4.9879,4.5,102,12
-18,7,"Branco(a)","MTN","Brasil","M",4.6436,0,102,10
-18,7,"Branco(a)","MTN","Brasil","M",4.6436,0,102,34
-18,7,"Branco(a)","MTN","Brasil","M",4.6436,0,102,38
-17,5,"Pardo(a)","MTN","Brasil","M",3.9321,3.3,102,21
-17,5,"Pardo(a)","MTN","Brasil","M",3.9321,3.8,102,2
-18,7,"Branco(a)","MTN","Brasil","M",4.6403,0.6,102,32
-21,11,"Branco(a)","MTN","Brasil","F",6.6508,1.5,102,8
-21,11,"Branco(a)","MTN","Brasil","F",6.6508,4.4,102,24
-21,11,"Branco(a)","MTN","Brasil","F",6.6508,6.5,102,8
-19,13,"Branco(a)","MTN","Brasil","M",6.6047,0.4,102,8
-19,13,"Branco(a)","MTN","Brasil","M",6.6047,2.3,102,34
-19,13,"Branco(a)","MTN","Brasil","M",6.6047,6.7,102,2
-19,7,"Preto(a)","MTN","Brasil","M",5.6284,6.5,102,8
-18,9,"Branco(a)","MTN","Brasil","F",8.215,5.7,102,5
-18,9,"Branco(a)","MTN","Brasil","F",8.215,6,102,0
-20,13,"Branco(a)","N","Brasil","M",5.8655,0,102,92
-20,8,"Pardo(a)","MTN","Brasil","F",4.8962,2.7,102,25
-20,8,"Pardo(a)","MTN","Brasil","F",4.8962,6.3,102,4
-19,13,"Branco(a)","MTN","Brasil","M",6.7495,0.7,102,10
-19,13,"Branco(a)","MTN","Brasil","M",6.7495,1,102,0
-20,9,"Branco(a)","MTN","Brasil","M",7.4073,0.8,102,0
-20,9,"Branco(a)","MTN","Brasil","M",7.4073,6.1,102,5
-22,13,"Branco(a)","MTN","Paraguai","M",3.5804,0.2,102,52
-22,13,"Branco(a)","MTN","Paraguai","M",3.5804,0.3,102,13
-22,13,"Branco(a)","MTN","Paraguai","M",3.5804,0.3,102,22
-22,13,"Branco(a)","MTN","Paraguai","M",3.5804,1,102,14
-26,6,"Branco(a)","MTN","Paraguai","M",4.7444,0.4,102,6
-26,6,"Branco(a)","MTN","Paraguai","M",4.7444,6.1,102,15
-18,8,"Branco(a)","MTN","Paraguai","M",5.6712,2.8,102,11
-18,8,"Branco(a)","MTN","Paraguai","M",5.6712,4.7,102,6
-18,8,"Branco(a)","MTN","Paraguai","M",5.6712,5.2,102,4
-18,8,"Branco(a)","MTN","Paraguai","M",5.6712,6,102,0
-19,11,"Branco(a)","MTN","Paraguai","M",7.0588,0.3,102,28
-19,12,"Não Declarado(a)","MTN","Peru","M",6.2913,1.3,102,12
-19,12,"Não Declarado(a)","MTN","Peru","M",6.2913,6.8,102,10
-19,11,"Não Declarado(a)","MTN","Paraguai","F",5.594,2.2,102,4
-19,11,"Não Declarado(a)","MTN","Paraguai","F",5.594,6.4,102,8
-19,11,"Não Declarado(a)","MTN","Peru","M",8.4152,7.3,102,0
-18,8,"Não Declarado(a)","MTN","Colômbia","F",5.1087,0.1,102,27
-18,8,"Não Declarado(a)","MTN","Colômbia","F",5.1087,2.2,102,8
-19,10,"Pardo(a)","MTN","Paraguai","M",8.4778,7.6,102,0
-22,10,"Não Declarado(a)","MTN","Colômbia","M",8.1975,6,102,0
-19,10,"Preto(a)","MTN","Colômbia","M",6.3845,1.8,102,18
-19,13,"Branco(a)","MTN","Honduras","F",7.3657,3.4,102,15
-19,13,"Branco(a)","MTN","Honduras","F",7.3657,6.5,102,10
-17,6,"Branco(a)","MTN","Brasil","M",3.6463,0,102,18
-17,6,"Branco(a)","MTN","Brasil","M",3.6463,0.5,102,4
-17,12,"Branco(a)","MTN","Brasil","F",7.0178,3.7,102,3
-17,12,"Branco(a)","MTN","Brasil","F",7.0178,6,102,6
-20,13,"Branco(a)","MTN","Paraguai","M",3.1098,0,102,70
-17,5,"Branco(a)","MTN","Brasil","M",4.5902,3.7,102,6
-17,5,"Branco(a)","MTN","Brasil","M",4.5902,4,102,2
-17,13,"Branco(a)","MTN","Brasil","M",5.686,0,102,62
-17,13,"Branco(a)","MTN","Brasil","M",5.686,0,102,67
-17,13,"Branco(a)","MTN","Brasil","M",5.686,2.5,102,24
-17,13,"Branco(a)","MTN","Brasil","M",5.686,3,102,32
-19,12,"Branco(a)","MTN","El Salvador","M",5.961,2.5,102,17
-19,12,"Branco(a)","MTN","El Salvador","M",5.961,6.9,102,8
-19,12,"Branco(a)","MTN","Paraguai","M",7.6148,6,102,7
-18,4,"Amarelo(a)","MTN","Brasil","M",3.0077,0,102,18
-18,13,"Branco(a)","MTN","Brasil","M",6.9906,6,102,15
-25,7,"Branco(a)","MTN","Brasil","M",6.229,0.8,102,8
-25,7,"Branco(a)","MTN","Brasil","M",6.229,5.2,102,14
-25,7,"Branco(a)","MTN","Brasil","M",6.229,5.4,102,10
-25,7,"Branco(a)","MTN","Brasil","M",6.229,7.1,102,0
-20,12,"Branco(a)","MTN","Brasil","F",7.6865,6.2,102,2
-20,13,"Branco(a)","MTN","Paraguai","F",4.707,0,102,17
-20,13,"Branco(a)","MTN","Paraguai","F",4.707,0.2,102,8
-20,13,"Branco(a)","MTN","Paraguai","F",4.707,1.3,102,44
-20,13,"Branco(a)","MTN","Paraguai","F",4.707,1.7,102,7
-20,12,"Branco(a)","MTN","Brasil","M",7.1791,1,102,0
-20,12,"Branco(a)","MTN","Brasil","M",7.1791,6,102,15
-19,9,"Pardo(a)","MTN","Paraguai","M",2.6455,0,102,10
-19,9,"Pardo(a)","MTN","Paraguai","M",2.6455,0.2,102,42
-18,10,"Branco(a)","MTN","Brasil","M",7.7347,4.8,102,10
-18,10,"Branco(a)","MTN","Brasil","M",7.7347,7,102,2
-19,10,"Branco(a)","MTN","Paraguai","M",2.7745,7.9,102,0
-19,3,"Branco(a)","MTN","Brasil","M",4.3,0,102,56
-18,13,"Branco(a)","MTN","Paraguai","F",5.471,0,102,60
-19,8,"Branco(a)","MTN","Paraguai","M",4.6543,1.6,102,20
-19,8,"Branco(a)","MTN","Paraguai","M",4.6543,3.2,102,16
-19,8,"Branco(a)","MTN","Paraguai","M",4.6543,6.8,102,8
-18,13,"Não Declarado(a)","MTN","Peru","M",5.5915,6,102,3
-18,5,"Branco(a)","MTN","Brasil","M",6.05,2.4,102,12
-19,13,"Branco(a)","MTN","Brasil","F",7.9108,7.5,102,0
-20,12,"Não Declarado(a)","MTN","Paraguai","M",2.7557,0.2,102,14
-20,12,"Não Declarado(a)","MTN","Paraguai","M",2.7557,2.8,102,34
-20,12,"Não Declarado(a)","MTN","Paraguai","M",2.7557,5.3,102,0
-18,13,"Amarelo(a)","MTN","Paraguai","M",6.9413,6.4,102,6
-18,11,"Branco(a)","MTN","Brasil","M",7.9675,5.3,102,2
-18,11,"Branco(a)","MTN","Brasil","M",7.9675,7.1,102,4
-22,7,"Pardo(a)","MTN","Brasil","M",4.3121,0,102,30
-22,7,"Pardo(a)","MTN","Brasil","M",4.3121,0,102,34
-22,7,"Pardo(a)","MTN","Brasil","M",4.3121,0,102,39
-22,7,"Pardo(a)","MTN","Brasil","M",4.3121,0.3,102,28
-18,11,"Branco(a)","MTN","Brasil","M",4.9843,0.2,102,10
-18,11,"Branco(a)","MTN","Brasil","M",4.9843,1,102,10
-18,11,"Branco(a)","MTN","Brasil","M",4.9843,1.3,102,26
-19,5,"Branco(a)","MTN","Brasil","F",4.8431,2,102,0
-19,5,"Branco(a)","MTN","Brasil","F",4.8431,2.4,102,16
-19,5,"Branco(a)","MTN","Brasil","F",4.8431,3.1,102,6
-23,11,"Não Declarado(a)","MTN","Paraguai","M",5.4473,0.4,102,14
-23,11,"Não Declarado(a)","MTN","Paraguai","M",5.4473,0.8,102,10
-23,11,"Não Declarado(a)","MTN","Paraguai","M",5.4473,1.6,102,20
-20,8,"Branco(a)","MTN","Chile","M",2.942,0.2,102,10
-20,8,"Branco(a)","MTN","Chile","M",2.942,1.2,102,56
-19,9,"Branco(a)","MTN","Chile","M",7.9127,0,102,38
-23,7,"Pardo(a)","MTN","Brasil","M",4.3507,4,102,10
-17,5,"Branco(a)","MTN","Brasil","F",4.8573,1.2,102,30
-21,5,"Indígena","MTN","Peru","M",4.7319,3.1,102,22
-37,4,"Preto(a)","MTN","Brasil","M",5.6378,2.1,102,24
-18,11,"Não Declarado(a)","MTN","Bolívia","M",7.8331,1,102,6
-18,11,"Não Declarado(a)","MTN","Bolívia","M",7.8331,9.2,102,16
-20,8,"Branco(a)","MTN","Brasil","M",3.072,0.5,102,46
-20,8,"Branco(a)","MTN","Brasil","M",3.072,3.3,102,22
-20,8,"Branco(a)","MTN","Brasil","M",3.072,3.4,102,20
-18,8,"Branco(a)","MTN","Brasil","M",5.6457,2.2,102,25
-18,8,"Branco(a)","MTN","Brasil","M",5.6457,3.3,102,2
-18,8,"Branco(a)","MTN","Brasil","M",5.6457,6.3,102,4
-20,13,"Pardo(a)","MTN","Brasil","F",6.7344,2.4,102,27
-20,13,"Pardo(a)","MTN","Brasil","F",6.7344,2.5,102,8
-20,13,"Pardo(a)","MTN","Brasil","F",6.7344,6,102,20
-22,7,"Pardo(a)","N","Brasil","M",6.9673,0.7,102,10
-19,14,"Branco(a)","MTN","Paraguai","F",6.8351,1.6,102,12
-19,14,"Branco(a)","MTN","Paraguai","F",6.8351,5.4,102,4
-19,14,"Branco(a)","MTN","Paraguai","F",6.8351,7.3,102,8
-18,10,"Branco(a)","MTN","Brasil","M",8.2196,6.7,102,2
-17,5,"Branco(a)","MTN","Brasil","F",4.2592,0,102,16
-17,5,"Branco(a)","MTN","Brasil","F",4.2592,0.4,102,18
-17,5,"Branco(a)","MTN","Brasil","F",4.2592,0.7,102,22
-19,9,"Branco(a)","MTN","Paraguai","F",3.2181,0.4,102,40
-19,9,"Branco(a)","MTN","Paraguai","F",3.2181,1,102,22
-24,8,"Branco(a)","MTN","Paraguai","M",4.3528,0,102,0
-24,8,"Branco(a)","MTN","Paraguai","M",4.3528,0,102,10
-17,8,"Branco(a)","MTN","Brasil","M",4.1333,0,102,10
-17,8,"Branco(a)","MTN","Brasil","M",4.1333,1.1,102,42
-19,11,"Pardo(a)","MTN","Paraguai","F",3.7152,0,102,21
-19,11,"Pardo(a)","MTN","Paraguai","F",3.7152,0,102,36
-19,11,"Pardo(a)","MTN","Paraguai","F",3.7152,0.6,102,6
-18,7,"Pardo(a)","MTN","Brasil","F",5.3277,4.3,102,18
-18,7,"Pardo(a)","MTN","Brasil","F",5.3277,5,102,6
-18,7,"Pardo(a)","MTN","Brasil","F",5.3277,6.2,102,4
-18,7,"Não Declarado(a)","MTN","Paraguai","M",2.8211,0,102,10
-18,7,"Não Declarado(a)","MTN","Paraguai","M",2.8211,0,102,60
-18,7,"Não Declarado(a)","MTN","Paraguai","M",2.8211,0.3,102,48
-17,13,"Branco(a)","MTN","Brasil","M",6.3801,0.2,102,6
-17,13,"Branco(a)","MTN","Brasil","M",6.3801,6.2,102,12
-20,4,"Branco(a)","MTN","Brasil","F",3.9656,0.3,102,26
-20,4,"Branco(a)","MTN","Brasil","F",3.9656,0.7,102,32
-18,13,"Pardo(a)","MTN","Paraguai","M",6.4405,3.5,102,6
-18,9,"Branco(a)","MTN","Brasil","F",8.9327,5.3,102,0
-18,9,"Branco(a)","MTN","Brasil","F",8.9327,6.8,102,4
-21,13,"Branco(a)","MTN","Brasil","M",5.1883,0.3,102,16
-18,8,"Não Declarado(a)","N","Paraguai","F",7.66,0.6,102,22
-18,8,"Não Declarado(a)","N","Paraguai","F",7.66,1.8,102,4
-18,9,"Branco(a)","MTN","Paraguai","F",6.0838,1.9,102,13
-18,9,"Branco(a)","MTN","Paraguai","F",6.0838,2.2,102,18
-18,9,"Branco(a)","MTN","Paraguai","F",6.0838,6,102,17
-33,8,"Branco(a)","MTN","Brasil","F",2.7389,0,102,80
-33,8,"Branco(a)","MTN","Brasil","F",2.7389,2,102,63
-24,5,"Pardo(a)","MTN","Brasil","M",2.9419,0,102,90
-19,11,"Pardo(a)","MTN","Brasil","M",4.9937,3.3,102,23
-19,11,"Pardo(a)","MTN","Brasil","M",4.9937,4,102,8
-19,11,"Pardo(a)","MTN","Brasil","M",4.9937,6.1,102,24
-19,13,"Preto(a)","MTN","Colômbia","F",6.817,0.7,102,4
-18,9,"Não Declarado(a)","MTN","Paraguai","M",6.4592,0.8,102,8
-18,9,"Não Declarado(a)","MTN","Paraguai","M",6.4592,6.2,102,0
-18,13,"Pardo(a)","MTN","Bolívia","M",6.317,6.5,102,4
-20,13,"Branco(a)","MTN","Panamá","F",4.582,0,102,68
-21,6,"Indígena","MTN","Colômbia","F",6.8962,2.3,102,2
-21,6,"Indígena","MTN","Colômbia","F",6.8962,6,102,0
-19,8,"Branco(a)","MTN","Paraguai","F",3.9182,0.2,102,42
-19,8,"Branco(a)","MTN","Paraguai","F",3.9182,3.6,102,15
-18,7,"Branco(a)","MTN","Brasil","M",2.3933,0,102,14
-19,12,"Preto(a)","MTN","Cuba","M",7.3159,6.2,102,17
-18,9,"Não Declarado(a)","MTN","Paraguai","F",3.1747,0,102,42
-18,9,"Não Declarado(a)","MTN","Paraguai","F",3.1747,0.7,102,10
-21,8,"Pardo(a)","MTN","Brasil","M",3.1364,0,102,0
-21,8,"Pardo(a)","MTN","Brasil","M",3.1364,0.8,102,10
-21,8,"Pardo(a)","MTN","Brasil","M",3.1364,1.4,102,25
-21,8,"Pardo(a)","MTN","Brasil","M",3.1364,2.8,102,4
-17,10,"Branco(a)","MTN","Brasil","M",7.7651,6.5,102,18
-20,6,"Branco(a)","MTN","Brasil","M",5.3443,1.4,102,0
-20,6,"Branco(a)","MTN","Brasil","M",5.3443,7.2,102,17
-24,10,"Não Declarado(a)","MTN","Colômbia","F",5.3661,2.5,102,28
-24,10,"Não Declarado(a)","MTN","Colômbia","F",5.3661,4.1,102,0
-24,10,"Não Declarado(a)","MTN","Colômbia","F",5.3661,5.3,102,8
-18,7,"Não Declarado(a)","MTN","Peru","M",3.8247,1.1,102,32
-18,7,"Não Declarado(a)","MTN","Peru","M",3.8247,3.5,102,8
-20,13,"Não Declarado(a)","MTN","Peru","M",6.3469,1,102,4
-20,13,"Não Declarado(a)","MTN","Peru","M",6.3469,2.3,102,10
-20,13,"Não Declarado(a)","MTN","Peru","M",6.3469,6.7,102,0
-29,8,"Pardo(a)","MTN","Colômbia","M",3.7862,0,102,96
-18,12,"Branco(a)","MTN","Paraguai","M",6.852,3.4,102,14
-18,12,"Branco(a)","MTN","Paraguai","M",6.852,3.5,102,12
-18,12,"Branco(a)","MTN","Paraguai","M",6.852,6.5,102,16
-18,10,"Pardo(a)","MTN","Paraguai","F",7.8383,6,102,6
-18,13,"Não Declarado(a)","MTN","Colômbia","M",7.3173,0.8,102,19
-18,13,"Não Declarado(a)","MTN","Colômbia","M",7.3173,2,102,0
-18,13,"Não Declarado(a)","MTN","Colômbia","M",7.3173,5.1,102,0
-18,13,"Não Declarado(a)","MTN","Colômbia","M",7.3173,6,102,8
-19,13,"Branco(a)","MTN","Brasil","M",6.6594,6.6,102,0
-17,13,"Branco(a)","MTN","Brasil","F",6.6235,0.4,102,34
-17,13,"Branco(a)","MTN","Brasil","F",6.6235,0.7,102,10
-19,9,"Branco(a)","MTN","Brasil","F",8.7511,6,102,8
-20,7,"Branco(a)","MTN","Brasil","M",3.7489,0,102,10
-20,7,"Branco(a)","MTN","Brasil","M",3.7489,0.2,102,54
-20,7,"Branco(a)","MTN","Brasil","M",3.7489,0.5,102,66
-20,7,"Branco(a)","MTN","Brasil","M",3.7489,2.9,102,0
-17,8,"Branco(a)","MTN","Brasil","F",3.2645,0,102,10
-17,8,"Branco(a)","MTN","Brasil","F",3.2645,1,102,38
-18,8,"Branco(a)","MTN","Brasil","M",3.8837,0,102,68
-18,10,"Branco(a)","MTN","Brasil","M",5.1009,1.8,102,20
-18,10,"Branco(a)","MTN","Brasil","M",5.1009,6,102,26
-17,10,"Branco(a)","MTN","Brasil","F",8.4352,6.1,102,6
-23,8,"Branco(a)","MTN","Brasil","M",2.5728,0,102,16
-17,10,"Pardo(a)","MTN","Brasil","M",7.9445,4.6,102,17
-17,10,"Pardo(a)","MTN","Brasil","M",7.9445,6.3,102,12
-17,8,"Branco(a)","MTN","Brasil","M",5.1561,1.4,102,6
-17,8,"Branco(a)","MTN","Brasil","M",5.1561,2.3,102,18
-17,8,"Branco(a)","MTN","Brasil","M",5.1561,7,102,8
-18,7,"Pardo(a)","MTN","Brasil","M",5.6605,0.4,102,8
-24,8,"Pardo(a)","MTN","Brasil","M",3,0,102,10
-24,8,"Pardo(a)","MTN","Brasil","M",3,0.5,102,52
-38,4,"Amarelo(a)","MTN","Brasil","M",3.3885,0,102,22
-17,13,"Branco(a)","MTN","Brasil","M",4.6912,7.5,102,6
-17,12,"Branco(a)","MTN","Brasil","F",4,0.1,102,8
-17,12,"Branco(a)","MTN","Brasil","F",4,0.2,102,24
-23,4,"Preto(a)","MTN","Brasil","M",0.9889,0,102,36
-18,8,"Branco(a)","MTN","Brasil","M",3.6196,0,102,12
-21,7,"Branco(a)","MTN","Brasil","M",5.1477,2.2,102,62
-50,7,"Indígena","MTN","Brasil","F",2.3059,0,102,24
-18,11,"Branco(a)","MTN","Brasil","F",7.6354,0.7,102,13
-18,11,"Branco(a)","MTN","Brasil","F",7.6354,6.1,102,0
-16,11,"Branco(a)","MTN","Brasil","F",6.8523,0.8,102,6
-16,11,"Branco(a)","MTN","Brasil","F",6.8523,5,102,0
-17,11,"Branco(a)","MTN","Brasil","F",6.6568,0,102,22
-17,11,"Branco(a)","MTN","Brasil","F",6.6568,1.3,102,0
-17,11,"Branco(a)","MTN","Brasil","F",6.6568,3.9,102,20
-17,11,"Branco(a)","MTN","Brasil","M",6.5769,0,102,16
-17,11,"Branco(a)","MTN","Brasil","M",6.5769,8.5,102,0
-17,11,"Branco(a)","MTN","Brasil","F",6.8185,0,102,24
-17,11,"Branco(a)","MTN","Brasil","F",6.8185,3.8,102,0
-17,11,"Branco(a)","MTN","Brasil","F",6.8185,4.7,102,12
-19,11,"Branco(a)","MTN","Brasil","F",7.1224,1.6,102,24
-19,11,"Branco(a)","MTN","Brasil","F",7.1224,6.3,102,0
-17,5,"Branco(a)","MTN","Brasil","M",3.3649,0.6,102,54
-17,5,"Branco(a)","MTN","Brasil","M",3.3649,0.7,102,0
-17,7,"Branco(a)","MTN","Brasil","M",4.9,6.9,102,8
-17,10,"Branco(a)","MTN","Brasil","M",7.097,0,102,16
-17,10,"Branco(a)","MTN","Brasil","M",7.097,2.7,102,18
-17,11,"Pardo(a)","MTN","Brasil","M",7.4295,1.8,102,9
-17,11,"Pardo(a)","MTN","Brasil","M",7.4295,4.5,102,0
-17,11,"Pardo(a)","MTN","Brasil","M",7.4295,6,102,20
-17,6,"Branco(a)","MTN","Brasil","M",3.97,0.4,102,24
-17,6,"Branco(a)","MTN","Brasil","M",3.97,1.2,102,0
-17,6,"Branco(a)","MTN","Brasil","M",3.97,1.2,102,30
-18,11,"Branco(a)","MTN","Brasil","F",7.7488,1.9,102,18
-18,11,"Branco(a)","MTN","Brasil","F",7.7488,7,102,0
-16,11,"Branco(a)","MTN","Brasil","M",6.9848,0.7,102,18
-16,11,"Branco(a)","MTN","Brasil","M",6.9848,6.9,102,0
-17,11,"Branco(a)","MTN","Brasil","F",6.3955,0.8,102,12
-17,11,"Branco(a)","MTN","Brasil","F",6.3955,6.7,102,0
-19,3,"Branco(a)","MTN","Brasil","M",6.3063,3.7,102,8
-42,6,"Pardo(a)","MTN","Brasil","M",3.775,0,102,52
-20,11,"Branco(a)","MTN","Brasil","F",7.7605,4.6,102,6
-20,11,"Branco(a)","MTN","Brasil","F",7.7605,8.2,102,0
-20,11,"Preto(a)","MTN","Brasil","M",5.8202,3.4,102,10
-20,11,"Preto(a)","MTN","Brasil","M",5.8202,4.9,102,0
-20,11,"Preto(a)","MTN","Brasil","M",5.8202,7.5,102,22
-18,10,"Branco(a)","MTN","Brasil","M",8.7951,8,102,4
-17,2,"Branco(a)","MTN","Brasil","M",8.2,7.7,102,4
-17,9,"Amarelo(a)","MTN","Brasil","F",8.4429,8,102,6
-17,6,"Branco(a)","MTN","Brasil","M",4.5231,1,102,52
-19,6,"Branco(a)","MTN","Brasil","F",4.5667,0.2,102,45
-17,2,"Branco(a)","MTN","Brasil","F",5.8567,0.6,102,20
-18,11,"Branco(a)","MTN","Brasil","M",7.2518,0.5,102,14
-18,11,"Branco(a)","MTN","Brasil","M",7.2518,2,102,16
-17,6,"Branco(a)","MTN","Brasil","M",3.0867,0,102,10
-17,6,"Branco(a)","MTN","Brasil","M",3.0867,0,102,70
-17,5,"Branco(a)","MTN","Brasil","F",5.0262,0,102,52
-17,5,"Branco(a)","MTN","Brasil","F",4.7667,0.1,102,12
-17,5,"Branco(a)","MTN","Brasil","F",4.7667,0.2,102,14
-17,11,"Branco(a)","MTN","Brasil","M",6.6156,2.4,102,8
-17,11,"Branco(a)","MTN","Brasil","M",6.6156,6.4,102,0
-17,5,"Branco(a)","MTN","Brasil","M",4.9933,0,102,20
-17,5,"Branco(a)","MTN","Brasil","M",4.9933,0.7,102,10
-23,11,"Não Declarado(a)","MTN","Brasil","M",6.7617,1,102,24
-23,11,"Não Declarado(a)","MTN","Brasil","M",6.7617,7.2,102,0
-18,11,"Branco(a)","MTN","Brasil","F",6.7195,0.2,102,18
-18,11,"Branco(a)","MTN","Brasil","F",6.7195,3,102,2
-18,11,"Branco(a)","MTN","Brasil","F",6.7195,6.2,102,0
-17,11,"Branco(a)","MTN","Paraguai","F",8.109,7.8,102,4
-17,11,"Branco(a)","MTN","Brasil","F",6.9253,0.3,102,0
-17,11,"Branco(a)","MTN","Brasil","F",6.9253,0.8,102,10
-17,11,"Branco(a)","MTN","Brasil","F",6.9253,2.3,102,12
-20,8,"Preto(a)","MTN","Brasil","M",5.4581,2.1,102,16
-20,8,"Preto(a)","MTN","Brasil","M",5.4581,6.4,102,0
-18,5,"Pardo(a)","MTN","Brasil","M",2.9892,0,102,0
-18,5,"Pardo(a)","MTN","Brasil","M",2.9892,0,102,62
-18,5,"Pardo(a)","MTN","Brasil","M",2.9892,0.2,102,34
-17,5,"Pardo(a)","MTN","Brasil","M",5.4698,3.1,102,18
-17,5,"Pardo(a)","MTN","Brasil","M",5.4698,3.2,102,16
-18,11,"Amarelo(a)","MTN","China","F",8.3958,1.7,102,8
-18,11,"Amarelo(a)","MTN","China","F",8.3958,6.2,102,0
-18,9,"Branco(a)","MTN","Brasil","M",4.5798,0,102,12
-18,9,"Branco(a)","MTN","Brasil","M",4.5798,0,102,82
-18,9,"Branco(a)","MTN","Brasil","M",4.5798,2.2,102,28
-22,5,"Branco(a)","MTN","Brasil","M",7.6208,4.1,102,4
-22,5,"Branco(a)","MTN","Brasil","M",7.6208,8.3,102,0
-17,11,"Branco(a)","MTN","Brasil","F",7.0893,0,102,6
-17,4,"Pardo(a)","MTN","Brasil","M",4.9069,0.7,102,43
-24,11,"Branco(a)","MTN","Brasil","M",3.8911,0,102,20
-17,11,"Preto(a)","MTN","Brasil","F",7.4038,5.4,102,15
-17,11,"Preto(a)","MTN","Brasil","F",7.4038,6.4,102,0
-18,5,"Branco(a)","MTN","Brasil","M",3.427,0.5,102,0
-18,5,"Branco(a)","MTN","Brasil","M",3.427,0.8,102,56
-18,5,"Amarelo(a)","MTN","Brasil","M",2.8604,0,102,58
-17,11,"Branco(a)","MTN","Brasil","M",7.7135,2.8,102,17
-17,11,"Branco(a)","MTN","Brasil","M",7.7135,6.4,102,22
-19,11,"Branco(a)","MTN","Brasil","M",7.4968,2.9,102,6
-19,11,"Branco(a)","MTN","Brasil","M",7.4968,7.4,102,0
-17,6,"Branco(a)","MTN","Brasil","M",1.8515,0,102,10
-19,7,"Branco(a)","MTN","Brasil","M",2.5924,0,102,0
-19,7,"Branco(a)","MTN","Brasil","M",2.5924,0.2,102,58
-17,11,"Branco(a)","MTN","Brasil","F",5.8462,0.9,102,24
-17,11,"Branco(a)","MTN","Brasil","F",5.8462,3,102,8
-17,11,"Branco(a)","MTN","Brasil","F",5.8462,5.5,102,12
-19,11,"Pardo(a)","MTN","Brasil","F",3.2486,0,102,18
-17,11,"Branco(a)","MTN","Brasil","F",8.1528,3.7,102,4
-17,11,"Branco(a)","MTN","Brasil","F",8.1528,6,102,0
-17,8,"Preto(a)","MTN","Brasil","M",5.0014,0,102,20
-17,8,"Preto(a)","MTN","Brasil","M",5.0014,0.1,102,16
-17,4,"Branco(a)","MTN","Brasil","F",5.3955,0.6,102,25
-17,11,"Não Declarado(a)","MTN","Brasil","F",7.146,0.8,102,13
-17,11,"Não Declarado(a)","MTN","Brasil","F",7.146,3.8,102,10
-17,11,"Não Declarado(a)","MTN","Brasil","F",7.146,7.2,102,8
-26,5,"Branco(a)","MTN","Brasil","F",3.5653,0.5,102,32
-17,11,"Branco(a)","MTN","Brasil","F",6.0184,0.5,102,19
-17,11,"Branco(a)","MTN","Brasil","F",6.0184,3.3,102,8
-17,11,"Branco(a)","MTN","Brasil","F",6.0184,3.6,102,20
-20,10,"Pardo(a)","MTN","Brasil","F",6.549,3.3,102,6
-17,3,"Pardo(a)","MTN","Brasil","F",0,0,102,70
-32,11,"Pardo(a)","MTN","Brasil","F",6.4135,0.2,102,0
-32,11,"Pardo(a)","MTN","Brasil","F",6.4135,0.2,102,18
-21,9,"Branco(a)","MTN","Brasil","M",5.3913,2.2,102,44
-21,9,"Branco(a)","MTN","Brasil","M",5.3913,5.3,102,12
-21,9,"Branco(a)","MTN","Brasil","M",5.3913,7.7,102,20
-21,11,"Preto(a)","MTN","Brasil","F",7.6453,0.4,102,8
-21,11,"Preto(a)","MTN","Brasil","F",7.6453,7,102,0
-18,10,"Não Declarado(a)","MTN","Paraguai","F",6.0159,2,102,11
-18,10,"Não Declarado(a)","MTN","Paraguai","F",6.0159,6.4,102,12
-19,11,"Branco(a)","MTN","Paraguai","F",2.8259,0,102,2
-19,11,"Branco(a)","MTN","Paraguai","F",2.8259,0,102,18
-19,11,"Branco(a)","MTN","Paraguai","F",2.8259,0.1,102,12
-27,11,"Não Declarado(a)","MTN","Paraguai","M",5.2114,4.2,102,20
-20,7,"Não Declarado(a)","MTN","Paraguai","F",7.2918,4,102,0
-20,7,"Não Declarado(a)","MTN","Paraguai","F",7.2918,6.7,102,4
-18,11,"Indígena","MTN","Peru","F",7.1273,7.2,102,2
-19,11,"Pardo(a)","MTN","Paraguai","M",6.2673,0.6,102,15
-19,11,"Pardo(a)","MTN","Paraguai","M",6.2673,3.7,102,2
-19,11,"Pardo(a)","MTN","Paraguai","M",6.2673,6.1,102,4
-18,11,"Não Declarado(a)","MTN","Paraguai","F",6.7814,0.6,102,13
-18,11,"Não Declarado(a)","MTN","Paraguai","F",6.7814,2,102,8
-18,11,"Não Declarado(a)","MTN","Paraguai","F",6.7814,3.7,102,16
-23,11,"Pardo(a)","MTN","Colômbia","F",7.1703,2.2,102,12
-23,11,"Pardo(a)","MTN","Colômbia","F",7.1703,6,102,0
-18,11,"Pardo(a)","MTN","Paraguai","M",5.0016,4.8,102,4
-19,11,"Branco(a)","MTN","Paraguai","F",7.7362,1.7,102,12
-19,11,"Branco(a)","MTN","Paraguai","F",7.7362,7,102,0
-24,9,"Preto(a)","MTN","Paraguai","M",0.4082,0.2,102,48
-19,11,"Branco(a)","MTN","Paraguai","M",6.3562,1.5,102,16
-19,11,"Branco(a)","MTN","Paraguai","M",6.3562,4,102,24
-19,11,"Branco(a)","MTN","Paraguai","M",6.3562,4.4,102,30
-23,5,"Branco(a)","MTN","Paraguai","F",1.9811,0,102,24
-20,11,"Não Declarado(a)","MTN","Paraguai","M",7.324,3.8,102,4
-20,11,"Não Declarado(a)","MTN","Paraguai","M",7.324,7.8,102,0
-24,11,"Não Declarado(a)","MTN","Paraguai","M",6.3325,3.8,102,2
-24,11,"Não Declarado(a)","MTN","Paraguai","M",6.3325,5,102,10
-22,7,"Indígena","MTN","Colômbia","M",5.4688,4.6,102,12
-22,7,"Indígena","MTN","Colômbia","M",5.4688,7,102,6
-21,11,"Não Declarado(a)","MTN","Peru","F",7.9541,8.5,102,14
-18,9,"Pardo(a)","MTN","Peru","M",4.396,0,102,24
-18,9,"Pardo(a)","MTN","Peru","M",4.396,0,102,32
-26,9,"Branco(a)","MTN","Paraguai","F",6.707,0.2,102,21
-26,9,"Branco(a)","MTN","Paraguai","F",6.707,1.7,102,8
-20,9,"Branco(a)","MTN","Paraguai","F",6.5425,1.6,102,6
-20,9,"Branco(a)","MTN","Paraguai","F",6.5425,3.1,102,0
-19,11,"Pardo(a)","MTN","Colômbia","M",6.6312,0,102,14
-19,11,"Pardo(a)","MTN","Colômbia","M",6.6312,6,102,0
-18,7,"Não Declarado(a)","MTN","Paraguai","M",5.5885,1.4,102,17
-18,7,"Não Declarado(a)","MTN","Paraguai","M",5.5885,2.6,102,20
-18,7,"Não Declarado(a)","MTN","Paraguai","M",5.5885,6,102,20
-21,5,"Branco(a)","MTN","Paraguai","F",4.2429,0.1,102,11
-19,10,"Não Declarado(a)","MTN","Paraguai","F",6.1692,1.6,102,6
-19,10,"Não Declarado(a)","MTN","Paraguai","F",6.1692,4.8,102,2
-19,10,"Não Declarado(a)","MTN","Paraguai","F",6.1692,6,102,10
-24,6,"Pardo(a)","MTN","Venezuela","M",1.5083,0,102,80
-27,11,"Branco(a)","MTN","Colômbia","M",7.1571,7.6,102,2
-18,11,"Não Declarado(a)","MTN","El Salvador","F",6.0431,0,102,14
-18,11,"Não Declarado(a)","MTN","El Salvador","F",6.0431,0.2,102,12
-18,11,"Não Declarado(a)","MTN","El Salvador","F",6.0431,3,102,0
-18,9,"Não Declarado(a)","MTN","Paraguai","F",6.7563,1.9,102,9
-18,9,"Não Declarado(a)","MTN","Paraguai","F",6.7563,4.7,102,6
-18,9,"Não Declarado(a)","MTN","Paraguai","F",6.7563,6,102,16
-24,8,"Pardo(a)","MTN","Paraguai","M",3.6516,0.7,102,44
-26,11,"Branco(a)","MTN","Colômbia","F",7.0942,3.5,102,0
-26,11,"Branco(a)","MTN","Colômbia","F",7.0942,6,102,0
-18,11,"Branco(a)","MTN","Paraguai","F",7.364,0.8,102,14
-18,11,"Branco(a)","MTN","Paraguai","F",7.364,8.8,102,0
-19,11,"Pardo(a)","MTN","Paraguai","M",3.6248,3.1,102,24
-19,11,"Pardo(a)","MTN","Paraguai","M",3.6248,7.5,102,0
-19,11,"Branco(a)","MTN","Paraguai","F",7.0014,1.4,102,14
-19,11,"Branco(a)","MTN","Paraguai","F",7.0014,6.8,102,0
-18,7,"Não Declarado(a)","MTN","Paraguai","M",2.6609,0,102,20
-18,7,"Não Declarado(a)","MTN","Paraguai","M",2.6609,0,102,38
-20,11,"Branco(a)","MTN","Paraguai","F",7.4352,6.2,102,4
-18,11,"Branco(a)","MTN","Paraguai","M",6.7694,1.8,102,8
-18,11,"Branco(a)","MTN","Paraguai","M",6.7694,5,102,8
-18,11,"Branco(a)","MTN","Paraguai","M",6.7694,6.2,102,8
-19,5,"Pardo(a)","T","Peru","F",7.7311,0.3,102,30
-20,11,"Pardo(a)","MTN","Argentina","M",6.1629,0.1,102,44
-20,11,"Pardo(a)","MTN","Argentina","M",6.1629,2.8,102,26
-19,11,"Não Declarado(a)","MTN","Paraguai","M",5.9085,0,102,12
-19,11,"Não Declarado(a)","MTN","Paraguai","M",5.9085,0.8,102,0
-20,10,"Pardo(a)","MTN","Paraguai","M",7.3037,0.3,102,15
-20,10,"Pardo(a)","MTN","Paraguai","M",7.3037,6.1,102,10
-19,10,"Pardo(a)","MTN","Paraguai","F",5.711,0,102,9
-19,10,"Pardo(a)","MTN","Paraguai","F",5.711,4.3,102,0
-18,6,"Não Declarado(a)","MTN","Paraguai","M",3.9623,0.2,102,24
-18,6,"Não Declarado(a)","MTN","Paraguai","M",3.9623,0.4,102,34
-18,6,"Não Declarado(a)","MTN","Paraguai","M",3.9623,1.2,102,40
-19,11,"Branco(a)","MTN","Paraguai","F",5.9018,0.6,102,14
-19,11,"Branco(a)","MTN","Paraguai","F",5.9018,1.7,102,14
-19,11,"Branco(a)","MTN","Paraguai","F",5.9018,3.3,102,22
-19,11,"Não Declarado(a)","MTN","Paraguai","F",4.9673,2.2,102,2
-19,11,"Não Declarado(a)","MTN","Paraguai","F",4.9673,2.8,102,12
-21,11,"Branco(a)","MTN","Paraguai","M",6.0505,5.4,102,14
-21,11,"Branco(a)","MTN","Paraguai","M",6.0505,6.9,102,6
-20,5,"Pardo(a)","MTN","Paraguai","F",2.85,0.1,102,13
-17,11,"Pardo(a)","MTN","Brasil","F",7.2541,0.2,102,12
-17,11,"Pardo(a)","MTN","Brasil","F",7.2541,7.6,102,0
-17,11,"Não Declarado(a)","MTN","Brasil","M",6.8311,4.2,102,14
-17,11,"Não Declarado(a)","MTN","Brasil","M",6.8311,5.3,102,3
-17,11,"Não Declarado(a)","MTN","Brasil","M",6.8311,7.1,102,4
-20,11,"Preto(a)","MTN","Brasil","F",4.7968,0.4,102,20
-17,6,"Preto(a)","MTN","Brasil","M",3.5489,0,102,54
-17,6,"Preto(a)","MTN","Brasil","M",3.5489,0.1,102,32
-18,11,"Branco(a)","MTN","Brasil","M",6.7669,2.3,102,16
-18,11,"Branco(a)","MTN","Brasil","M",6.7669,3.1,102,22
-18,11,"Pardo(a)","MTN","Brasil","M",4.9149,0.2,102,42
-21,5,"Pardo(a)","MTN","Brasil","M",5.2152,4.3,102,10
-21,5,"Pardo(a)","MTN","Brasil","M",5.2152,6.6,102,6
-17,5,"Branco(a)","MTN","Brasil","M",6.9051,3.2,102,6
-17,5,"Branco(a)","MTN","Brasil","M",6.9051,7,102,16
-17,10,"Branco(a)","MTN","Brasil","M",8.1881,6.3,102,3
-18,5,"Branco(a)","MTN","Brasil","M",6.8698,7.4,102,4
-17,6,"Branco(a)","MTN","Brasil","M",5.1965,0.7,102,34
-17,6,"Branco(a)","MTN","Brasil","M",5.1965,1.2,102,16
-17,6,"Branco(a)","MTN","Brasil","M",5.1965,3.1,102,0
-17,7,"Preto(a)","MTN","Brasil","F",2.2188,0,102,16
-17,7,"Preto(a)","MTN","Brasil","F",2.2188,0,102,34
-17,5,"Amarelo(a)","MTN","Brasil","F",3.0575,0.1,102,52
-18,11,"Pardo(a)","MTN","Brasil","M",7.4025,3.8,102,2
-18,11,"Pardo(a)","MTN","Brasil","M",7.4025,6.5,102,0
-18,11,"Pardo(a)","MTN","Brasil","F",6.3128,0.4,102,30
-18,11,"Pardo(a)","MTN","Brasil","F",6.3128,7.1,102,0
-19,4,"Branco(a)","MTN","Brasil","M",5.9545,1.6,102,18
-19,4,"Branco(a)","MTN","Brasil","M",5.9545,7,102,0
-19,5,"Branco(a)","MTN","Brasil","F",4.3032,0,102,12
-19,5,"Branco(a)","MTN","Brasil","F",4.3032,0.3,102,44
-19,5,"Branco(a)","MTN","Brasil","F",4.3032,2.3,102,25
-17,11,"Pardo(a)","MTN","Brasil","M",6.8456,1.4,102,16
-17,11,"Pardo(a)","MTN","Brasil","M",6.8456,3.8,102,6
-17,11,"Pardo(a)","MTN","Brasil","M",6.8456,6,102,22
-17,11,"Amarelo(a)","MTN","Brasil","M",7.5204,2.7,102,18
-17,11,"Amarelo(a)","MTN","Brasil","M",7.5204,7.3,102,0
-24,6,"Amarelo(a)","MTN","Brasil","M",3.5167,0,102,44
-19,6,"Branco(a)","MTN","Brasil","M",4.7172,2.3,102,38
-28,6,"Branco(a)","MTN","Brasil","M",2.3348,0,102,94
-20,3,"Branco(a)","MTN","Brasil","F",6.7759,1.1,102,10
-31,8,"Pardo(a)","MTN","Brasil","M",3.08,0,102,36
-18,6,"Branco(a)","MTN","Brasil","F",2.3889,0,102,10
-18,8,"Pardo(a)","MTN","Brasil","F",7.6175,1.1,102,0
-18,8,"Pardo(a)","MTN","Brasil","F",7.6175,1.2,102,16
-18,8,"Pardo(a)","MTN","Brasil","F",7.6175,6,102,6
-18,4,"Pardo(a)","MTN","Brasil","M",4.7962,0,102,18
-18,4,"Pardo(a)","MTN","Brasil","M",4.7962,3.5,102,0
-17,3,"Pardo(a)","MTN","Brasil","F",5.6103,0,102,28
-18,5,"Branco(a)","MTN","Brasil","M",4.5019,0,102,36
-17,11,"Branco(a)","MTN","Brasil","M",7.1837,0.1,102,4
-17,11,"Branco(a)","MTN","Brasil","M",7.1837,6.2,102,0
-20,11,"Pardo(a)","MTN","Colômbia","M",5.9661,0.2,102,14
-20,11,"Pardo(a)","MTN","Colômbia","M",5.9661,6.3,102,0
-19,11,"Branco(a)","MTN","Brasil","F",6.4047,2.7,102,1
-19,11,"Branco(a)","MTN","Brasil","F",6.4047,3,102,6
-17,10,"Pardo(a)","MTN","Brasil","F",3.6604,0,102,34
-31,11,"Preto(a)","MTN","Haiti","M",5.6192,2.2,102,4
-31,11,"Preto(a)","MTN","Haiti","M",5.6192,6.6,102,0
-22,11,"Preto(a)","MTN","Haiti","M",7.5623,5.4,102,2
-22,11,"Preto(a)","MTN","Haiti","M",7.5623,6.9,102,0
-24,6,"Preto(a)","MTN","Haiti","F",4.0188,0,102,0
-24,6,"Preto(a)","MTN","Haiti","F",4.0188,0.1,102,26
-18,11,"Branco(a)","MTN","Brasil","F",6.3891,0.7,102,13
-18,11,"Branco(a)","MTN","Brasil","F",6.3891,1.1,102,18
-18,11,"Branco(a)","MTN","Brasil","F",6.3891,6,102,0
-22,11,"Branco(a)","MTN","Brasil","M",6.3921,0.5,102,14
-22,11,"Branco(a)","MTN","Brasil","M",6.3921,6,102,0
-24,6,"Pardo(a)","MTN","Brasil","F",5.28,0,102,48
-21,3,"Pardo(a)","MTN","Brasil","M",5.3063,0.3,102,50
-19,6,"Branco(a)","MTN","Brasil","M",4.05,0.2,102,24
-19,6,"Branco(a)","MTN","Brasil","M",4.05,1.1,102,20
-19,6,"Branco(a)","MTN","Brasil","M",4.05,1.1,102,38
-17,5,"Branco(a)","MTN","Brasil","M",4.3571,0,102,20
-23,5,"Preto(a)","MTN","Brasil","F",4.0393,0,102,50
-23,5,"Preto(a)","MTN","Brasil","F",4.0393,0,102,70
-17,11,"Branco(a)","MTN","Brasil","F",7.8004,1.7,102,0
-17,11,"Branco(a)","MTN","Brasil","F",7.8004,7,102,2
-18,3,"Pardo(a)","MTN","Brasil","F",5.55,0.5,102,20
-18,9,"Indígena","MTN","Venezuela","M",3.1128,0,102,8
-18,11,"Pardo(a)","MTN","Brasil","M",8.0838,6.9,102,10
-20,11,"Branco(a)","MTN","Brasil","F",4.4014,0,102,10
-17,5,"Branco(a)","MTN","Brasil","F",4.3848,0,102,80
-23,6,"Não Declarado(a)","MTN","Brasil","M",4.2513,0.2,102,12
-20,9,"Pardo(a)","MTN","Brasil","M",4.0783,3.7,102,4
-20,9,"Pardo(a)","MTN","Brasil","M",4.0783,6,102,8
-21,5,"Pardo(a)","MTN","Brasil","M",3.8606,1.2,102,90
-21,4,"Branco(a)","MTN","Brasil","M",4.6212,0.1,102,58
-23,7,"Branco(a)","MTN","Brasil","M",5.1381,0.5,102,42
-20,9,"Amarelo(a)","MTN","Peru","M",6.3335,6.8,102,0
-21,10,"Branco(a)","MTN","Brasil","F",6.869,2.7,102,16
-21,10,"Branco(a)","MTN","Brasil","F",6.869,6,102,10
-22,8,"Pardo(a)","MTN","Brasil","M",4.7665,0.2,102,16
-17,9,"Branco(a)","MTN","Brasil","M",7.9027,8.9,102,0
-19,4,"Pardo(a)","MTN","Brasil","M",3.6594,1.8,102,40
-17,9,"Branco(a)","MTN","Brasil","M",8.0667,8.7,102,0
-17,9,"Branco(a)","MTN","Brasil","M",7.0316,6,102,0
-19,4,"Branco(a)","MTN","Brasil","M",1.75,0,102,72
-17,3,"Branco(a)","MTN","Brasil","F",5.6273,0,102,50
-17,9,"Pardo(a)","MTN","Brasil","M",8.0322,10,102,4
-18,4,"Branco(a)","MTN","Brasil","M",5.3653,6,102,4
-18,3,"Branco(a)","MTN","Brasil","F",3.1871,0,102,12
-18,9,"Branco(a)","MTN","Brasil","M",6.98,4.9,102,18
-20,9,"Pardo(a)","MTN","Brasil","F",0.9522,0,102,64
-23,9,"Pardo(a)","MTN","Brasil","M",4.4689,0.1,102,38
-20,5,"Pardo(a)","MTN","Brasil","F",5.3898,0,102,2
-17,3,"Pardo(a)","MTN","Brasil","M",4.82,0.7,102,6
-17,9,"Branco(a)","MTN","Brasil","F",7.2228,0.6,102,6
-17,3,"Branco(a)","MTN","Brasil","M",6.7949,1.4,102,22
-20,2,"Branco(a)","MTN","Brasil","M",3.9565,0,102,16
-17,9,"Branco(a)","MTN","Brasil","M",5.9663,7.5,102,2
-18,4,"Branco(a)","MTN","Brasil","M",3.3,0,102,48
-18,6,"Branco(a)","MTN","Brasil","M",3.4385,0,102,58
-18,9,"Branco(a)","MTN","Brasil","M",6.6463,6,102,18
-18,3,"Branco(a)","MTN","Brasil","F",7.2758,2,102,16
-17,6,"Branco(a)","MTN","Brasil","F",5.1517,0.1,102,54
-17,4,"Branco(a)","MTN","Brasil","M",4.8526,1.3,102,48
-17,9,"Pardo(a)","MTN","Brasil","F",6.4111,0.2,102,8
-17,8,"Amarelo(a)","MTN","Brasil","M",3.0384,0.5,102,40
-33,3,"Branco(a)","MTN","Brasil","F",3.6519,0,102,60
-19,3,"Branco(a)","MTN","Brasil","F",5.4414,2.5,102,4
-18,9,"Branco(a)","MTN","Brasil","M",6.0719,0,102,46
-32,3,"Branco(a)","MTN","Brasil","F",8.3045,6.1,102,2
-19,6,"Branco(a)","MTN","Brasil","M",5.0489,1,102,38
-18,9,"Branco(a)","MTN","Brasil","M",7.0234,0,102,6
-19,9,"Pardo(a)","MTN","Brasil","M",7.9519,9.1,102,0
-17,4,"Branco(a)","MTN","Brasil","F",2.7441,0,102,76
-18,6,"Branco(a)","MTN","Brasil","F",7.5086,7.3,102,2
-19,9,"Pardo(a)","MTN","Paraguai","F",6.2983,2.2,102,12
-23,5,"Preto(a)","MTN","Haiti","M",3.5674,0.4,102,22
-26,7,"Preto(a)","MTN","Guiné Bissau","M",6.9714,0.1,102,20
-19,9,"Branco(a)","MTN","Paraguai","F",6.1322,0.1,102,20
-18,4,"Não Declarado(a)","MTN","Paraguai","M",3.3171,0.2,102,36
-18,6,"Não Declarado(a)","MTN","Colômbia","M",4.4135,1.8,102,2
-28,7,"Preto(a)","MTN","Haiti","M",3.5703,0.3,102,30
-19,7,"Branco(a)","MTN","Paraguai","F",6.2173,0,102,4
-20,8,"Pardo(a)","MTN","Paraguai","F",6.1827,2,102,14
-30,7,"Indígena","MTN","Peru","M",4.2468,0,102,6
-19,9,"Não Declarado(a)","MTN","Paraguai","F",7.4245,1.8,102,16
-20,9,"Amarelo(a)","MTN","Paraguai","M",8.393,10,102,4
-18,8,"Não Declarado(a)","MTN","Colômbia","M",7.3451,3.7,102,4
-21,9,"Branco(a)","MTN","Venezuela","M",7.6452,8.5,102,8
-21,9,"Pardo(a)","MTN","Chile","M",6.544,0.4,102,6
-19,9,"Não Declarado(a)","MTN","Paraguai","M",1.8905,1.2,102,28
-20,7,"Pardo(a)","MTN","Honduras","M",6.6027,0,102,34
-21,9,"Não Declarado(a)","MTN","Paraguai","F",6.518,1.3,102,6
-18,9,"Branco(a)","MTN","Honduras","M",7.6823,8,102,2
-29,8,"Preto(a)","MTN","Haiti","M",4.9936,6.2,102,0
-18,9,"Não Declarado(a)","MTN","Paraguai","F",7.9304,4.9,102,0
-19,3,"Branco(a)","MTN","Colômbia","F",4.6897,0,102,10
-27,9,"Branco(a)","MTN","Colômbia","M",5.9553,6.5,102,6
-18,9,"Pardo(a)","MTN","Paraguai","F",7.6178,2.5,102,0
-20,9,"Branco(a)","MTN","Colômbia","M",7.3698,5.1,102,22
-19,9,"Branco(a)","MTN","Paraguai","M",6.1264,0.6,102,10
-23,9,"Pardo(a)","MTN","Peru","F",6.8375,0,102,40
-36,9,"Pardo(a)","MTN","Paquistão","M",6.6646,2.3,102,10
-19,6,"Branco(a)","MTN","Paraguai","M",6.8484,0.3,102,14
-17,9,"Branco(a)","MTN","Brasil","F",7.0374,6,102,0
-18,9,"Branco(a)","MTN","Brasil","F",6.9217,1.7,102,2
-19,9,"Branco(a)","MTN","Brasil","F",3.7582,0,102,44
-17,2,"Branco(a)","MTN","Brasil","F",4.588,0.6,102,18
-28,3,"Branco(a)","MTN","Brasil","M",5.0759,0.1,102,12
-17,9,"Branco(a)","MTN","Brasil","F",7.4015,0.5,102,4
-19,3,"Branco(a)","MTN","Brasil","F",5.43,0,102,10
-29,8,"Branco(a)","MTN","Colômbia","M",5.3427,0.1,102,26
-22,9,"Branco(a)","MTN","Colômbia","M",6.3649,1.1,102,12
-23,5,"Branco(a)","MTN","Brasil","F",0.5275,0,102,88
-29,6,"Indígena","MTN","Bolívia","M",4.1856,2.6,102,10
-19,7,"Branco(a)","MTN","Brasil","M",2.9562,0,102,72
-19,3,"Pardo(a)","MTN","Brasil","M",2.0846,0,102,76
-20,4,"Branco(a)","MTN","Brasil","M",4.1227,0,102,12
-18,9,"Pardo(a)","MTN","Brasil","M",9.1083,9.8,102,2
-19,9,"Branco(a)","MTN","Brasil","F",5.8756,0.4,102,24
-18,9,"Pardo(a)","MTN","Colômbia","M",6.845,2.2,102,12
-17,3,"Branco(a)","T","Brasil","M",6.2,0.2,102,36
-19,3,"Amarelo(a)","MTN","Brasil","F",2.7629,0,102,20
-18,3,"Branco(a)","MTN","Brasil","M",3.6567,0.2,102,42
-19,3,"Preto(a)","MTN","Brasil","M",3.232,0.1,102,48
-28,4,"Amarelo(a)","MTN","Peru","F",5.6444,0,102,84
-28,4,"Amarelo(a)","MTN","Peru","F",5.6444,1.1,102,40
-17,9,"Branco(a)","MTN","Brasil","F",6.9079,6.5,102,12
-18,9,"Não Declarado(a)","MTN","Colômbia","F",6.0293,5.2,102,6
-18,3,"Preto(a)","MTN","Brasil","M",5.8933,0.6,102,4
-17,3,"Branco(a)","MTN","Brasil","M",5.7567,0,102,4
-18,3,"Preto(a)","MTN","Brasil","M",6.2946,0.7,102,10
-17,3,"Não Declarado(a)","MTN","Brasil","F",3.44,0,102,70
-18,4,"Pardo(a)","MTN","Brasil","M",2.4472,0.2,102,12
-17,4,"Pardo(a)","MTN","Brasil","M",3.0771,0,102,12
-23,4,"Branco(a)","MTN","Brasil","M",3.3758,0,102,14
-21,9,"Pardo(a)","MTN","Venezuela","M",7.0758,8.8,102,6
-19,4,"Pardo(a)","MTN","Brasil","F",2.9156,0,102,28
-19,9,"Branco(a)","MTN","Paraguai","F",6.0254,0,102,28
-17,9,"Branco(a)","MTN","Brasil","M",4.5082,0.2,102,56
-36,5,"Branco(a)","MTN","Brasil","M",6.5611,0.4,102,8
-19,6,"Não Declarado(a)","MTN","Peru","M",1.9408,0,102,24
-19,3,"Pardo(a)","MTN","Brasil","F",5.6161,1.3,102,10
-18,9,"Branco(a)","MTN","Brasil","M",6.7496,0.5,102,4
-17,9,"Branco(a)","MTN","Brasil","M",5.2181,0.1,102,20
-17,9,"Pardo(a)","MTN","Brasil","M",5.266,0,102,58
-17,9,"Pardo(a)","MTN","Brasil","F",7.3667,2,102,4
-29,8,"Amarelo(a)","MTN","Brasil","M",1.912,0,102,64
-19,9,"Pardo(a)","MTN","Brasil","F",5.333,3.1,102,6
-18,7,"Não Declarado(a)","MTN","Venezuela","M",3.514,3.2,102,8
-19,9,"Pardo(a)","MTN","Brasil","F",6.2199,0,102,36
-17,4,"Branco(a)","MTN","Brasil","M",3.2562,0,102,34
-19,4,"Pardo(a)","MTN","Brasil","M",2.675,0,102,52
-18,9,"Branco(a)","MTN","Brasil","F",7.252,4.2,102,2
-17,4,"Branco(a)","MTN","Brasil","F",3.3,0,102,52
-17,7,"Branco(a)","MTN","Brasil","F",6.1108,0.7,102,2
-19,9,"Branco(a)","MTN","Brasil","F",5.6139,0,102,10
-19,7,"Preto(a)","MTN","Brasil","M",1.2593,0,102,68
-20,9,"Não Declarado(a)","MTN","Equador","M",5.1514,0.2,102,16
-17,9,"Pardo(a)","MTN","Brasil","F",6.906,6,102,10
-17,9,"Branco(a)","MTN","Brasil","M",6.0327,1.1,102,34
-20,10,"Branco(a)","MTN","Brasil","M",7.7114,6,102,8
-18,9,"Pardo(a)","MTN","Brasil","M",5.5319,0.9,102,16
-18,6,"Branco(a)","MTN","Brasil","M",1.5373,0,102,38
-25,5,"Não Declarado(a)","MTN","Colômbia","M",5.9295,0.8,102,54
-17,5,"Branco(a)","MTN","Brasil","M",2.9723,0.3,102,46
-23,6,"Pardo(a)","MTN","Brasil","M",0.5771,0,102,90
-24,3,"Branco(a)","MTN","Brasil","F",2.3885,0.1,102,54
-21,9,"Pardo(a)","MTN","Brasil","F",2.1933,0,102,38
-21,7,"Branco(a)","MTN","Brasil","F",4.8864,0,102,14
-18,3,"Pardo(a)","MTN","Brasil","M",2.21,0,102,0
-25,3,"Amarelo(a)","MTN","Brasil","M",5.7033,1,102,4
-31,4,"Branco(a)","MTN","Brasil","F",1.9625,0,102,10
-19,4,"Preto(a)","MTN","Brasil","M",1.164,0,102,62
-20,6,"Pardo(a)","MTN","Brasil","M",0.9075,0,102,30
-17,3,"Branco(a)","MTN","Brasil","M",4.2708,0,102,66
-19,3,"Branco(a)","MTN","Brasil","M",4.5,0,102,10
-20,4,"Pardo(a)","MTN","Brasil","M",0.0581,0,102,74
+"idade_ingresso_curso","periodo_atual","raca","turno","cr_total_integralizados","cr_total_pendentes","pais_origem","sexo","ira","media_final","ch_total","numero_faltas"
+16.0,3,Pardo(a),MTN,56,204,Brasil,M,6.9229,9.20,102,14
+16.0,5,Pardo(a),MTN,60,176,Brasil,M,5.3500,0.70,90,0
+16.0,5,Pardo(a),MTN,60,176,Brasil,M,5.3500,0.70,90,22
+16.0,11,Branco(a),MTN,184,38,Brasil,M,6.9848,0.70,102,18
+16.0,11,Branco(a),MTN,184,38,Brasil,M,6.9848,6.90,102,0
+16.0,11,Branco(a),MTN,219,8,Brasil,F,6.8523,0.80,102,6
+16.0,11,Branco(a),MTN,219,8,Brasil,F,6.8523,5.00,102,0
+16.0,12,Branco(a),MTN,228,0,Brasil,M,7.6503,5.40,102,0
+16.0,12,Branco(a),MTN,228,0,Brasil,M,7.6503,6.70,102,4
+16.0,14,Não Declarado(a),MTN,282,0,Paraguai,F,7.2931,6.00,90,2
+17.0,2,Branco(a),MTN,24,204,Brasil,F,4.5880,0.60,102,18
+17.0,2,Branco(a),MTN,38,190,Brasil,F,5.8567,0.60,102,20
+17.0,2,Branco(a),MTN,62,226,Brasil,M,8.2000,7.70,102,4
+17.0,3,Branco(a),MTN,20,213,Brasil,M,4.2708,0.00,102,66
+17.0,3,Branco(a),MTN,20,274,Brasil,M,3.4742,0.00,90,72
+17.0,3,Branco(a),MTN,42,246,Brasil,F,5.6273,0.00,102,50
+17.0,3,Branco(a),MTN,46,214,Brasil,M,5.7567,0.00,102,4
+17.0,3,Branco(a),MTN,52,230,Brasil,M,6.7949,1.40,102,22
+17.0,3,Branco(a),T,46,64,Brasil,M,6.2000,0.20,102,36
+17.0,3,Não Declarado(a),MTN,22,206,Brasil,F,3.4400,0.00,102,70
+17.0,3,Pardo(a),MTN,0,233,Brasil,F,0.0000,0.00,102,70
+17.0,3,Pardo(a),MTN,34,194,Brasil,M,4.8200,0.70,102,6
+17.0,3,Pardo(a),MTN,38,250,Brasil,F,5.6103,0.00,102,28
+17.0,4,Branco(a),MTN,20,262,Brasil,M,3.2562,0.00,102,34
+17.0,4,Branco(a),MTN,22,205,Brasil,F,2.7441,0.00,102,76
+17.0,4,Branco(a),MTN,26,228,Brasil,F,5.3955,0.60,102,25
+17.0,4,Branco(a),MTN,28,254,Brasil,F,3.3000,0.00,102,52
+17.0,4,Branco(a),MTN,36,246,Brasil,M,4.8526,1.30,102,48
+17.0,4,Branco(a),MTN,40,118,Brasil,M,3.7095,0.00,90,0
+17.0,4,Branco(a),MTN,56,180,Brasil,F,5.6545,0.00,90,18
+17.0,4,Branco(a),MTN,56,180,Brasil,F,5.6545,0.60,90,24
+17.0,4,Não Declarado(a),MTN,20,250,Paraguai,F,5.5838,0.90,90,0
+17.0,4,Pardo(a),MTN,16,238,Brasil,M,3.0771,0.00,102,12
+17.0,4,Pardo(a),MTN,24,236,Brasil,M,4.9069,0.70,102,43
+17.0,4,Pardo(a),MTN,34,226,Brasil,M,4.1865,0.10,102,0
+17.0,5,Amarelo(a),MTN,18,209,Brasil,F,3.0575,0.10,102,52
+17.0,5,Branco(a),MTN,26,202,Brasil,M,4.3571,0.00,102,20
+17.0,5,Branco(a),MTN,34,180,Brasil,F,4.3848,0.00,102,80
+17.0,5,Branco(a),MTN,34,194,Brasil,M,2.9723,0.30,102,46
+17.0,5,Branco(a),MTN,36,197,Brasil,F,4.2592,0.00,102,16
+17.0,5,Branco(a),MTN,36,197,Brasil,F,4.2592,0.40,102,18
+17.0,5,Branco(a),MTN,36,197,Brasil,F,4.2592,0.70,102,22
+17.0,5,Branco(a),MTN,36,252,Brasil,F,5.0262,0.00,102,52
+17.0,5,Branco(a),MTN,38,190,Brasil,M,4.3146,0.00,102,0
+17.0,5,Branco(a),MTN,38,190,Brasil,M,4.3146,3.70,102,26
+17.0,5,Branco(a),MTN,38,195,Brasil,F,4.8573,1.20,102,30
+17.0,5,Branco(a),MTN,42,172,Brasil,F,3.9824,0.10,102,12
+17.0,5,Branco(a),MTN,42,246,Brasil,M,3.3649,0.60,102,54
+17.0,5,Branco(a),MTN,42,246,Brasil,M,3.3649,0.70,102,0
+17.0,5,Branco(a),MTN,44,184,Brasil,F,6.0324,0.20,102,8
+17.0,5,Branco(a),MTN,44,189,Brasil,F,4.7667,0.10,102,12
+17.0,5,Branco(a),MTN,44,189,Brasil,F,4.7667,0.20,102,14
+17.0,5,Branco(a),MTN,46,182,Brasil,F,4.5379,0.00,102,75
+17.0,5,Branco(a),MTN,50,183,Brasil,F,4.6491,0.10,102,28
+17.0,5,Branco(a),MTN,50,183,Brasil,F,4.6491,2.70,102,0
+17.0,5,Branco(a),MTN,50,210,Paraguai,M,3.5431,0.40,102,72
+17.0,5,Branco(a),MTN,52,181,Brasil,M,5.2029,0.00,102,27
+17.0,5,Branco(a),MTN,54,179,Brasil,M,4.9933,0.00,102,20
+17.0,5,Branco(a),MTN,54,179,Brasil,M,4.9933,0.70,102,10
+17.0,5,Branco(a),MTN,58,202,Brasil,M,4.5902,3.70,102,6
+17.0,5,Branco(a),MTN,58,202,Brasil,M,4.5902,4.00,102,2
+17.0,5,Branco(a),MTN,66,228,Brasil,M,5.2293,0.00,90,26
+17.0,5,Branco(a),MTN,76,212,Brasil,M,5.4212,0.80,102,28
+17.0,5,Branco(a),MTN,78,150,Brasil,F,5.7096,0.50,102,0
+17.0,5,Branco(a),MTN,78,150,Brasil,F,5.7096,2.10,102,22
+17.0,5,Branco(a),MTN,78,150,Brasil,F,5.7096,2.70,90,16
+17.0,5,Branco(a),MTN,92,162,Brasil,M,6.9051,3.20,102,6
+17.0,5,Branco(a),MTN,92,162,Brasil,M,6.9051,7.00,102,16
+17.0,5,Pardo(a),MTN,42,186,Brasil,M,3.9321,3.30,102,21
+17.0,5,Pardo(a),MTN,42,186,Brasil,M,3.9321,3.80,102,2
+17.0,5,Pardo(a),MTN,46,208,Brasil,M,5.4698,3.10,102,18
+17.0,5,Pardo(a),MTN,46,208,Brasil,M,5.4698,3.20,102,16
+17.0,6,Branco(a),MTN,12,202,Brasil,M,1.8515,0.00,102,10
+17.0,6,Branco(a),MTN,18,210,Brasil,M,4.5231,1.00,102,52
+17.0,6,Branco(a),MTN,24,203,Brasil,M,3.0867,0.00,102,10
+17.0,6,Branco(a),MTN,24,203,Brasil,M,3.0867,0.00,102,70
+17.0,6,Branco(a),MTN,30,258,Brasil,M,2.2634,0.00,102,28
+17.0,6,Branco(a),MTN,30,258,Brasil,M,2.2634,0.00,102,74
+17.0,6,Branco(a),MTN,32,196,Brasil,M,3.6463,0.00,102,18
+17.0,6,Branco(a),MTN,32,196,Brasil,M,3.6463,0.50,102,4
+17.0,6,Branco(a),MTN,40,188,Brasil,M,3.9700,0.40,102,24
+17.0,6,Branco(a),MTN,40,188,Brasil,M,3.9700,1.20,102,0
+17.0,6,Branco(a),MTN,40,188,Brasil,M,3.9700,1.20,102,30
+17.0,6,Branco(a),MTN,44,238,Brasil,F,5.1517,0.10,102,54
+17.0,6,Branco(a),MTN,58,224,Brasil,M,5.1965,0.70,102,34
+17.0,6,Branco(a),MTN,58,224,Brasil,M,5.1965,1.20,102,16
+17.0,6,Branco(a),MTN,58,224,Brasil,M,5.1965,3.10,102,0
+17.0,6,Branco(a),MTN,118,170,Brasil,M,6.2872,6.90,90,14
+17.0,6,Pardo(a),MTN,58,170,Brasil,M,4.9879,2.00,102,2
+17.0,6,Pardo(a),MTN,58,170,Brasil,M,4.9879,4.50,102,12
+17.0,6,Preto(a),MTN,28,254,Brasil,M,3.5489,0.00,102,54
+17.0,6,Preto(a),MTN,28,254,Brasil,M,3.5489,0.10,102,32
+17.0,7,Branco(a),MTN,86,128,Brasil,M,4.9000,6.90,102,8
+17.0,7,Branco(a),MTN,90,143,Brasil,F,5.9940,1.40,102,20
+17.0,7,Branco(a),MTN,90,143,Brasil,F,5.9940,6.00,102,13
+17.0,7,Branco(a),MTN,114,168,Brasil,F,6.1108,0.70,102,2
+17.0,7,Preto(a),MTN,32,222,Brasil,F,2.2188,0.00,102,16
+17.0,7,Preto(a),MTN,32,222,Brasil,F,2.2188,0.00,102,34
+17.0,8,Amarelo(a),MTN,54,228,Brasil,M,3.0384,0.50,102,40
+17.0,8,Branco(a),MTN,26,202,Brasil,M,4.1333,0.00,102,10
+17.0,8,Branco(a),MTN,26,202,Brasil,M,4.1333,1.10,102,42
+17.0,8,Branco(a),MTN,42,186,Brasil,F,3.2645,0.00,102,10
+17.0,8,Branco(a),MTN,42,186,Brasil,F,3.2645,1.00,102,38
+17.0,8,Branco(a),MTN,78,204,Brasil,M,5.1561,1.40,102,6
+17.0,8,Branco(a),MTN,78,204,Brasil,M,5.1561,2.30,102,18
+17.0,8,Branco(a),MTN,78,204,Brasil,M,5.1561,7.00,102,8
+17.0,8,Pardo(a),MTN,36,218,Brasil,M,4.6500,0.00,102,10
+17.0,8,Pardo(a),MTN,36,218,Brasil,M,4.6500,1.90,102,27
+17.0,8,Pardo(a),MTN,50,186,Bolívia,M,3.0260,0.00,90,0
+17.0,8,Pardo(a),MTN,50,186,Bolívia,M,3.0260,0.00,90,62
+17.0,8,Pardo(a),MTN,50,186,Bolívia,M,3.0260,0.00,90,76
+17.0,8,Pardo(a),MTN,50,186,Bolívia,M,3.0260,0.20,90,0
+17.0,8,Pardo(a),MTN,50,186,Bolívia,M,3.0260,0.40,90,12
+17.0,8,Preto(a),MTN,74,154,Brasil,M,5.0014,0.00,102,20
+17.0,8,Preto(a),MTN,74,154,Brasil,M,5.0014,0.10,102,16
+17.0,9,Amarelo(a),MTN,260,0,Brasil,F,8.4429,8.00,102,6
+17.0,9,Branco(a),MTN,56,158,Brasil,F,4.2108,3.30,102,8
+17.0,9,Branco(a),MTN,80,174,Brasil,M,4.5082,0.20,102,56
+17.0,9,Branco(a),MTN,84,144,Brasil,M,5.2181,0.10,102,20
+17.0,9,Branco(a),MTN,104,110,Brasil,M,5.9663,7.50,102,2
+17.0,9,Branco(a),MTN,134,148,Brasil,M,6.0327,1.10,102,34
+17.0,9,Branco(a),MTN,184,98,Brasil,F,6.9079,6.50,102,12
+17.0,9,Branco(a),MTN,188,66,Brasil,F,7.2228,0.60,102,6
+17.0,9,Branco(a),MTN,188,100,Brasil,M,7.3568,6.00,102,0
+17.0,9,Branco(a),MTN,194,28,Brasil,M,7.9027,8.90,102,0
+17.0,9,Branco(a),MTN,196,26,Brasil,M,8.0667,8.70,102,0
+17.0,9,Branco(a),MTN,198,56,Brasil,F,7.0374,6.00,102,0
+17.0,9,Branco(a),MTN,198,56,Brasil,M,7.0316,6.00,102,0
+17.0,9,Branco(a),MTN,218,36,Brasil,F,7.4015,0.50,102,4
+17.0,9,Pardo(a),MTN,82,146,Brasil,F,5.2075,1.60,102,6
+17.0,9,Pardo(a),MTN,82,146,Brasil,F,5.2075,3.10,102,4
+17.0,9,Pardo(a),MTN,82,146,Brasil,F,5.2075,3.80,102,40
+17.0,9,Pardo(a),MTN,106,176,Brasil,M,5.2660,0.00,102,58
+17.0,9,Pardo(a),MTN,156,132,Brasil,M,6.3073,0.50,90,34
+17.0,9,Pardo(a),MTN,156,132,Brasil,M,6.3073,2.50,90,9
+17.0,9,Pardo(a),MTN,156,132,Brasil,M,6.3073,6.30,90,26
+17.0,9,Pardo(a),MTN,166,88,Brasil,F,6.4111,0.20,102,8
+17.0,9,Pardo(a),MTN,196,86,Brasil,M,8.0322,10.00,102,4
+17.0,9,Pardo(a),MTN,208,74,Brasil,F,6.9060,6.00,102,10
+17.0,9,Pardo(a),MTN,214,40,Brasil,F,7.3667,2.00,102,4
+17.0,10,Branco(a),MTN,64,164,Paraguai,F,4.6372,0.60,102,8
+17.0,10,Branco(a),MTN,64,164,Paraguai,F,4.6372,0.70,102,4
+17.0,10,Branco(a),MTN,64,164,Paraguai,F,4.6372,2.90,102,0
+17.0,10,Branco(a),MTN,172,110,Brasil,M,6.7289,6.40,102,0
+17.0,10,Branco(a),MTN,223,4,Brasil,M,7.0970,0.00,102,16
+17.0,10,Branco(a),MTN,223,4,Brasil,M,7.0970,2.70,102,18
+17.0,10,Branco(a),MTN,254,0,Brasil,M,7.7651,6.50,102,18
+17.0,10,Branco(a),MTN,260,0,Brasil,M,7.5338,7.00,102,8
+17.0,10,Branco(a),MTN,260,0,Brasil,M,8.1881,6.30,102,3
+17.0,10,Branco(a),MTN,288,0,Brasil,F,8.2417,9.50,90,2
+17.0,10,Branco(a),MTN,288,0,Brasil,F,8.4352,6.10,102,6
+17.0,10,Branco(a),MTN,288,0,Brasil,F,8.5040,9.90,90,2
+17.0,10,Branco(a),MTN,288,0,Brasil,F,9.2013,9.80,90,8
+17.0,10,Pardo(a),MTN,74,208,Brasil,F,3.6604,0.00,102,34
+17.0,10,Pardo(a),MTN,260,0,Brasil,M,7.9445,4.60,102,17
+17.0,10,Pardo(a),MTN,260,0,Brasil,M,7.9445,6.30,102,12
+17.0,11,Amarelo(a),MTN,258,24,Brasil,M,7.5204,2.70,102,18
+17.0,11,Amarelo(a),MTN,258,24,Brasil,M,7.5204,7.30,102,0
+17.0,11,Branco(a),MTN,68,160,Brasil,M,5.3560,4.60,102,0
+17.0,11,Branco(a),MTN,80,147,Brasil,M,3.7518,0.00,102,26
+17.0,11,Branco(a),MTN,80,147,Brasil,M,3.7518,0.00,102,58
+17.0,11,Branco(a),MTN,98,130,Paraguai,F,4.5537,0.50,102,0
+17.0,11,Branco(a),MTN,98,130,Paraguai,F,4.5537,6.00,102,2
+17.0,11,Branco(a),MTN,144,110,Brasil,F,5.8462,0.90,102,24
+17.0,11,Branco(a),MTN,144,110,Brasil,F,5.8462,3.00,102,8
+17.0,11,Branco(a),MTN,144,110,Brasil,F,5.8462,5.50,102,12
+17.0,11,Branco(a),MTN,148,74,Brasil,F,6.3955,0.80,102,12
+17.0,11,Branco(a),MTN,148,74,Brasil,F,6.3955,6.70,102,0
+17.0,11,Branco(a),MTN,162,92,Brasil,F,6.0184,0.50,102,19
+17.0,11,Branco(a),MTN,162,92,Brasil,F,6.0184,3.30,102,8
+17.0,11,Branco(a),MTN,162,92,Brasil,F,6.0184,3.60,102,20
+17.0,11,Branco(a),MTN,162,120,Brasil,M,6.5769,0.00,102,16
+17.0,11,Branco(a),MTN,162,120,Brasil,M,6.5769,8.50,102,0
+17.0,11,Branco(a),MTN,166,56,Brasil,F,6.8185,0.00,102,24
+17.0,11,Branco(a),MTN,166,56,Brasil,F,6.8185,3.80,102,0
+17.0,11,Branco(a),MTN,166,56,Brasil,F,6.8185,4.70,102,12
+17.0,11,Branco(a),MTN,184,38,Brasil,M,6.6156,2.40,102,8
+17.0,11,Branco(a),MTN,184,38,Brasil,M,6.6156,6.40,102,0
+17.0,11,Branco(a),MTN,203,24,Brasil,F,6.9253,0.30,102,0
+17.0,11,Branco(a),MTN,203,24,Brasil,F,6.9253,0.80,102,10
+17.0,11,Branco(a),MTN,203,24,Brasil,F,6.9253,2.30,102,12
+17.0,11,Branco(a),MTN,206,76,Brasil,M,7.1837,0.10,102,4
+17.0,11,Branco(a),MTN,206,76,Brasil,M,7.1837,6.20,102,0
+17.0,11,Branco(a),MTN,219,8,Brasil,F,7.8004,1.70,102,0
+17.0,11,Branco(a),MTN,219,8,Brasil,F,7.8004,7.00,102,2
+17.0,11,Branco(a),MTN,222,60,Brasil,F,6.6568,0.00,102,22
+17.0,11,Branco(a),MTN,222,60,Brasil,F,6.6568,1.30,102,0
+17.0,11,Branco(a),MTN,222,60,Brasil,F,6.6568,3.90,102,20
+17.0,11,Branco(a),MTN,227,0,Brasil,F,7.0378,3.20,102,0
+17.0,11,Branco(a),MTN,227,0,Brasil,F,7.0378,7.20,102,10
+17.0,11,Branco(a),MTN,228,0,Brasil,M,7.9608,7.40,102,0
+17.0,11,Branco(a),MTN,228,54,Brasil,F,7.0893,0.00,102,6
+17.0,11,Branco(a),MTN,250,4,Brasil,M,7.7135,2.80,102,17
+17.0,11,Branco(a),MTN,250,4,Brasil,M,7.7135,6.40,102,22
+17.0,11,Branco(a),MTN,258,24,Brasil,F,8.1528,3.70,102,4
+17.0,11,Branco(a),MTN,258,24,Brasil,F,8.1528,6.00,102,0
+17.0,11,Branco(a),MTN,260,0,Brasil,M,7.7416,6.10,102,0
+17.0,11,Branco(a),MTN,282,0,Paraguai,F,8.1090,7.80,102,4
+17.0,11,Branco(a),MTN,288,0,Brasil,F,8.5568,6.60,102,2
+17.0,11,Não Declarado(a),MTN,178,76,Brasil,F,7.1460,0.80,102,13
+17.0,11,Não Declarado(a),MTN,178,76,Brasil,F,7.1460,3.80,102,10
+17.0,11,Não Declarado(a),MTN,178,76,Brasil,F,7.1460,7.20,102,8
+17.0,11,Não Declarado(a),MTN,227,0,Brasil,M,6.6746,1.60,102,0
+17.0,11,Não Declarado(a),MTN,227,0,Brasil,M,6.6746,3.00,102,0
+17.0,11,Não Declarado(a),MTN,227,0,Brasil,M,6.6746,6.60,102,18
+17.0,11,Não Declarado(a),MTN,230,24,Brasil,M,6.8311,4.20,102,14
+17.0,11,Não Declarado(a),MTN,230,24,Brasil,M,6.8311,5.30,102,3
+17.0,11,Não Declarado(a),MTN,230,24,Brasil,M,6.8311,7.10,102,4
+17.0,11,Pardo(a),MTN,222,32,Brasil,M,7.4295,1.80,102,9
+17.0,11,Pardo(a),MTN,222,32,Brasil,M,7.4295,4.50,102,0
+17.0,11,Pardo(a),MTN,222,32,Brasil,M,7.4295,6.00,102,20
+17.0,11,Pardo(a),MTN,228,0,Brasil,M,8.3021,8.10,102,0
+17.0,11,Pardo(a),MTN,230,52,Brasil,F,7.2541,0.20,102,12
+17.0,11,Pardo(a),MTN,230,52,Brasil,F,7.2541,7.60,102,0
+17.0,11,Pardo(a),MTN,234,20,Brasil,M,6.8456,1.40,102,16
+17.0,11,Pardo(a),MTN,234,20,Brasil,M,6.8456,3.80,102,6
+17.0,11,Pardo(a),MTN,234,20,Brasil,M,6.8456,6.00,102,22
+17.0,11,Preto(a),MTN,254,0,Brasil,F,7.4038,5.40,102,15
+17.0,11,Preto(a),MTN,254,0,Brasil,F,7.4038,6.40,102,0
+17.0,12,Branco(a),MTN,78,136,Brasil,F,4.0000,0.10,102,8
+17.0,12,Branco(a),MTN,78,136,Brasil,F,4.0000,0.20,102,24
+17.0,12,Branco(a),MTN,152,130,Brasil,M,5.1092,6.00,90,10
+17.0,12,Branco(a),MTN,184,98,Brasil,M,6.3775,0.70,102,34
+17.0,12,Branco(a),MTN,184,98,Brasil,M,6.3775,0.80,90,22
+17.0,12,Branco(a),MTN,184,98,Brasil,M,6.3775,6.80,102,0
+17.0,12,Branco(a),MTN,222,0,Brasil,M,8.2328,6.20,102,3
+17.0,12,Branco(a),MTN,254,0,Brasil,F,7.0178,3.70,102,3
+17.0,12,Branco(a),MTN,254,0,Brasil,F,7.0178,6.00,102,6
+17.0,12,Branco(a),MTN,260,0,Paraguai,F,8.0819,7.00,102,0
+17.0,12,Branco(a),MTN,282,0,Brasil,M,8.1132,0.00,102,0
+17.0,12,Branco(a),MTN,282,0,Brasil,M,8.1132,6.00,102,11
+17.0,12,Indígena,MTN,66,162,Peru,F,3.8765,0.30,102,14
+17.0,12,Indígena,MTN,66,162,Peru,F,3.8765,0.50,102,0
+17.0,12,Indígena,MTN,66,162,Peru,F,3.8765,0.80,102,10
+17.0,12,Indígena,MTN,66,162,Peru,F,3.8765,0.80,102,18
+17.0,12,Indígena,MTN,66,162,Peru,F,3.8765,4.00,102,14
+17.0,13,Branco(a),MTN,96,118,Brasil,M,4.6912,7.50,102,6
+17.0,13,Branco(a),MTN,114,168,Brasil,F,6.6235,0.40,102,34
+17.0,13,Branco(a),MTN,114,168,Brasil,F,6.6235,0.70,102,10
+17.0,13,Branco(a),MTN,162,65,Brasil,M,5.6860,0.00,102,62
+17.0,13,Branco(a),MTN,162,65,Brasil,M,5.6860,0.00,102,67
+17.0,13,Branco(a),MTN,162,65,Brasil,M,5.6860,2.50,102,24
+17.0,13,Branco(a),MTN,162,65,Brasil,M,5.6860,3.00,102,32
+17.0,13,Branco(a),MTN,223,4,Brasil,M,6.3801,0.20,102,6
+17.0,13,Branco(a),MTN,223,4,Brasil,M,6.3801,6.20,102,12
+17.0,13,Branco(a),MTN,260,0,Brasil,M,7.3182,1.30,102,0
+17.0,13,Branco(a),MTN,260,0,Brasil,M,7.3182,6.90,102,18
+17.0,13,Branco(a),MTN,282,0,Brasil,M,7.6106,3.70,102,0
+17.0,13,Branco(a),MTN,282,0,Brasil,M,7.6106,6.80,102,10
+17.0,13,Branco(a),MTN,288,0,Brasil,F,8.0449,7.80,90,0
+17.0,13,Pardo(a),MTN,228,0,Brasil,M,7.1573,4.80,102,0
+17.0,13,Pardo(a),MTN,228,0,Brasil,M,7.1573,6.60,102,0
+17.0,14,Branco(a),MTN,190,92,Brasil,F,5.9719,0.30,90,16
+17.0,14,Branco(a),MTN,282,0,Brasil,M,7.1800,1.70,102,0
+17.0,14,Branco(a),MTN,282,0,Brasil,M,7.1800,2.20,102,22
+17.0,14,Branco(a),MTN,282,0,Brasil,M,7.1800,7.60,102,10
+17.0,14,Branco(a),MTN,288,0,Paraguai,M,8.3540,8.60,102,0
+17.0,14,Pardo(a),MTN,138,144,Brasil,M,4.9210,1.10,90,16
+17.0,14,Pardo(a),MTN,138,144,Brasil,M,4.9210,2.10,90,0
+17.0,14,Pardo(a),MTN,138,144,Brasil,M,4.9210,5.30,102,12
+17.0,14,Pardo(a),MTN,138,144,Brasil,M,4.9210,6.10,102,16
+17.0,14,Pardo(a),MTN,222,60,Brasil,M,6.7391,6.30,90,10
+17.0,15,Branco(a),MTN,192,90,Paraguai,F,5.6180,0.50,102,10
+17.0,15,Branco(a),MTN,192,90,Paraguai,F,5.6180,0.60,102,18
+17.0,15,Branco(a),MTN,192,90,Paraguai,F,5.6180,0.60,102,22
+17.0,15,Branco(a),MTN,192,90,Paraguai,F,5.6180,2.40,102,22
+17.0,15,Branco(a),MTN,192,90,Paraguai,F,5.6180,4.40,102,0
+17.0,15,Branco(a),MTN,242,40,Brasil,F,6.5269,4.00,102,18
+17.0,15,Branco(a),MTN,242,40,Brasil,F,6.5269,6.60,102,16
+17.0,15,Branco(a),MTN,260,0,Brasil,F,7.1872,6.40,102,0
+17.0,15,Branco(a),MTN,260,0,Brasil,M,7.5370,7.00,102,4
+17.0,15,Branco(a),MTN,260,0,Brasil,M,7.5550,0.30,102,0
+17.0,15,Branco(a),MTN,260,0,Brasil,M,7.5550,7.30,102,16
+17.0,15,Branco(a),MTN,288,0,Brasil,F,7.9581,6.10,90,0
+17.0,15,Branco(a),MTN,288,0,Brasil,M,8.2806,7.50,90,2
+17.0,15,Não Declarado(a),MTN,160,54,Paraguai,F,5.7507,1.90,102,10
+17.0,15,Não Declarado(a),MTN,160,54,Paraguai,F,5.7507,6.00,102,0
+17.0,15,Não Declarado(a),MTN,222,0,Paraguai,F,5.9538,0.50,90,28
+17.0,15,Não Declarado(a),MTN,222,0,Paraguai,F,5.9538,3.10,102,6
+17.0,15,Não Declarado(a),MTN,222,0,Paraguai,F,5.9538,4.90,102,0
+17.0,15,Não Declarado(a),MTN,222,0,Paraguai,F,5.9538,6.00,102,0
+17.0,15,Pardo(a),MTN,221,6,Brasil,M,5.7325,0.50,102,0
+17.0,15,Pardo(a),MTN,221,6,Brasil,M,5.7325,1.90,102,0
+17.0,15,Pardo(a),MTN,221,6,Brasil,M,5.7325,5.10,102,18
+17.0,15,Pardo(a),MTN,221,6,Brasil,M,5.7325,6.00,102,4
+17.0,15,Pardo(a),MTN,282,0,Brasil,F,6.5049,1.00,90,42
+17.0,15,Pardo(a),MTN,282,0,Brasil,F,6.5049,6.10,102,0
+17.0,15,Pardo(a),MTN,282,0,Brasil,F,7.2955,4.60,102,0
+17.0,15,Pardo(a),MTN,282,0,Brasil,F,7.2955,6.00,102,15
+17.0,16,Branco(a),MTN,227,0,Brasil,M,6.5538,0.00,102,43
+17.0,16,Branco(a),MTN,227,0,Brasil,M,6.5538,0.20,102,20
+17.0,16,Branco(a),MTN,227,0,Brasil,M,6.5538,0.90,102,16
+17.0,16,Branco(a),MTN,227,0,Brasil,M,6.5538,3.60,102,22
+17.0,16,Branco(a),MTN,227,0,Brasil,M,6.5538,7.10,102,8
+17.0,16,Branco(a),MTN,282,0,Brasil,M,7.4445,3.90,90,4
+17.0,16,Branco(a),MTN,282,0,Brasil,M,7.4445,7.60,102,14
+17.0,16,Branco(a),MTN,288,0,Brasil,M,7.7024,6.30,90,2
+17.0,16,Pardo(a),MTN,282,0,Brasil,M,7.8287,6.10,102,0
+17.0,16,Pardo(a),MTN,282,0,Paraguai,F,7.2493,1.20,102,0
+17.0,16,Pardo(a),MTN,282,0,Paraguai,F,7.2493,4.40,102,2
+17.0,16,Pardo(a),MTN,282,0,Paraguai,F,7.2493,6.00,102,0
+17.0,17,Branco(a),MTN,228,0,Brasil,F,5.9973,1.60,90,14
+17.0,17,Branco(a),MTN,228,0,Brasil,F,5.9973,5.70,90,0
+17.0,17,Branco(a),MTN,228,0,Brasil,F,5.9973,7.90,102,8
+17.0,17,Pardo(a),MTN,260,0,Brasil,M,8.0645,6.80,102,0
+17.0,17,Pardo(a),MTN,288,0,Brasil,M,7.6722,6.60,102,0
+17.0,18,Branco(a),MTN,288,0,Brasil,F,6.8949,0.10,90,16
+17.0,18,Branco(a),MTN,288,0,Brasil,F,6.8949,3.60,90,17
+17.0,18,Branco(a),MTN,288,0,Brasil,F,6.8949,6.60,90,14
+18.0,3,Branco(a),MTN,26,202,Brasil,M,3.6567,0.20,102,42
+18.0,3,Branco(a),MTN,26,228,Brasil,F,3.1871,0.00,102,12
+18.0,3,Branco(a),MTN,40,196,Brasil,F,6.5067,0.50,90,28
+18.0,3,Branco(a),MTN,48,234,Brasil,F,7.2758,2.00,102,16
+18.0,3,Pardo(a),MTN,4,256,Brasil,M,2.2100,0.00,102,0
+18.0,3,Pardo(a),MTN,28,205,Brasil,F,5.5500,0.50,102,20
+18.0,3,Pardo(a),MTN,56,204,Brasil,M,7.1314,3.70,102,0
+18.0,3,Preto(a),MTN,44,184,Brasil,M,5.8933,0.60,102,4
+18.0,3,Preto(a),MTN,56,171,Brasil,M,6.2946,0.70,102,10
+18.0,4,Amarelo(a),MTN,30,184,Brasil,M,3.0077,0.00,102,18
+18.0,4,Branco(a),MTN,26,202,Brasil,M,3.3000,0.00,102,48
+18.0,4,Branco(a),MTN,52,176,Brasil,M,5.3653,6.00,102,4
+18.0,4,Branco(a),MTN,58,178,Paraguai,M,5.7343,0.80,90,22
+18.0,4,Não Declarado(a),MTN,20,207,Paraguai,M,3.3171,0.20,102,36
+18.0,4,Pardo(a),MTN,18,264,Brasil,M,2.4472,0.20,102,12
+18.0,4,Pardo(a),MTN,54,228,Brasil,M,4.7962,0.00,102,18
+18.0,4,Pardo(a),MTN,54,228,Brasil,M,4.7962,3.50,102,0
+18.0,5,Amarelo(a),MTN,26,201,Brasil,M,2.8604,0.00,102,58
+18.0,5,Branco(a),MTN,28,200,Brasil,M,3.4270,0.50,102,0
+18.0,5,Branco(a),MTN,28,200,Brasil,M,3.4270,0.80,102,56
+18.0,5,Branco(a),MTN,36,178,Brasil,M,4.4860,0.00,102,12
+18.0,5,Branco(a),MTN,44,174,Paraguai,F,3.8187,0.10,90,46
+18.0,5,Branco(a),MTN,44,174,Paraguai,F,3.8187,1.30,90,0
+18.0,5,Branco(a),MTN,48,234,Brasil,M,4.5019,0.00,102,36
+18.0,5,Branco(a),MTN,50,210,Paraguai,M,4.2269,0.10,102,0
+18.0,5,Branco(a),MTN,66,167,Brasil,M,6.3912,3.40,102,17
+18.0,5,Branco(a),MTN,68,160,Brasil,F,5.7299,0.20,90,48
+18.0,5,Branco(a),MTN,68,160,Brasil,F,5.7299,2.00,102,26
+18.0,5,Branco(a),MTN,74,214,Brasil,M,6.0500,2.40,102,12
+18.0,5,Branco(a),MTN,88,206,Paraguai,F,5.7950,2.70,90,4
+18.0,5,Branco(a),MTN,102,158,Brasil,M,6.4864,6.20,102,0
+18.0,5,Branco(a),MTN,104,184,Brasil,M,6.8698,7.40,102,4
+18.0,5,Pardo(a),MTN,28,200,Brasil,M,2.9892,0.00,102,0
+18.0,5,Pardo(a),MTN,28,200,Brasil,M,2.9892,0.00,102,62
+18.0,5,Pardo(a),MTN,28,200,Brasil,M,2.9892,0.20,102,34
+18.0,5,Pardo(a),MTN,38,222,Brasil,M,3.0550,1.00,102,25
+18.0,5,Pardo(a),MTN,56,177,Brasil,M,4.8434,0.00,102,25
+18.0,6,Branco(a),MTN,10,217,Brasil,F,2.3889,0.00,102,10
+18.0,6,Branco(a),MTN,10,272,Brasil,M,1.5373,0.00,102,38
+18.0,6,Branco(a),MTN,42,185,Brasil,M,3.4385,0.00,102,58
+18.0,6,Branco(a),MTN,44,189,Brasil,M,3.5830,0.00,102,0
+18.0,6,Branco(a),MTN,44,204,Paraguai,F,3.4143,0.00,90,0
+18.0,6,Branco(a),MTN,72,216,Brasil,F,6.0040,1.80,102,0
+18.0,6,Branco(a),MTN,74,159,Brasil,F,5.4458,3.00,102,0
+18.0,6,Branco(a),MTN,74,159,Brasil,F,5.4458,6.20,102,0
+18.0,6,Branco(a),MTN,106,127,Brasil,F,6.5739,6.20,102,8
+18.0,6,Branco(a),MTN,136,146,Brasil,F,7.5086,7.30,102,2
+18.0,6,Não Declarado(a),MTN,56,171,Paraguai,M,3.9623,0.20,102,24
+18.0,6,Não Declarado(a),MTN,56,171,Paraguai,M,3.9623,0.40,102,34
+18.0,6,Não Declarado(a),MTN,56,171,Paraguai,M,3.9623,1.20,102,40
+18.0,6,Não Declarado(a),MTN,88,139,Colômbia,M,4.4135,1.80,102,2
+18.0,6,Pardo(a),MTN,46,182,Brasil,F,4.3788,0.00,102,60
+18.0,6,Pardo(a),MTN,62,226,Chile,F,5.4919,1.00,102,0
+18.0,6,Pardo(a),MTN,64,172,Paraguai,M,4.8458,1.30,90,0
+18.0,6,Pardo(a),MTN,64,172,Paraguai,M,4.8458,1.40,102,60
+18.0,6,Pardo(a),MTN,64,172,Paraguai,M,4.8458,3.50,90,20
+18.0,6,Pardo(a),MTN,90,143,Brasil,F,5.4746,0.80,102,0
+18.0,6,Pardo(a),MTN,90,143,Brasil,F,5.4746,2.20,102,13
+18.0,6,Pardo(a),MTN,90,143,Brasil,F,5.4746,2.40,102,22
+18.0,6,Pardo(a),MTN,98,162,Brasil,M,5.4595,6.50,102,8
+18.0,7,Branco(a),MTN,18,196,Brasil,M,2.5682,0.20,102,0
+18.0,7,Branco(a),MTN,22,192,Brasil,M,2.3933,0.00,102,14
+18.0,7,Branco(a),MTN,52,176,Brasil,M,4.6403,0.60,102,32
+18.0,7,Branco(a),MTN,70,163,Brasil,F,5.5425,1.90,102,12
+18.0,7,Branco(a),MTN,70,163,Brasil,F,5.5425,4.10,102,15
+18.0,7,Branco(a),MTN,72,155,Brasil,M,4.6436,0.00,102,10
+18.0,7,Branco(a),MTN,72,155,Brasil,M,4.6436,0.00,102,34
+18.0,7,Branco(a),MTN,72,155,Brasil,M,4.6436,0.00,102,38
+18.0,7,Branco(a),MTN,74,159,Paraguai,F,5.1816,0.00,102,68
+18.0,7,Branco(a),MTN,76,138,Brasil,M,5.9148,7.20,102,8
+18.0,7,Branco(a),MTN,80,180,Brasil,F,6.0519,6.50,102,0
+18.0,7,Branco(a),MTN,92,136,Brasil,F,5.9642,5.40,90,2
+18.0,7,Branco(a),MTN,108,180,Paraguai,F,5.8214,0.70,102,9
+18.0,7,Branco(a),MTN,108,180,Paraguai,F,5.8214,2.10,102,0
+18.0,7,Branco(a),MTN,108,180,Paraguai,F,5.8214,4.80,102,0
+18.0,7,Branco(a),MTN,110,178,Brasil,F,5.8112,6.00,102,13
+18.0,7,Branco(a),MTN,148,140,Brasil,M,6.7102,4.20,90,2
+18.0,7,Branco(a),MTN,148,140,Brasil,M,6.7102,6.40,102,6
+18.0,7,Indígena,MTN,52,236,Bolívia,M,4.9618,0.70,102,6
+18.0,7,Não Declarado(a),MTN,30,184,Paraguai,M,2.8211,0.00,102,10
+18.0,7,Não Declarado(a),MTN,30,184,Paraguai,M,2.8211,0.00,102,60
+18.0,7,Não Declarado(a),MTN,30,184,Paraguai,M,2.8211,0.30,102,48
+18.0,7,Não Declarado(a),MTN,38,216,Venezuela,M,3.5140,3.20,102,8
+18.0,7,Não Declarado(a),MTN,40,214,Paraguai,M,2.6609,0.00,102,20
+18.0,7,Não Declarado(a),MTN,40,214,Paraguai,M,2.6609,0.00,102,38
+18.0,7,Não Declarado(a),MTN,50,232,Peru,M,3.8247,1.10,102,32
+18.0,7,Não Declarado(a),MTN,50,232,Peru,M,3.8247,3.50,102,8
+18.0,7,Não Declarado(a),MTN,70,88,Bolívia,M,5.4164,6.40,90,0
+18.0,7,Não Declarado(a),MTN,80,153,Paraguai,M,5.3127,1.80,102,0
+18.0,7,Não Declarado(a),MTN,80,153,Paraguai,M,5.3127,6.70,102,10
+18.0,7,Não Declarado(a),MTN,98,156,Paraguai,M,5.5885,1.40,102,17
+18.0,7,Não Declarado(a),MTN,98,156,Paraguai,M,5.5885,2.60,102,20
+18.0,7,Não Declarado(a),MTN,98,156,Paraguai,M,5.5885,6.00,102,20
+18.0,7,Pardo(a),MTN,48,188,Argentina,F,3.9500,0.10,90,14
+18.0,7,Pardo(a),MTN,48,188,Argentina,F,3.9500,0.20,90,0
+18.0,7,Pardo(a),MTN,48,188,Argentina,F,3.9500,0.80,90,6
+18.0,7,Pardo(a),MTN,48,188,Argentina,F,3.9500,1.00,90,0
+18.0,7,Pardo(a),MTN,52,242,Paraguai,M,3.5507,0.00,90,74
+18.0,7,Pardo(a),MTN,52,242,Paraguai,M,3.5507,0.10,90,14
+18.0,7,Pardo(a),MTN,52,242,Paraguai,M,3.5507,0.20,90,0
+18.0,7,Pardo(a),MTN,52,242,Paraguai,M,3.5507,0.60,90,0
+18.0,7,Pardo(a),MTN,56,232,Paraguai,M,3.5985,0.10,102,0
+18.0,7,Pardo(a),MTN,56,232,Paraguai,M,3.5985,0.20,90,30
+18.0,7,Pardo(a),MTN,86,202,Brasil,F,5.3277,4.30,102,18
+18.0,7,Pardo(a),MTN,86,202,Brasil,F,5.3277,5.00,102,6
+18.0,7,Pardo(a),MTN,86,202,Brasil,F,5.3277,6.20,102,4
+18.0,7,Pardo(a),MTN,90,192,Brasil,M,5.6605,0.40,102,8
+18.0,7,Pardo(a),MTN,116,172,Brasil,M,6.3634,0.40,90,42
+18.0,7,Pardo(a),MTN,116,172,Brasil,M,6.3634,1.60,102,23
+18.0,7,Pardo(a),MTN,116,172,Chile,M,5.7921,0.50,102,8
+18.0,7,Pardo(a),MTN,116,172,Chile,M,5.7921,0.60,102,12
+18.0,7,Pardo(a),MTN,116,172,Chile,M,5.7921,1.50,102,0
+18.0,7,Pardo(a),MTN,116,172,Chile,M,5.7921,1.80,102,0
+18.0,8,Amarelo(a),MTN,72,155,Brasil,M,4.8457,0.00,102,32
+18.0,8,Branco(a),MTN,36,192,Brasil,M,3.8837,0.00,102,68
+18.0,8,Branco(a),MTN,40,174,Brasil,M,3.6196,0.00,102,12
+18.0,8,Branco(a),MTN,92,136,Brasil,M,5.6457,2.20,102,25
+18.0,8,Branco(a),MTN,92,136,Brasil,M,5.6457,3.30,102,2
+18.0,8,Branco(a),MTN,92,136,Brasil,M,5.6457,6.30,102,4
+18.0,8,Branco(a),MTN,120,134,Paraguai,M,5.6712,2.80,102,11
+18.0,8,Branco(a),MTN,120,134,Paraguai,M,5.6712,4.70,102,6
+18.0,8,Branco(a),MTN,120,134,Paraguai,M,5.6712,5.20,102,4
+18.0,8,Branco(a),MTN,120,134,Paraguai,M,5.6712,6.00,102,0
+18.0,8,Não Declarado(a),MTN,56,172,Colômbia,F,5.1087,0.10,102,27
+18.0,8,Não Declarado(a),MTN,56,172,Colômbia,F,5.1087,2.20,102,8
+18.0,8,Não Declarado(a),MTN,84,144,Brasil,M,4.9384,0.80,102,12
+18.0,8,Não Declarado(a),MTN,84,144,Brasil,M,4.9384,6.00,102,8
+18.0,8,Não Declarado(a),MTN,182,72,Colômbia,M,7.3451,3.70,102,4
+18.0,8,Não Declarado(a),N,174,0,Paraguai,F,7.6600,0.60,102,22
+18.0,8,Não Declarado(a),N,174,0,Paraguai,F,7.6600,1.80,102,4
+18.0,8,Pardo(a),MTN,36,224,Brasil,F,3.5825,1.20,102,48
+18.0,8,Pardo(a),MTN,78,149,Paraguai,M,4.8809,0.00,102,0
+18.0,8,Pardo(a),MTN,78,149,Paraguai,M,4.8809,6.30,102,15
+18.0,8,Pardo(a),MTN,154,128,Brasil,F,7.6175,1.10,102,0
+18.0,8,Pardo(a),MTN,154,128,Brasil,F,7.6175,1.20,102,16
+18.0,8,Pardo(a),MTN,154,128,Brasil,F,7.6175,6.00,102,6
+18.0,9,Branco(a),MTN,44,184,Brasil,F,3.4579,0.00,102,6
+18.0,9,Branco(a),MTN,44,184,Brasil,F,3.4579,0.00,102,76
+18.0,9,Branco(a),MTN,44,184,Brasil,F,3.4579,0.10,102,0
+18.0,9,Branco(a),MTN,44,184,Brasil,F,3.4579,0.50,102,10
+18.0,9,Branco(a),MTN,56,226,Paraguai,M,4.4639,0.00,102,10
+18.0,9,Branco(a),MTN,66,216,Paraguai,M,3.9729,0.10,102,36
+18.0,9,Branco(a),MTN,66,216,Paraguai,M,3.9729,4.80,102,8
+18.0,9,Branco(a),MTN,92,141,Brasil,F,5.2207,0.00,102,25
+18.0,9,Branco(a),MTN,92,141,Brasil,F,5.2207,0.00,102,94
+18.0,9,Branco(a),MTN,102,152,Brasil,M,4.5798,0.00,102,12
+18.0,9,Branco(a),MTN,102,152,Brasil,M,4.5798,0.00,102,82
+18.0,9,Branco(a),MTN,102,152,Brasil,M,4.5798,2.20,102,28
+18.0,9,Branco(a),MTN,116,172,Brasil,M,5.6413,0.00,90,44
+18.0,9,Branco(a),MTN,116,172,Brasil,M,5.6413,1.30,90,38
+18.0,9,Branco(a),MTN,116,172,Brasil,M,5.6413,1.80,102,38
+18.0,9,Branco(a),MTN,116,172,Brasil,M,5.6413,3.00,102,41
+18.0,9,Branco(a),MTN,116,172,Brasil,M,5.6413,4.30,102,34
+18.0,9,Branco(a),MTN,124,158,Brasil,M,6.0719,0.00,102,46
+18.0,9,Branco(a),MTN,138,89,Brasil,M,5.2746,0.30,102,8
+18.0,9,Branco(a),MTN,138,89,Brasil,M,5.2746,3.80,102,10
+18.0,9,Branco(a),MTN,138,89,Brasil,M,5.2746,5.60,102,20
+18.0,9,Branco(a),MTN,138,89,Brasil,M,5.2746,6.90,102,18
+18.0,9,Branco(a),MTN,144,78,Brasil,F,6.9217,1.70,102,2
+18.0,9,Branco(a),MTN,146,68,Brasil,M,6.6463,6.00,102,18
+18.0,9,Branco(a),MTN,150,64,Brasil,M,6.9800,4.90,102,18
+18.0,9,Branco(a),MTN,166,88,Paraguai,F,6.0838,1.90,102,13
+18.0,9,Branco(a),MTN,166,88,Paraguai,F,6.0838,2.20,102,18
+18.0,9,Branco(a),MTN,166,88,Paraguai,F,6.0838,6.00,102,17
+18.0,9,Branco(a),MTN,182,72,Brasil,M,6.7496,0.50,102,4
+18.0,9,Branco(a),MTN,192,62,Brasil,M,7.0234,0.00,102,6
+18.0,9,Branco(a),MTN,210,44,Brasil,F,7.2520,4.20,102,2
+18.0,9,Branco(a),MTN,226,28,Honduras,M,7.6823,8.00,102,2
+18.0,9,Branco(a),MTN,260,0,Brasil,F,8.2150,5.70,102,5
+18.0,9,Branco(a),MTN,260,0,Brasil,F,8.2150,6.00,102,0
+18.0,9,Branco(a),MTN,260,0,Brasil,F,8.9327,5.30,102,0
+18.0,9,Branco(a),MTN,260,0,Brasil,F,8.9327,6.80,102,4
+18.0,9,Indígena,MTN,38,244,Venezuela,M,3.1128,0.00,102,8
+18.0,9,Não Declarado(a),MTN,36,252,Brasil,M,2.4001,0.00,102,0
+18.0,9,Não Declarado(a),MTN,36,252,Brasil,M,2.4001,0.00,102,76
+18.0,9,Não Declarado(a),MTN,36,252,Brasil,M,2.4001,0.00,102,82
+18.0,9,Não Declarado(a),MTN,50,232,Paraguai,F,3.1747,0.00,102,42
+18.0,9,Não Declarado(a),MTN,50,232,Paraguai,F,3.1747,0.70,102,10
+18.0,9,Não Declarado(a),MTN,60,200,Paraguai,F,6.4856,0.30,102,0
+18.0,9,Não Declarado(a),MTN,84,176,Brasil,M,4.3495,1.70,102,12
+18.0,9,Não Declarado(a),MTN,104,110,Colômbia,F,6.0293,5.20,102,6
+18.0,9,Não Declarado(a),MTN,166,88,Paraguai,F,6.7563,1.90,102,9
+18.0,9,Não Declarado(a),MTN,166,88,Paraguai,F,6.7563,4.70,102,6
+18.0,9,Não Declarado(a),MTN,166,88,Paraguai,F,6.7563,6.00,102,16
+18.0,9,Não Declarado(a),MTN,172,50,Paraguai,F,7.9304,4.90,102,0
+18.0,9,Não Declarado(a),MTN,176,106,Paraguai,M,6.4592,0.80,102,8
+18.0,9,Não Declarado(a),MTN,176,106,Paraguai,M,6.4592,6.20,102,0
+18.0,9,Pardo(a),MTN,20,194,Brasil,M,2.2771,0.00,102,32
+18.0,9,Pardo(a),MTN,54,179,Bolívia,F,6.6105,0.30,90,6
+18.0,9,Pardo(a),MTN,62,192,Brasil,M,2.9463,0.20,102,22
+18.0,9,Pardo(a),MTN,62,192,Brasil,M,2.9463,2.00,102,10
+18.0,9,Pardo(a),MTN,62,192,Brasil,M,2.9463,3.00,102,24
+18.0,9,Pardo(a),MTN,64,218,Peru,M,4.3960,0.00,102,24
+18.0,9,Pardo(a),MTN,64,218,Peru,M,4.3960,0.00,102,32
+18.0,9,Pardo(a),MTN,96,192,Peru,F,5.3230,3.20,90,0
+18.0,9,Pardo(a),MTN,96,192,Peru,F,5.3230,7.00,90,8
+18.0,9,Pardo(a),MTN,134,148,Brasil,M,5.5319,0.90,102,16
+18.0,9,Pardo(a),MTN,160,62,Paraguai,F,7.6178,2.50,102,0
+18.0,9,Pardo(a),MTN,166,56,Colômbia,M,6.8450,2.20,102,12
+18.0,9,Pardo(a),MTN,248,34,Brasil,M,9.1083,9.80,102,2
+18.0,10,Branco(a),MTN,54,240,Paraguai,M,2.7689,0.20,90,0
+18.0,10,Branco(a),MTN,54,240,Paraguai,M,2.7689,0.30,90,38
+18.0,10,Branco(a),MTN,54,240,Paraguai,M,2.7689,0.50,90,0
+18.0,10,Branco(a),MTN,54,240,Paraguai,M,2.7689,0.70,90,22
+18.0,10,Branco(a),MTN,126,102,Brasil,M,5.1009,1.80,102,20
+18.0,10,Branco(a),MTN,126,102,Brasil,M,5.1009,6.00,102,26
+18.0,10,Branco(a),MTN,254,0,Brasil,M,7.7347,4.80,102,10
+18.0,10,Branco(a),MTN,254,0,Brasil,M,7.7347,7.00,102,2
+18.0,10,Branco(a),MTN,260,0,Brasil,M,8.2196,6.70,102,2
+18.0,10,Branco(a),MTN,260,0,Brasil,M,8.7951,8.00,102,4
+18.0,10,Não Declarado(a),MTN,156,98,Paraguai,F,6.0159,2.00,102,11
+18.0,10,Não Declarado(a),MTN,156,98,Paraguai,F,6.0159,6.40,102,12
+18.0,10,Não Declarado(a),MTN,288,0,Equador,F,8.0666,8.20,90,0
+18.0,10,Pardo(a),MTN,40,188,Brasil,F,3.6233,0.00,102,12
+18.0,10,Pardo(a),MTN,40,188,Brasil,F,3.6233,0.30,102,46
+18.0,10,Pardo(a),MTN,260,0,Paraguai,F,7.8383,6.00,102,6
+18.0,10,Pardo(a),MTN,288,0,Brasil,M,7.9341,9.40,90,18
+18.0,11,Amarelo(a),MTN,254,0,China,F,8.3958,1.70,102,8
+18.0,11,Amarelo(a),MTN,254,0,China,F,8.3958,6.20,102,0
+18.0,11,Branco(a),MTN,56,172,Paraguai,F,5.0480,0.40,102,20
+18.0,11,Branco(a),MTN,56,172,Paraguai,F,5.0480,0.70,102,6
+18.0,11,Branco(a),MTN,70,144,Brasil,M,4.9843,0.20,102,10
+18.0,11,Branco(a),MTN,70,144,Brasil,M,4.9843,1.00,102,10
+18.0,11,Branco(a),MTN,70,144,Brasil,M,4.9843,1.30,102,26
+18.0,11,Branco(a),MTN,180,42,Paraguai,F,7.3640,0.80,102,14
+18.0,11,Branco(a),MTN,180,42,Paraguai,F,7.3640,8.80,102,0
+18.0,11,Branco(a),MTN,182,72,Brasil,F,6.3891,0.70,102,13
+18.0,11,Branco(a),MTN,182,72,Brasil,F,6.3891,1.10,102,18
+18.0,11,Branco(a),MTN,182,72,Brasil,F,6.3891,6.00,102,0
+18.0,11,Branco(a),MTN,190,64,Brasil,F,6.7195,0.20,102,18
+18.0,11,Branco(a),MTN,190,64,Brasil,F,6.7195,3.00,102,2
+18.0,11,Branco(a),MTN,190,64,Brasil,F,6.7195,6.20,102,0
+18.0,11,Branco(a),MTN,200,54,Brasil,M,6.7669,2.30,102,16
+18.0,11,Branco(a),MTN,200,54,Brasil,M,6.7669,3.10,102,22
+18.0,11,Branco(a),MTN,209,18,Brasil,M,7.2518,0.50,102,14
+18.0,11,Branco(a),MTN,209,18,Brasil,M,7.2518,2.00,102,16
+18.0,11,Branco(a),MTN,217,10,Paraguai,M,6.7694,1.80,102,8
+18.0,11,Branco(a),MTN,217,10,Paraguai,M,6.7694,5.00,102,8
+18.0,11,Branco(a),MTN,217,10,Paraguai,M,6.7694,6.20,102,8
+18.0,11,Branco(a),MTN,226,28,Brasil,F,7.7488,1.90,102,18
+18.0,11,Branco(a),MTN,226,28,Brasil,F,7.7488,7.00,102,0
+18.0,11,Branco(a),MTN,228,0,Brasil,M,7.5498,5.20,90,2
+18.0,11,Branco(a),MTN,228,0,Paraguai,M,7.4511,5.20,90,4
+18.0,11,Branco(a),MTN,246,8,Brasil,F,7.6354,0.70,102,13
+18.0,11,Branco(a),MTN,246,8,Brasil,F,7.6354,6.10,102,0
+18.0,11,Branco(a),MTN,254,0,Brasil,M,7.9675,5.30,102,2
+18.0,11,Branco(a),MTN,254,0,Brasil,M,7.9675,7.10,102,4
+18.0,11,Indígena,MTN,219,8,Peru,F,7.1273,7.20,102,2
+18.0,11,Não Declarado(a),MTN,54,182,Bolívia,M,2.9664,0.00,90,0
+18.0,11,Não Declarado(a),MTN,54,182,Bolívia,M,2.9664,0.00,90,16
+18.0,11,Não Declarado(a),MTN,54,182,Bolívia,M,2.9664,0.10,90,0
+18.0,11,Não Declarado(a),MTN,54,182,Bolívia,M,2.9664,0.20,90,18
+18.0,11,Não Declarado(a),MTN,54,182,Bolívia,M,2.9664,0.30,90,4
+18.0,11,Não Declarado(a),MTN,56,172,Chile,F,5.6444,0.80,102,18
+18.0,11,Não Declarado(a),MTN,158,64,El Salvador,F,6.0431,0.00,102,14
+18.0,11,Não Declarado(a),MTN,158,64,El Salvador,F,6.0431,0.20,102,12
+18.0,11,Não Declarado(a),MTN,158,64,El Salvador,F,6.0431,3.00,102,0
+18.0,11,Não Declarado(a),MTN,192,62,Paraguai,F,6.7814,0.60,102,13
+18.0,11,Não Declarado(a),MTN,192,62,Paraguai,F,6.7814,2.00,102,8
+18.0,11,Não Declarado(a),MTN,192,62,Paraguai,F,6.7814,3.70,102,16
+18.0,11,Não Declarado(a),MTN,222,0,Bolívia,M,7.8331,1.00,102,6
+18.0,11,Não Declarado(a),MTN,222,0,Bolívia,M,7.8331,9.20,102,16
+18.0,11,Não Declarado(a),MTN,228,0,Colômbia,F,7.0899,7.20,102,6
+18.0,11,Não Declarado(a),MTN,254,0,Paraguai,M,7.6597,6.70,102,0
+18.0,11,Pardo(a),MTN,98,129,Brasil,M,4.9149,0.20,102,42
+18.0,11,Pardo(a),MTN,102,112,Paraguai,M,5.0016,4.80,102,4
+18.0,11,Pardo(a),MTN,150,72,Brasil,F,6.3128,0.40,102,30
+18.0,11,Pardo(a),MTN,150,72,Brasil,F,6.3128,7.10,102,0
+18.0,11,Pardo(a),MTN,188,34,Brasil,M,7.4025,3.80,102,2
+18.0,11,Pardo(a),MTN,188,34,Brasil,M,7.4025,6.50,102,0
+18.0,11,Pardo(a),MTN,208,6,Brasil,M,8.0838,6.90,102,10
+18.0,12,Branco(a),MTN,156,71,Brasil,F,5.5496,0.00,102,0
+18.0,12,Branco(a),MTN,156,71,Brasil,F,5.5496,0.20,102,35
+18.0,12,Branco(a),MTN,156,71,Brasil,F,5.5496,0.30,102,38
+18.0,12,Branco(a),MTN,227,0,Paraguai,M,6.8520,3.40,102,14
+18.0,12,Branco(a),MTN,227,0,Paraguai,M,6.8520,3.50,102,12
+18.0,12,Branco(a),MTN,227,0,Paraguai,M,6.8520,6.50,102,16
+18.0,12,Branco(a),MTN,260,0,Paraguai,F,7.8557,6.30,102,0
+18.0,12,Não Declarado(a),MTN,74,140,Paraguai,F,4.1925,5.30,102,6
+18.0,12,Não Declarado(a),MTN,260,0,Colômbia,F,7.5838,6.00,102,0
+18.0,12,Não Declarado(a),MTN,260,0,Paraguai,F,7.8868,6.10,102,0
+18.0,12,Pardo(a),MTN,44,210,Paraguai,F,6.2492,0.30,102,40
+18.0,12,Pardo(a),MTN,60,167,Paraguai,M,3.5410,0.00,102,28
+18.0,12,Pardo(a),MTN,60,167,Paraguai,M,3.5410,0.00,102,42
+18.0,12,Pardo(a),MTN,70,144,Brasil,M,4.2718,0.40,102,0
+18.0,12,Pardo(a),MTN,260,0,Colômbia,M,7.3146,6.60,102,0
+18.0,12,Pardo(a),MTN,288,0,Peru,M,7.4432,7.70,90,0
+18.0,13,Amarelo(a),MTN,50,178,Paraguai,F,2.9657,0.00,102,0
+18.0,13,Amarelo(a),MTN,218,4,Paraguai,M,6.9413,6.40,102,6
+18.0,13,Branco(a),MTN,102,112,Paraguai,F,5.4710,0.00,102,60
+18.0,13,Branco(a),MTN,222,0,Guatemala,M,7.8497,7.20,102,0
+18.0,13,Branco(a),MTN,222,0,Paraguai,M,7.0547,6.10,102,0
+18.0,13,Branco(a),MTN,227,0,Brasil,F,6.6832,0.40,102,22
+18.0,13,Branco(a),MTN,227,0,Brasil,F,6.6832,1.10,102,0
+18.0,13,Branco(a),MTN,227,0,Brasil,F,6.6832,1.20,102,32
+18.0,13,Branco(a),MTN,227,0,Brasil,F,6.6832,1.60,102,0
+18.0,13,Branco(a),MTN,227,0,Brasil,F,6.6832,2.10,102,21
+18.0,13,Branco(a),MTN,227,0,Brasil,F,6.6832,3.10,102,6
+18.0,13,Branco(a),MTN,227,0,Brasil,F,6.6832,3.50,102,20
+18.0,13,Branco(a),MTN,227,0,Brasil,F,6.6832,3.60,102,22
+18.0,13,Branco(a),MTN,227,0,Brasil,F,7.8660,2.30,102,14
+18.0,13,Branco(a),MTN,227,0,Brasil,F,7.8660,4.00,102,6
+18.0,13,Branco(a),MTN,227,0,Brasil,F,7.8660,6.90,102,8
+18.0,13,Branco(a),MTN,256,26,Brasil,M,6.9491,6.00,102,14
+18.0,13,Branco(a),MTN,282,0,Brasil,M,6.9906,6.00,102,15
+18.0,13,Não Declarado(a),MTN,86,196,Paraguai,M,4.4103,6.00,102,6
+18.0,13,Não Declarado(a),MTN,108,119,Paraguai,M,4.7215,0.60,102,24
+18.0,13,Não Declarado(a),MTN,108,119,Paraguai,M,4.7215,1.70,102,18
+18.0,13,Não Declarado(a),MTN,108,119,Paraguai,M,4.7215,2.30,102,2
+18.0,13,Não Declarado(a),MTN,198,84,Peru,M,5.5915,6.00,102,3
+18.0,13,Não Declarado(a),MTN,227,0,Colômbia,M,7.2312,0.40,90,16
+18.0,13,Não Declarado(a),MTN,227,0,Colômbia,M,7.2312,2.00,102,0
+18.0,13,Não Declarado(a),MTN,227,0,Colômbia,M,7.2312,6.70,102,8
+18.0,13,Não Declarado(a),MTN,254,0,Colômbia,M,7.3173,0.80,102,19
+18.0,13,Não Declarado(a),MTN,254,0,Colômbia,M,7.3173,2.00,102,0
+18.0,13,Não Declarado(a),MTN,254,0,Colômbia,M,7.3173,5.10,102,0
+18.0,13,Não Declarado(a),MTN,254,0,Colômbia,M,7.3173,6.00,102,8
+18.0,13,Pardo(a),MTN,140,142,Paraguai,M,4.7823,1.80,102,0
+18.0,13,Pardo(a),MTN,140,142,Paraguai,M,4.7823,4.70,102,25
+18.0,13,Pardo(a),MTN,140,142,Paraguai,M,4.7823,6.00,102,6
+18.0,13,Pardo(a),MTN,174,40,Paraguai,M,6.4405,3.50,102,6
+18.0,13,Pardo(a),MTN,188,94,Brasil,M,5.3973,1.20,90,26
+18.0,13,Pardo(a),MTN,252,30,Bolívia,M,6.3170,6.50,102,4
+18.0,13,Pardo(a),MTN,270,12,Brasil,M,7.3184,2.60,102,12
+18.0,13,Pardo(a),MTN,270,12,Brasil,M,7.3184,3.40,102,4
+18.0,13,Pardo(a),MTN,270,12,Brasil,M,7.3184,6.10,102,0
+18.0,13,Preto(a),MTN,108,174,Brasil,M,4.9061,0.30,102,16
+18.0,13,Preto(a),MTN,108,174,Brasil,M,4.9061,0.70,102,0
+18.0,13,Preto(a),MTN,108,174,Brasil,M,4.9061,1.00,102,48
+18.0,13,Preto(a),MTN,108,174,Brasil,M,4.9061,2.20,102,8
+18.0,13,Preto(a),MTN,108,174,Brasil,M,4.9061,4.00,102,2
+18.0,14,Branco(a),MTN,52,162,Brasil,F,2.6369,0.00,102,12
+18.0,14,Branco(a),MTN,52,162,Brasil,F,2.6369,1.30,102,22
+18.0,14,Branco(a),MTN,52,162,Brasil,F,2.6369,2.80,102,70
+18.0,14,Branco(a),MTN,88,140,Paraguai,F,4.4510,0.00,90,50
+18.0,14,Branco(a),MTN,88,140,Paraguai,F,4.4510,6.00,102,12
+18.0,14,Branco(a),MTN,228,0,Brasil,F,6.3428,4.50,90,0
+18.0,14,Branco(a),MTN,228,0,Brasil,F,6.3428,6.20,90,8
+18.0,14,Branco(a),MTN,230,52,Brasil,F,6.3520,0.70,90,18
+18.0,14,Branco(a),MTN,230,52,Brasil,F,6.3520,6.80,90,8
+18.0,14,Branco(a),MTN,260,0,Paraguai,M,7.2058,4.30,102,15
+18.0,14,Branco(a),MTN,260,0,Paraguai,M,7.2058,6.00,102,2
+18.0,14,Branco(a),MTN,282,0,Brasil,M,6.7572,0.50,102,0
+18.0,14,Branco(a),MTN,282,0,Brasil,M,6.7572,2.40,102,0
+18.0,14,Branco(a),MTN,282,0,Brasil,M,6.7572,4.30,102,24
+18.0,14,Branco(a),MTN,282,0,Brasil,M,6.7572,5.40,102,12
+18.0,14,Branco(a),MTN,282,0,Brasil,M,6.7572,6.90,102,0
+18.0,14,Branco(a),MTN,282,0,Paraguai,F,7.0721,4.10,102,0
+18.0,14,Branco(a),MTN,282,0,Paraguai,F,7.0721,6.10,102,0
+18.0,14,Não Declarado(a),MTN,164,64,Paraguai,F,5.5272,2.90,90,2
+18.0,14,Não Declarado(a),MTN,194,88,Paraguai,F,5.9912,2.00,90,8
+18.0,14,Não Declarado(a),MTN,194,88,Paraguai,F,5.9912,5.70,102,26
+18.0,14,Não Declarado(a),MTN,194,88,Paraguai,F,5.9912,6.00,102,6
+18.0,14,Pardo(a),MTN,202,86,Argentina,F,6.4271,3.20,90,0
+18.0,14,Pardo(a),MTN,202,86,Argentina,F,6.4271,7.90,90,4
+18.0,14,Pardo(a),MTN,228,0,Equador,M,6.7840,4.00,90,0
+18.0,14,Pardo(a),MTN,228,0,Equador,M,6.7840,6.50,90,6
+18.0,14,Pardo(a),MTN,282,0,Brasil,M,7.2590,6.50,90,4
+18.0,14,Pardo(a),MTN,288,0,Equador,M,7.0611,4.10,90,0
+18.0,14,Pardo(a),MTN,288,0,Equador,M,7.0611,6.10,90,2
+18.0,15,Amarelo(a),MTN,228,0,Brasil,F,6.6279,6.50,90,12
+18.0,15,Branco(a),MTN,176,38,Argentina,M,6.3964,0.50,102,32
+18.0,15,Branco(a),MTN,176,38,Argentina,M,6.3964,0.90,102,22
+18.0,15,Branco(a),MTN,218,64,Paraguai,M,6.0053,4.60,102,15
+18.0,15,Branco(a),MTN,218,64,Paraguai,M,6.0053,5.20,102,4
+18.0,15,Branco(a),MTN,228,0,Brasil,M,6.2975,2.10,90,0
+18.0,15,Branco(a),MTN,228,0,Brasil,M,6.2975,6.10,102,12
+18.0,15,Branco(a),MTN,246,8,Brasil,F,6.6423,0.30,102,0
+18.0,15,Branco(a),MTN,246,8,Brasil,F,6.6423,4.80,102,14
+18.0,15,Branco(a),MTN,246,8,Brasil,F,6.6423,6.60,102,6
+18.0,15,Branco(a),MTN,282,0,Brasil,F,7.0439,6.00,102,15
+18.0,15,Branco(a),MTN,288,0,Brasil,F,7.9098,7.30,90,6
+18.0,15,Branco(a),MTN,288,0,Paraguai,F,7.8276,9.30,90,8
+18.0,15,Indígena,MTN,176,46,Equador,M,5.4256,4.00,102,0
+18.0,15,Indígena,MTN,176,46,Equador,M,5.4256,6.20,102,0
+18.0,15,Indígena,MTN,200,28,Peru,M,5.7050,1.10,102,16
+18.0,15,Indígena,MTN,200,28,Peru,M,5.7050,6.00,102,16
+18.0,15,Não Declarado(a),MTN,164,124,Colômbia,M,4.8829,0.20,102,10
+18.0,15,Não Declarado(a),MTN,164,124,Colômbia,M,4.8829,0.40,90,0
+18.0,15,Não Declarado(a),MTN,164,124,Colômbia,M,4.8829,0.60,90,14
+18.0,15,Não Declarado(a),MTN,164,124,Colômbia,M,4.8829,0.70,102,33
+18.0,15,Não Declarado(a),MTN,164,124,Colômbia,M,4.8829,0.80,90,10
+18.0,15,Não Declarado(a),MTN,164,124,Colômbia,M,4.8829,1.60,90,0
+18.0,15,Não Declarado(a),MTN,164,124,Colômbia,M,4.8829,2.20,102,20
+18.0,15,Não Declarado(a),MTN,282,0,Paraguai,M,7.1348,2.50,102,0
+18.0,15,Não Declarado(a),MTN,282,0,Paraguai,M,7.1348,7.80,102,0
+18.0,15,Não Declarado(a),MTN,284,4,Paraguai,F,7.0464,3.40,102,8
+18.0,15,Não Declarado(a),MTN,284,4,Paraguai,F,7.0464,4.90,102,6
+18.0,15,Não Declarado(a),MTN,284,4,Paraguai,F,7.0464,6.00,102,20
+18.0,15,Não Declarado(a),MTN,288,0,Paraguai,M,7.7173,6.40,90,4
+18.0,15,Não Declarado(a),N,174,0,Paraguai,F,6.8256,0.00,102,20
+18.0,15,Pardo(a),MTN,80,148,Equador,F,5.7910,0.60,90,36
+18.0,15,Pardo(a),MTN,80,148,Equador,F,5.7910,1.10,102,0
+18.0,15,Pardo(a),MTN,80,148,Equador,F,5.7910,1.20,90,46
+18.0,15,Pardo(a),MTN,80,148,Equador,F,5.7910,1.90,90,0
+18.0,15,Pardo(a),MTN,80,148,Equador,F,5.7910,2.00,90,14
+18.0,15,Pardo(a),MTN,80,148,Equador,F,5.7910,3.20,90,0
+18.0,15,Pardo(a),MTN,80,148,Equador,F,5.7910,3.70,102,26
+18.0,15,Pardo(a),MTN,80,148,Equador,F,5.7910,4.80,90,12
+18.0,15,Pardo(a),MTN,96,186,Paraguai,M,3.2853,2.50,102,0
+18.0,15,Pardo(a),MTN,96,186,Paraguai,M,3.2853,5.30,102,25
+18.0,15,Pardo(a),MTN,96,186,Paraguai,M,3.2853,6.00,102,28
+18.0,15,Pardo(a),MTN,118,170,Colômbia,M,4.3208,0.00,90,12
+18.0,15,Pardo(a),MTN,118,170,Colômbia,M,4.3208,0.20,90,0
+18.0,15,Pardo(a),MTN,118,170,Colômbia,M,4.3208,0.20,102,22
+18.0,15,Pardo(a),MTN,118,170,Colômbia,M,4.3208,0.20,102,58
+18.0,15,Pardo(a),MTN,118,170,Colômbia,M,4.3208,0.40,102,32
+18.0,15,Pardo(a),MTN,134,154,Paraguai,M,4.3555,0.00,90,40
+18.0,15,Pardo(a),MTN,134,154,Paraguai,M,4.3555,0.00,102,0
+18.0,15,Pardo(a),MTN,134,154,Paraguai,M,4.3555,0.00,102,48
+18.0,15,Pardo(a),MTN,134,154,Paraguai,M,4.3555,0.10,90,66
+18.0,15,Pardo(a),MTN,134,154,Paraguai,M,4.3555,0.20,102,8
+18.0,15,Pardo(a),MTN,134,154,Paraguai,M,4.3555,0.50,102,18
+18.0,15,Pardo(a),MTN,134,154,Paraguai,M,4.3555,0.60,102,0
+18.0,15,Pardo(a),MTN,134,154,Paraguai,M,4.3555,0.80,90,0
+18.0,15,Pardo(a),MTN,134,154,Paraguai,M,4.3555,0.90,90,18
+18.0,15,Pardo(a),MTN,134,154,Paraguai,M,4.3555,1.40,90,0
+18.0,15,Pardo(a),MTN,134,154,Paraguai,M,4.3555,5.30,102,15
+18.0,15,Pardo(a),MTN,164,58,Panamá,M,5.8427,1.40,102,0
+18.0,15,Pardo(a),MTN,164,58,Panamá,M,5.8427,6.60,102,4
+18.0,15,Pardo(a),MTN,288,0,Equador,F,6.9246,5.30,90,0
+18.0,15,Pardo(a),MTN,288,0,Equador,F,6.9246,7.00,90,10
+18.0,16,Branco(a),MTN,288,0,Paraguai,F,6.4695,5.00,90,0
+18.0,16,Branco(a),MTN,288,0,Paraguai,F,6.4695,6.10,90,2
+18.0,16,Não Declarado(a),MTN,288,0,Bolívia,M,6.7375,5.00,90,0
+18.0,16,Não Declarado(a),MTN,288,0,Bolívia,M,6.7375,7.50,90,2
+18.0,16,Pardo(a),MTN,222,0,Bolívia,F,6.7297,8.40,102,4
+18.0,16,Pardo(a),MTN,228,0,Brasil,F,6.5791,0.30,90,24
+18.0,16,Pardo(a),MTN,228,0,Brasil,F,6.5791,6.00,90,0
+18.0,16,Pardo(a),MTN,228,0,Equador,M,6.5935,1.60,90,0
+18.0,16,Pardo(a),MTN,228,0,Equador,M,6.5935,6.20,90,2
+18.0,16,Pardo(a),MTN,288,0,Paraguai,M,7.1021,6.90,90,0
+18.0,17,Branco(a),MTN,142,112,Paraguai,F,4.2974,0.10,102,30
+18.0,17,Branco(a),MTN,142,112,Paraguai,F,4.2974,1.50,102,10
+18.0,17,Branco(a),MTN,142,112,Paraguai,F,4.2974,1.80,102,16
+18.0,17,Branco(a),MTN,142,112,Paraguai,F,4.2974,3.20,102,2
+18.0,17,Branco(a),MTN,142,112,Paraguai,F,4.2974,5.00,102,24
+18.0,17,Branco(a),MTN,228,0,Brasil,F,6.4778,0.30,90,8
+18.0,17,Branco(a),MTN,228,0,Paraguai,F,6.4826,4.10,90,2
+18.0,17,Branco(a),MTN,242,40,Paraguai,F,6.3397,5.00,90,0
+18.0,17,Branco(a),MTN,242,40,Paraguai,F,6.3397,7.70,90,2
+18.0,17,Branco(a),MTN,254,0,Brasil,F,6.5338,1.00,102,0
+18.0,17,Branco(a),MTN,254,0,Brasil,F,6.5338,4.60,102,0
+18.0,17,Branco(a),MTN,254,0,Brasil,F,6.5338,6.60,102,11
+18.0,17,Branco(a),MTN,260,0,Brasil,F,7.1454,6.80,102,6
+18.0,17,Branco(a),MTN,288,0,Brasil,F,7.9882,6.00,90,4
+18.0,17,Indígena,MTN,228,0,Bolívia,F,6.2867,6.00,90,6
+18.0,17,Indígena,MTN,228,0,Peru,F,6.0433,6.40,90,0
+18.0,17,Indígena,MTN,282,0,Colômbia,F,7.0267,6.40,90,7
+18.0,17,Não Declarado(a),MTN,220,8,Peru,M,5.3123,6.40,90,26
+18.0,17,Pardo(a),MTN,184,44,Paraguai,M,5.0718,6.80,90,4
+18.0,18,Branco(a),MTN,282,0,Colômbia,M,6.7245,2.30,90,0
+18.0,18,Branco(a),MTN,282,0,Colômbia,M,6.7245,2.60,102,11
+18.0,18,Branco(a),MTN,282,0,Colômbia,M,6.7245,2.90,102,8
+18.0,18,Branco(a),MTN,282,0,Colômbia,M,6.7245,5.00,102,0
+18.0,18,Branco(a),MTN,282,0,Colômbia,M,6.7245,6.40,102,6
+18.0,18,Preto(a),MTN,228,0,Brasil,M,7.0471,7.70,90,2
+18.0,19,Branco(a),MTN,260,0,Paraguai,F,6.6876,6.80,102,20
+18.0,19,Branco(a),MTN,260,0,Paraguai,F,7.6343,8.30,102,0
+18.0,19,Pardo(a),MTN,228,0,Colômbia,F,7.0826,2.30,90,2
+18.0,19,Pardo(a),MTN,228,0,Colômbia,F,7.0826,7.30,90,10
+19.0,3,Amarelo(a),MTN,16,244,Brasil,F,2.7629,0.00,102,20
+19.0,3,Branco(a),MTN,14,213,Brasil,M,4.5000,0.00,102,10
+19.0,3,Branco(a),MTN,20,213,Brasil,M,4.3000,0.00,102,56
+19.0,3,Branco(a),MTN,26,228,Colômbia,F,4.6897,0.00,102,10
+19.0,3,Branco(a),MTN,32,182,Brasil,F,5.4414,2.50,102,4
+19.0,3,Branco(a),MTN,40,196,Brasil,M,5.4367,0.00,90,46
+19.0,3,Branco(a),MTN,40,214,Brasil,F,5.4300,0.00,102,10
+19.0,3,Branco(a),MTN,42,218,Brasil,M,6.3063,3.70,102,8
+19.0,3,Pardo(a),MTN,4,223,Brasil,M,2.0846,0.00,102,76
+19.0,3,Pardo(a),MTN,34,226,Brasil,F,5.6161,1.30,102,10
+19.0,3,Preto(a),MTN,12,216,Brasil,M,3.2320,0.10,102,48
+19.0,4,Branco(a),MTN,8,219,Brasil,M,1.7500,0.00,102,72
+19.0,4,Branco(a),MTN,26,244,Colômbia,M,5.0235,0.00,90,0
+19.0,4,Branco(a),MTN,54,234,Brasil,M,5.9545,1.60,102,18
+19.0,4,Branco(a),MTN,54,234,Brasil,M,5.9545,7.00,102,0
+19.0,4,Pardo(a),MTN,12,216,Brasil,M,2.6750,0.00,102,52
+19.0,4,Pardo(a),MTN,14,240,Brasil,F,2.9156,0.00,102,28
+19.0,4,Pardo(a),MTN,18,210,Brasil,M,3.6594,1.80,102,40
+19.0,4,Preto(a),MTN,4,250,Brasil,M,1.1640,0.00,102,62
+19.0,5,Amarelo(a),MTN,50,183,Brasil,F,4.6510,0.50,102,0
+19.0,5,Branco(a),MTN,40,193,Brasil,F,4.8431,2.00,102,0
+19.0,5,Branco(a),MTN,40,193,Brasil,F,4.8431,2.40,102,16
+19.0,5,Branco(a),MTN,40,193,Brasil,F,4.8431,3.10,102,6
+19.0,5,Branco(a),MTN,48,212,Brasil,F,4.0864,0.00,102,0
+19.0,5,Branco(a),MTN,48,212,Brasil,F,4.0864,3.10,102,0
+19.0,5,Branco(a),MTN,48,212,Brasil,F,4.0864,3.20,102,10
+19.0,5,Branco(a),MTN,52,208,Brasil,F,4.3032,0.00,102,12
+19.0,5,Branco(a),MTN,52,208,Brasil,F,4.3032,0.30,102,44
+19.0,5,Branco(a),MTN,52,208,Brasil,F,4.3032,2.30,102,25
+19.0,5,Branco(a),MTN,88,200,Brasil,F,5.0281,0.00,102,76
+19.0,5,Branco(a),MTN,88,200,Brasil,F,5.0281,0.30,90,36
+19.0,5,Pardo(a),MTN,60,234,Brasil,M,5.0298,0.00,90,24
+19.0,5,Pardo(a),MTN,60,234,Brasil,M,5.0298,0.50,90,54
+19.0,5,Pardo(a),MTN,60,234,Brasil,M,5.0298,2.60,90,40
+19.0,5,Pardo(a),T,62,48,Peru,F,7.7311,0.30,102,30
+19.0,6,Amarelo(a),MTN,44,184,Brasil,M,3.0925,0.00,102,0
+19.0,6,Amarelo(a),MTN,44,184,Brasil,M,3.0925,0.00,102,82
+19.0,6,Amarelo(a),MTN,44,184,Brasil,M,3.0925,0.40,102,26
+19.0,6,Branco(a),MTN,28,226,Brasil,F,4.5667,0.20,102,45
+19.0,6,Branco(a),MTN,32,222,Brasil,M,4.7172,2.30,102,38
+19.0,6,Branco(a),MTN,50,178,Brasil,M,4.0500,0.20,102,24
+19.0,6,Branco(a),MTN,50,178,Brasil,M,4.0500,1.10,102,20
+19.0,6,Branco(a),MTN,50,178,Brasil,M,4.0500,1.10,102,38
+19.0,6,Branco(a),MTN,54,228,Brasil,M,5.0489,1.00,102,38
+19.0,6,Branco(a),MTN,56,102,Brasil,M,3.7196,0.00,90,16
+19.0,6,Branco(a),MTN,102,126,Paraguai,M,6.8484,0.30,102,14
+19.0,6,Não Declarado(a),MTN,16,238,Peru,M,1.9408,0.00,102,24
+19.0,6,Pardo(a),MTN,50,242,Paraguai,F,3.8576,0.00,90,0
+19.0,6,Pardo(a),MTN,50,242,Paraguai,F,3.8576,0.00,90,34
+19.0,7,Branco(a),MTN,36,191,Brasil,M,2.9562,0.00,102,72
+19.0,7,Branco(a),MTN,38,244,Brasil,M,2.5924,0.00,102,0
+19.0,7,Branco(a),MTN,38,244,Brasil,M,2.5924,0.20,102,58
+19.0,7,Branco(a),MTN,58,170,Brasil,M,3.9899,0.60,102,0
+19.0,7,Branco(a),MTN,58,170,Brasil,M,3.9899,1.00,90,15
+19.0,7,Branco(a),MTN,58,170,Brasil,M,3.9899,1.30,90,20
+19.0,7,Branco(a),MTN,58,170,Brasil,M,3.9899,1.70,102,10
+19.0,7,Branco(a),MTN,88,200,Paraguai,M,4.8093,0.10,90,48
+19.0,7,Branco(a),MTN,88,200,Paraguai,M,4.8093,0.50,90,50
+19.0,7,Branco(a),MTN,88,200,Paraguai,M,4.8093,0.90,102,31
+19.0,7,Branco(a),MTN,104,150,Paraguai,F,6.2173,0.00,102,4
+19.0,7,Não Declarado(a),MTN,66,194,Peru,M,3.4883,6.00,102,25
+19.0,7,Pardo(a),MTN,46,190,Peru,M,2.6679,0.00,90,0
+19.0,7,Pardo(a),MTN,46,190,Peru,M,2.6679,0.00,90,62
+19.0,7,Pardo(a),MTN,46,190,Peru,M,2.6679,0.00,90,66
+19.0,7,Pardo(a),MTN,46,190,Peru,M,2.6679,0.20,90,0
+19.0,7,Pardo(a),MTN,46,190,Peru,M,2.6679,2.70,90,20
+19.0,7,Pardo(a),MTN,102,158,Brasil,M,5.4039,6.00,102,0
+19.0,7,Preto(a),MTN,6,222,Brasil,M,1.2593,0.00,102,68
+19.0,7,Preto(a),MTN,92,135,Brasil,M,5.6284,6.50,102,8
+19.0,8,Branco(a),MTN,36,191,Paraguai,F,3.9182,0.20,102,42
+19.0,8,Branco(a),MTN,36,191,Paraguai,F,3.9182,3.60,102,15
+19.0,8,Branco(a),MTN,76,152,Paraguai,M,4.6543,1.60,102,20
+19.0,8,Branco(a),MTN,76,152,Paraguai,M,4.6543,3.20,102,16
+19.0,8,Branco(a),MTN,76,152,Paraguai,M,4.6543,6.80,102,8
+19.0,8,Branco(a),MTN,92,136,Paraguai,F,5.6388,0.00,90,32
+19.0,8,Branco(a),MTN,92,136,Paraguai,F,5.6388,0.20,90,14
+19.0,8,Branco(a),MTN,92,136,Paraguai,F,5.6388,6.00,102,6
+19.0,8,Branco(a),MTN,120,140,Brasil,F,6.3593,1.50,102,10
+19.0,8,Branco(a),MTN,120,140,Brasil,F,6.3593,2.70,102,6
+19.0,8,Branco(a),MTN,120,140,Brasil,F,6.3593,6.30,102,4
+19.0,8,Branco(a),MTN,152,136,Brasil,M,6.6523,3.00,90,16
+19.0,8,Branco(a),MTN,152,136,Brasil,M,6.6523,4.30,90,26
+19.0,8,Branco(a),MTN,152,136,Brasil,M,6.6523,7.70,102,20
+19.0,9,Branco(a),MTN,50,204,Paraguai,F,6.1322,0.10,102,20
+19.0,9,Branco(a),MTN,54,228,Paraguai,F,3.2181,0.40,102,40
+19.0,9,Branco(a),MTN,54,228,Paraguai,F,3.2181,1.00,102,22
+19.0,9,Branco(a),MTN,58,170,Chile,M,7.9127,0.00,102,38
+19.0,9,Branco(a),MTN,74,154,Brasil,F,3.7582,0.00,102,44
+19.0,9,Branco(a),MTN,110,104,Brasil,F,5.8756,0.40,102,24
+19.0,9,Branco(a),MTN,124,103,Brasil,M,5.3812,0.20,102,10
+19.0,9,Branco(a),MTN,124,103,Brasil,M,5.3812,1.20,102,52
+19.0,9,Branco(a),MTN,124,103,Brasil,M,5.3812,3.00,102,58
+19.0,9,Branco(a),MTN,124,103,Brasil,M,5.3812,3.60,102,20
+19.0,9,Branco(a),MTN,126,96,Paraguai,M,6.1264,0.60,102,10
+19.0,9,Branco(a),MTN,138,116,Brasil,F,5.6139,0.00,102,10
+19.0,9,Branco(a),MTN,152,130,Paraguai,F,6.0254,0.00,102,28
+19.0,9,Branco(a),MTN,260,0,Brasil,F,8.7511,6.00,102,8
+19.0,9,Não Declarado(a),MTN,32,195,Paraguai,M,1.8905,1.20,102,28
+19.0,9,Não Declarado(a),MTN,64,172,Paraguai,M,3.9549,0.00,90,30
+19.0,9,Não Declarado(a),MTN,64,172,Paraguai,M,3.9549,0.30,90,0
+19.0,9,Não Declarado(a),MTN,64,172,Paraguai,M,3.9549,0.30,90,44
+19.0,9,Não Declarado(a),MTN,64,172,Paraguai,M,3.9549,1.20,90,10
+19.0,9,Não Declarado(a),MTN,64,172,Paraguai,M,3.9549,2.10,90,0
+19.0,9,Não Declarado(a),MTN,230,24,Paraguai,F,7.4245,1.80,102,16
+19.0,9,Pardo(a),MTN,42,186,Paraguai,M,2.6455,0.00,102,10
+19.0,9,Pardo(a),MTN,42,186,Paraguai,M,2.6455,0.20,102,42
+19.0,9,Pardo(a),MTN,54,182,Argentina,M,3.6593,0.10,90,22
+19.0,9,Pardo(a),MTN,54,182,Argentina,M,3.6593,1.90,90,4
+19.0,9,Pardo(a),MTN,54,182,Argentina,M,3.6593,2.00,90,0
+19.0,9,Pardo(a),MTN,54,182,Argentina,M,3.6593,3.30,90,21
+19.0,9,Pardo(a),MTN,128,126,Brasil,F,5.3330,3.10,102,6
+19.0,9,Pardo(a),MTN,150,77,Paraguai,F,6.2983,2.20,102,12
+19.0,9,Pardo(a),MTN,160,122,Brasil,F,6.2199,0.00,102,36
+19.0,9,Pardo(a),MTN,186,36,Brasil,M,7.9519,9.10,102,0
+19.0,10,Branco(a),MTN,44,184,Paraguai,M,2.7745,7.90,102,0
+19.0,10,Não Declarado(a),MTN,60,234,Paraguai,M,2.6696,0.00,90,0
+19.0,10,Não Declarado(a),MTN,60,234,Paraguai,M,2.6696,0.00,90,70
+19.0,10,Não Declarado(a),MTN,60,234,Paraguai,M,2.6696,0.20,90,18
+19.0,10,Não Declarado(a),MTN,60,234,Paraguai,M,2.6696,0.30,90,0
+19.0,10,Não Declarado(a),MTN,76,138,Paraguai,F,6.1692,1.60,102,6
+19.0,10,Não Declarado(a),MTN,76,138,Paraguai,F,6.1692,4.80,102,2
+19.0,10,Não Declarado(a),MTN,76,138,Paraguai,F,6.1692,6.00,102,10
+19.0,10,Pardo(a),MTN,10,244,Brasil,M,1.5893,0.00,102,84
+19.0,10,Pardo(a),MTN,118,136,Paraguai,F,5.7110,0.00,102,9
+19.0,10,Pardo(a),MTN,118,136,Paraguai,F,5.7110,4.30,102,0
+19.0,10,Pardo(a),MTN,288,0,Paraguai,M,8.4778,7.60,102,0
+19.0,10,Preto(a),MTN,48,180,Colômbia,M,6.3845,1.80,102,18
+19.0,11,Branco(a),MTN,42,172,Paraguai,M,2.5897,1.50,102,77
+19.0,11,Branco(a),MTN,52,162,Paraguai,M,7.0588,0.30,102,28
+19.0,11,Branco(a),MTN,70,157,Paraguai,F,2.8259,0.00,102,2
+19.0,11,Branco(a),MTN,70,157,Paraguai,F,2.8259,0.00,102,18
+19.0,11,Branco(a),MTN,70,157,Paraguai,F,2.8259,0.10,102,12
+19.0,11,Branco(a),MTN,116,178,Paraguai,F,4.3333,1.40,90,0
+19.0,11,Branco(a),MTN,116,178,Paraguai,F,4.3333,6.00,90,14
+19.0,11,Branco(a),MTN,132,122,Brasil,F,6.4047,2.70,102,1
+19.0,11,Branco(a),MTN,132,122,Brasil,F,6.4047,3.00,102,6
+19.0,11,Branco(a),MTN,178,44,Brasil,F,7.1224,1.60,102,24
+19.0,11,Branco(a),MTN,178,44,Brasil,F,7.1224,6.30,102,0
+19.0,11,Branco(a),MTN,181,46,Paraguai,M,6.3562,1.50,102,16
+19.0,11,Branco(a),MTN,181,46,Paraguai,M,6.3562,4.00,102,24
+19.0,11,Branco(a),MTN,181,46,Paraguai,M,6.3562,4.40,102,30
+19.0,11,Branco(a),MTN,187,40,Paraguai,F,5.9018,0.60,102,14
+19.0,11,Branco(a),MTN,187,40,Paraguai,F,5.9018,1.70,102,14
+19.0,11,Branco(a),MTN,187,40,Paraguai,F,5.9018,3.30,102,22
+19.0,11,Branco(a),MTN,219,8,Brasil,M,7.4968,2.90,102,6
+19.0,11,Branco(a),MTN,219,8,Brasil,M,7.4968,7.40,102,0
+19.0,11,Branco(a),MTN,232,50,Paraguai,F,7.0014,1.40,102,14
+19.0,11,Branco(a),MTN,232,50,Paraguai,F,7.0014,6.80,102,0
+19.0,11,Branco(a),MTN,252,30,Paraguai,F,7.7362,1.70,102,12
+19.0,11,Branco(a),MTN,252,30,Paraguai,F,7.7362,7.00,102,0
+19.0,11,Não Declarado(a),MTN,64,230,Bolívia,M,4.1423,0.50,90,36
+19.0,11,Não Declarado(a),MTN,64,230,Bolívia,M,4.1423,1.60,90,6
+19.0,11,Não Declarado(a),MTN,64,230,Bolívia,M,4.1423,1.70,90,42
+19.0,11,Não Declarado(a),MTN,64,230,Bolívia,M,4.1423,3.20,90,0
+19.0,11,Não Declarado(a),MTN,64,230,Bolívia,M,4.1423,3.40,90,0
+19.0,11,Não Declarado(a),MTN,64,230,Bolívia,M,4.1423,4.20,90,2
+19.0,11,Não Declarado(a),MTN,90,124,Paraguai,F,4.9673,2.20,102,2
+19.0,11,Não Declarado(a),MTN,90,124,Paraguai,F,4.9673,2.80,102,12
+19.0,11,Não Declarado(a),MTN,158,96,Paraguai,F,5.5940,2.20,102,4
+19.0,11,Não Declarado(a),MTN,158,96,Paraguai,F,5.5940,6.40,102,8
+19.0,11,Não Declarado(a),MTN,191,36,Paraguai,M,5.9085,0.00,102,12
+19.0,11,Não Declarado(a),MTN,191,36,Paraguai,M,5.9085,0.80,102,0
+19.0,11,Não Declarado(a),MTN,227,0,Peru,M,8.4152,7.30,102,0
+19.0,11,Pardo(a),MTN,50,164,Brasil,F,3.2486,0.00,102,18
+19.0,11,Pardo(a),MTN,58,178,Paraguai,F,3.4969,0.00,90,20
+19.0,11,Pardo(a),MTN,58,178,Paraguai,F,3.4969,0.20,90,6
+19.0,11,Pardo(a),MTN,58,178,Paraguai,F,3.4969,1.70,90,0
+19.0,11,Pardo(a),MTN,58,178,Paraguai,F,3.4969,1.80,90,0
+19.0,11,Pardo(a),MTN,58,178,Paraguai,F,3.4969,4.00,90,12
+19.0,11,Pardo(a),MTN,82,140,Paraguai,M,3.6248,3.10,102,24
+19.0,11,Pardo(a),MTN,82,140,Paraguai,M,3.6248,7.50,102,0
+19.0,11,Pardo(a),MTN,88,166,Paraguai,F,3.7152,0.00,102,21
+19.0,11,Pardo(a),MTN,88,166,Paraguai,F,3.7152,0.00,102,36
+19.0,11,Pardo(a),MTN,88,166,Paraguai,F,3.7152,0.60,102,6
+19.0,11,Pardo(a),MTN,200,82,Brasil,M,4.9937,3.30,102,23
+19.0,11,Pardo(a),MTN,200,82,Brasil,M,4.9937,4.00,102,8
+19.0,11,Pardo(a),MTN,200,82,Brasil,M,4.9937,6.10,102,24
+19.0,11,Pardo(a),MTN,202,52,Paraguai,M,6.2673,0.60,102,15
+19.0,11,Pardo(a),MTN,202,52,Paraguai,M,6.2673,3.70,102,2
+19.0,11,Pardo(a),MTN,202,52,Paraguai,M,6.2673,6.10,102,4
+19.0,11,Pardo(a),MTN,206,76,Colômbia,M,6.6312,0.00,102,14
+19.0,11,Pardo(a),MTN,206,76,Colômbia,M,6.6312,6.00,102,0
+19.0,11,Preto(a),MTN,227,0,Brasil,F,6.6636,0.60,102,0
+19.0,11,Preto(a),MTN,227,0,Brasil,F,6.6636,1.10,102,6
+19.0,11,Preto(a),MTN,227,0,Brasil,F,6.6636,2.40,102,0
+19.0,11,Preto(a),MTN,227,0,Brasil,F,6.6636,6.00,102,10
+19.0,12,Branco(a),MTN,108,174,Brasil,F,5.0769,6.10,102,0
+19.0,12,Branco(a),MTN,178,44,El Salvador,M,5.9610,2.50,102,17
+19.0,12,Branco(a),MTN,178,44,El Salvador,M,5.9610,6.90,102,8
+19.0,12,Branco(a),MTN,188,39,Brasil,M,6.0323,0.10,102,0
+19.0,12,Branco(a),MTN,188,39,Brasil,M,6.0323,1.10,102,0
+19.0,12,Branco(a),MTN,188,39,Brasil,M,6.0323,1.40,102,6
+19.0,12,Branco(a),MTN,188,39,Brasil,M,6.0323,4.50,102,4
+19.0,12,Branco(a),MTN,188,39,Brasil,M,6.0323,6.00,102,10
+19.0,12,Branco(a),MTN,282,0,Paraguai,M,7.6148,6.00,102,7
+19.0,12,Indígena,MTN,288,0,Peru,M,7.2755,9.10,90,0
+19.0,12,Não Declarado(a),MTN,223,4,Peru,M,6.2913,1.30,102,12
+19.0,12,Não Declarado(a),MTN,223,4,Peru,M,6.2913,6.80,102,10
+19.0,12,Não Declarado(a),MTN,228,0,Brasil,M,7.2085,6.90,102,0
+19.0,12,Pardo(a),MTN,254,0,Brasil,M,7.8070,3.70,102,0
+19.0,12,Pardo(a),MTN,254,0,Brasil,M,7.8070,4.40,102,0
+19.0,12,Pardo(a),MTN,254,0,Brasil,M,7.8070,6.40,102,21
+19.0,12,Pardo(a),MTN,288,0,Paraguai,M,7.3427,6.80,90,2
+19.0,12,Preto(a),MTN,254,0,Cuba,M,7.3159,6.20,102,17
+19.0,13,Branco(a),MTN,196,26,Brasil,M,6.6047,0.40,102,8
+19.0,13,Branco(a),MTN,196,26,Brasil,M,6.6047,2.30,102,34
+19.0,13,Branco(a),MTN,196,26,Brasil,M,6.6047,6.70,102,2
+19.0,13,Branco(a),MTN,202,12,Brasil,M,6.6594,6.60,102,0
+19.0,13,Branco(a),MTN,210,4,Brasil,F,7.9108,7.50,102,0
+19.0,13,Branco(a),MTN,219,8,Brasil,M,6.7495,0.70,102,10
+19.0,13,Branco(a),MTN,219,8,Brasil,M,6.7495,1.00,102,0
+19.0,13,Branco(a),MTN,222,0,Honduras,F,7.3657,3.40,102,15
+19.0,13,Branco(a),MTN,222,0,Honduras,F,7.3657,6.50,102,10
+19.0,13,Não Declarado(a),MTN,228,0,Bolívia,F,6.8444,5.10,90,0
+19.0,13,Não Declarado(a),MTN,228,0,Bolívia,F,6.8444,6.20,90,10
+19.0,13,Não Declarado(a),MTN,282,0,Peru,F,6.9955,6.40,90,8
+19.0,13,Pardo(a),MTN,132,156,Paraguai,F,4.5001,0.80,90,0
+19.0,13,Pardo(a),MTN,132,156,Paraguai,F,4.5001,6.00,90,16
+19.0,13,Pardo(a),MTN,140,88,Paraguai,F,5.7608,0.30,90,24
+19.0,13,Pardo(a),MTN,140,88,Paraguai,F,5.7608,6.00,102,0
+19.0,13,Pardo(a),MTN,217,10,Brasil,M,6.1098,0.60,102,10
+19.0,13,Pardo(a),MTN,217,10,Brasil,M,6.1098,0.60,102,12
+19.0,13,Pardo(a),MTN,217,10,Brasil,M,6.1098,0.80,102,8
+19.0,13,Pardo(a),MTN,217,10,Brasil,M,6.1098,1.20,102,18
+19.0,13,Pardo(a),MTN,228,0,El Salvador,M,7.7505,8.30,90,16
+19.0,13,Preto(a),MTN,194,20,Colômbia,F,6.8170,0.70,102,4
+19.0,14,Amarelo(a),MTN,223,4,Argentina,F,7.3373,0.50,102,0
+19.0,14,Amarelo(a),MTN,223,4,Argentina,F,7.3373,6.20,102,0
+19.0,14,Branco(a),MTN,180,47,Paraguai,F,5.5182,0.00,102,8
+19.0,14,Branco(a),MTN,180,47,Paraguai,F,5.5182,0.00,102,26
+19.0,14,Branco(a),MTN,180,47,Paraguai,F,5.5182,0.70,102,20
+19.0,14,Branco(a),MTN,227,0,Paraguai,F,6.8351,1.60,102,12
+19.0,14,Branco(a),MTN,227,0,Paraguai,F,6.8351,5.40,102,4
+19.0,14,Branco(a),MTN,227,0,Paraguai,F,6.8351,7.30,102,8
+19.0,14,Branco(a),MTN,282,0,Argentina,M,7.2810,1.60,102,0
+19.0,14,Branco(a),MTN,282,0,Argentina,M,7.2810,2.70,102,0
+19.0,14,Branco(a),MTN,282,0,Argentina,M,7.2810,6.00,102,2
+19.0,14,Branco(a),MTN,282,0,Paraguai,M,7.1892,2.50,102,0
+19.0,14,Branco(a),MTN,282,0,Paraguai,M,7.1892,4.40,102,0
+19.0,14,Branco(a),MTN,282,0,Paraguai,M,7.1892,6.50,102,2
+19.0,14,Branco(a),MTN,282,0,Paraguai,M,7.9284,8.50,102,0
+19.0,14,Pardo(a),MTN,260,0,Bolívia,M,7.3070,2.30,102,25
+19.0,14,Pardo(a),MTN,260,0,Bolívia,M,7.3070,6.00,102,6
+19.0,15,Branco(a),MTN,228,0,Brasil,M,6.5443,0.80,90,26
+19.0,15,Branco(a),MTN,228,0,Brasil,M,6.5443,2.60,90,0
+19.0,15,Branco(a),MTN,228,0,Brasil,M,6.5443,6.50,102,12
+19.0,15,Indígena,MTN,282,0,Peru,M,6.9154,5.80,102,30
+19.0,15,Indígena,MTN,282,0,Peru,M,6.9154,7.20,102,0
+19.0,15,Não Declarado(a),MTN,222,66,Colômbia,M,6.1247,3.00,90,0
+19.0,15,Não Declarado(a),MTN,222,66,Colômbia,M,6.1247,4.50,90,14
+19.0,15,Não Declarado(a),MTN,222,66,Colômbia,M,6.1247,6.50,90,0
+19.0,15,Pardo(a),MTN,100,128,Bolívia,M,4.0382,4.40,90,0
+19.0,15,Pardo(a),MTN,100,128,Bolívia,M,4.0382,6.00,90,6
+19.0,15,Pardo(a),MTN,227,0,Brasil,M,5.9356,0.10,102,0
+19.0,15,Pardo(a),MTN,227,0,Brasil,M,5.9356,3.40,102,8
+19.0,15,Pardo(a),MTN,227,0,Brasil,M,5.9356,4.10,102,0
+19.0,15,Pardo(a),MTN,227,0,Brasil,M,5.9356,4.60,102,16
+19.0,15,Pardo(a),MTN,227,0,Brasil,M,5.9356,6.80,102,10
+19.0,16,Branco(a),MTN,164,64,Paraguai,F,5.2765,6.10,90,0
+19.0,16,Branco(a),MTN,282,0,Chile,M,6.3373,0.20,102,0
+19.0,16,Branco(a),MTN,282,0,Chile,M,6.3373,0.50,102,0
+19.0,16,Branco(a),MTN,282,0,Chile,M,6.3373,1.30,102,21
+19.0,16,Branco(a),MTN,282,0,Chile,M,6.3373,6.00,102,16
+19.0,16,Não Declarado(a),MTN,228,0,Colômbia,M,6.1364,6.40,90,0
+19.0,16,Não Declarado(a),MTN,228,0,Equador,F,6.0520,0.50,90,10
+19.0,16,Não Declarado(a),MTN,228,0,Equador,F,6.0520,6.20,90,0
+19.0,17,Branco(a),MTN,150,64,Brasil,F,4.5226,6.40,102,10
+19.0,17,Branco(a),MTN,212,70,Paraguai,M,6.5750,3.70,90,0
+19.0,17,Branco(a),MTN,212,70,Paraguai,M,6.5750,6.00,90,8
+19.0,17,Branco(a),MTN,214,14,Paraguai,F,5.2267,4.70,90,4
+19.0,17,Branco(a),MTN,214,14,Paraguai,F,5.2267,7.70,90,4
+19.0,17,Pardo(a),MTN,196,86,Venezuela,F,6.5346,6.50,90,0
+19.0,18,Branco(a),MTN,288,0,Colômbia,F,7.0327,3.00,90,0
+19.0,18,Branco(a),MTN,288,0,Colômbia,F,7.0327,6.10,102,8
+20.0,2,Branco(a),MTN,22,238,Brasil,M,3.9565,0.00,102,16
+20.0,3,Branco(a),MTN,42,240,Brasil,F,6.7759,1.10,102,10
+20.0,3,Indígena,MTN,32,204,Equador,F,5.1667,0.10,90,22
+20.0,4,Branco(a),MTN,28,205,Brasil,F,3.9656,0.30,102,26
+20.0,4,Branco(a),MTN,28,205,Brasil,F,3.9656,0.70,102,32
+20.0,4,Branco(a),MTN,28,260,Brasil,M,4.2629,0.60,102,58
+20.0,4,Branco(a),MTN,36,218,Brasil,M,4.1227,0.00,102,12
+20.0,4,Pardo(a),MTN,0,227,Brasil,M,0.0581,0.00,102,74
+20.0,4,Pardo(a),MTN,68,168,Colômbia,F,7.7803,1.60,90,6
+20.0,5,Branco(a),MTN,34,199,Brasil,F,3.2500,0.00,102,0
+20.0,5,Branco(a),MTN,34,199,Brasil,F,3.2500,0.00,102,36
+20.0,5,Branco(a),MTN,34,199,Brasil,F,3.2500,0.30,102,56
+20.0,5,Branco(a),MTN,74,162,Paraguai,F,6.2695,0.00,90,26
+20.0,5,Branco(a),MTN,74,162,Paraguai,F,6.2695,2.40,102,21
+20.0,5,Branco(a),MTN,74,162,Paraguai,F,6.2695,6.00,102,0
+20.0,5,Não Declarado(a),MTN,46,214,Paraguai,F,4.4339,1.00,102,28
+20.0,5,Não Declarado(a),MTN,50,168,Argentina,M,4.5714,0.10,90,0
+20.0,5,Não Declarado(a),MTN,50,168,Argentina,M,4.5714,1.30,90,24
+20.0,5,Pardo(a),MTN,28,226,Paraguai,F,2.8500,0.10,102,13
+20.0,5,Pardo(a),MTN,52,202,Brasil,F,5.3898,0.00,102,2
+20.0,6,Branco(a),MTN,96,164,Brasil,M,5.3443,1.40,102,0
+20.0,6,Branco(a),MTN,96,164,Brasil,M,5.3443,7.20,102,17
+20.0,6,Não Declarado(a),MTN,48,200,Paraguai,M,3.7648,0.00,90,0
+20.0,6,Pardo(a),MTN,0,254,Brasil,M,0.9075,0.00,102,30
+20.0,6,Pardo(a),MTN,32,260,Bolívia,F,3.4437,0.00,90,0
+20.0,6,Pardo(a),MTN,32,260,Bolívia,F,3.4437,0.20,90,12
+20.0,7,Branco(a),MTN,36,178,Brasil,M,3.7489,0.00,102,10
+20.0,7,Branco(a),MTN,36,178,Brasil,M,3.7489,0.20,102,54
+20.0,7,Branco(a),MTN,36,178,Brasil,M,3.7489,0.50,102,66
+20.0,7,Branco(a),MTN,36,178,Brasil,M,3.7489,2.90,102,0
+20.0,7,Branco(a),MTN,60,228,Paraguai,F,5.0661,0.20,90,12
+20.0,7,Branco(a),MTN,60,228,Paraguai,F,5.0661,0.40,90,20
+20.0,7,Branco(a),MTN,60,228,Paraguai,F,5.0661,0.90,102,28
+20.0,7,Branco(a),MTN,60,228,Paraguai,F,5.0661,1.90,102,4
+20.0,7,Não Declarado(a),MTN,100,127,Paraguai,F,7.2918,4.00,102,0
+20.0,7,Não Declarado(a),MTN,100,127,Paraguai,F,7.2918,6.70,102,4
+20.0,7,Pardo(a),MTN,64,230,Paraguai,M,3.8681,0.00,90,52
+20.0,7,Pardo(a),MTN,64,230,Paraguai,M,3.8681,0.70,90,14
+20.0,7,Pardo(a),MTN,64,230,Paraguai,M,3.8681,1.30,90,0
+20.0,7,Pardo(a),MTN,64,230,Paraguai,M,3.8681,1.80,90,0
+20.0,7,Pardo(a),MTN,102,126,Honduras,M,6.6027,0.00,102,34
+20.0,8,Branco(a),MTN,32,196,Chile,M,2.9420,0.20,102,10
+20.0,8,Branco(a),MTN,32,196,Chile,M,2.9420,1.20,102,56
+20.0,8,Branco(a),MTN,42,212,Brasil,M,3.0720,0.50,102,46
+20.0,8,Branco(a),MTN,42,212,Brasil,M,3.0720,3.30,102,22
+20.0,8,Branco(a),MTN,42,212,Brasil,M,3.0720,3.40,102,20
+20.0,8,Branco(a),MTN,106,127,Brasil,F,5.1759,0.50,102,0
+20.0,8,Branco(a),MTN,106,127,Brasil,F,5.1759,1.00,102,15
+20.0,8,Branco(a),MTN,106,127,Brasil,F,5.1759,1.20,102,20
+20.0,8,Branco(a),MTN,106,127,Brasil,F,5.1759,1.80,102,2
+20.0,8,Não Declarado(a),MTN,58,178,Brasil,M,5.7672,4.00,90,0
+20.0,8,Não Declarado(a),MTN,58,178,Brasil,M,5.7672,4.90,90,2
+20.0,8,Pardo(a),MTN,66,162,Equador,M,5.6968,0.00,102,0
+20.0,8,Pardo(a),MTN,66,162,Equador,M,5.6968,0.60,102,0
+20.0,8,Pardo(a),MTN,76,152,Brasil,F,4.8962,2.70,102,25
+20.0,8,Pardo(a),MTN,76,152,Brasil,F,4.8962,6.30,102,4
+20.0,8,Pardo(a),MTN,124,103,Paraguai,F,6.1827,2.00,102,14
+20.0,8,Preto(a),MTN,86,196,Brasil,M,5.4581,2.10,102,16
+20.0,8,Preto(a),MTN,86,196,Brasil,M,5.4581,6.40,102,0
+20.0,9,Amarelo(a),MTN,174,108,Peru,M,6.3335,6.80,102,0
+20.0,9,Amarelo(a),MTN,242,12,Paraguai,M,8.3930,10.00,102,4
+20.0,9,Branco(a),MTN,170,52,Colômbia,M,7.3698,5.10,102,22
+20.0,9,Branco(a),MTN,172,82,Paraguai,F,6.5425,1.60,102,6
+20.0,9,Branco(a),MTN,172,82,Paraguai,F,6.5425,3.10,102,0
+20.0,9,Branco(a),MTN,188,66,Brasil,M,7.4073,0.80,102,0
+20.0,9,Branco(a),MTN,188,66,Brasil,M,7.4073,6.10,102,5
+20.0,9,Não Declarado(a),MTN,114,168,Equador,M,5.1514,0.20,102,16
+20.0,9,Pardo(a),MTN,8,219,Brasil,F,0.9522,0.00,102,64
+20.0,9,Pardo(a),MTN,50,164,Brasil,M,4.0783,3.70,102,4
+20.0,9,Pardo(a),MTN,50,164,Brasil,M,4.0783,6.00,102,8
+20.0,10,Branco(a),MTN,122,166,Brasil,M,5.4852,0.40,102,22
+20.0,10,Branco(a),MTN,122,166,Brasil,M,5.4852,1.70,102,0
+20.0,10,Branco(a),MTN,122,166,Brasil,M,5.4852,3.40,102,10
+20.0,10,Branco(a),MTN,122,166,Brasil,M,5.4852,5.00,102,2
+20.0,10,Branco(a),MTN,220,62,Brasil,M,7.7114,6.00,102,8
+20.0,10,Não Declarado(a),MTN,78,216,Brasil,M,3.5846,0.00,90,38
+20.0,10,Não Declarado(a),MTN,78,216,Brasil,M,3.5846,1.90,90,0
+20.0,10,Pardo(a),MTN,126,88,Brasil,F,6.5490,3.30,102,6
+20.0,10,Pardo(a),MTN,254,0,Paraguai,M,7.3037,0.30,102,15
+20.0,10,Pardo(a),MTN,254,0,Paraguai,M,7.3037,6.10,102,10
+20.0,11,Branco(a),MTN,0,288,Brasil,M,0.3842,0.00,102,94
+20.0,11,Branco(a),MTN,42,172,Brasil,F,4.4014,0.00,102,10
+20.0,11,Branco(a),MTN,246,36,Brasil,F,7.7605,4.60,102,6
+20.0,11,Branco(a),MTN,246,36,Brasil,F,7.7605,8.20,102,0
+20.0,11,Branco(a),MTN,276,6,Paraguai,F,7.4352,6.20,102,4
+20.0,11,Não Declarado(a),MTN,86,202,Argentina,M,4.3991,0.60,90,10
+20.0,11,Não Declarado(a),MTN,86,202,Argentina,M,4.3991,1.10,90,0
+20.0,11,Não Declarado(a),MTN,86,202,Argentina,M,4.3991,1.10,90,15
+20.0,11,Não Declarado(a),MTN,86,202,Argentina,M,4.3991,1.50,90,10
+20.0,11,Não Declarado(a),MTN,86,202,Argentina,M,4.3991,2.90,90,0
+20.0,11,Não Declarado(a),MTN,248,34,Paraguai,M,7.3240,3.80,102,4
+20.0,11,Não Declarado(a),MTN,248,34,Paraguai,M,7.3240,7.80,102,0
+20.0,11,Pardo(a),MTN,134,93,Argentina,M,6.1629,0.10,102,44
+20.0,11,Pardo(a),MTN,134,93,Argentina,M,6.1629,2.80,102,26
+20.0,11,Pardo(a),MTN,158,64,Colômbia,M,5.9661,0.20,102,14
+20.0,11,Pardo(a),MTN,158,64,Colômbia,M,5.9661,6.30,102,0
+20.0,11,Pardo(a),MTN,178,110,Brasil,M,6.0045,1.10,102,0
+20.0,11,Pardo(a),MTN,178,110,Brasil,M,6.0045,2.40,90,18
+20.0,11,Pardo(a),MTN,178,110,Brasil,M,6.0045,4.50,102,0
+20.0,11,Pardo(a),MTN,178,110,Brasil,M,6.0045,6.30,102,11
+20.0,11,Preto(a),MTN,124,98,Brasil,M,5.8202,3.40,102,10
+20.0,11,Preto(a),MTN,124,98,Brasil,M,5.8202,4.90,102,0
+20.0,11,Preto(a),MTN,124,98,Brasil,M,5.8202,7.50,102,22
+20.0,11,Preto(a),MTN,142,140,Brasil,F,4.7968,0.40,102,20
+20.0,12,Branco(a),MTN,74,154,Paraguai,M,3.4987,0.00,90,62
+20.0,12,Branco(a),MTN,74,154,Paraguai,M,3.4987,0.00,102,6
+20.0,12,Branco(a),MTN,74,154,Paraguai,M,3.4987,0.20,102,0
+20.0,12,Branco(a),MTN,74,154,Paraguai,M,3.4987,4.10,102,0
+20.0,12,Branco(a),MTN,74,154,Paraguai,M,3.4987,5.60,102,12
+20.0,12,Branco(a),MTN,210,4,Brasil,F,7.6865,6.20,102,2
+20.0,12,Branco(a),MTN,228,0,Colômbia,M,7.3140,7.80,90,0
+20.0,12,Branco(a),MTN,228,0,Paraguai,M,7.9849,8.40,90,8
+20.0,12,Branco(a),MTN,254,6,Brasil,M,7.1791,1.00,102,0
+20.0,12,Branco(a),MTN,254,6,Brasil,M,7.1791,6.00,102,15
+20.0,12,Não Declarado(a),MTN,40,174,Paraguai,M,2.7557,0.20,102,14
+20.0,12,Não Declarado(a),MTN,40,174,Paraguai,M,2.7557,2.80,102,34
+20.0,12,Não Declarado(a),MTN,40,174,Paraguai,M,2.7557,5.30,102,0
+20.0,12,Não Declarado(a),MTN,112,116,Argentina,F,5.7422,0.90,102,0
+20.0,12,Não Declarado(a),MTN,112,116,Argentina,F,5.7422,2.70,102,0
+20.0,12,Não Declarado(a),MTN,112,116,Argentina,F,5.7422,3.20,102,0
+20.0,12,Não Declarado(a),MTN,112,116,Argentina,F,5.7422,4.20,102,2
+20.0,12,Pardo(a),MTN,70,158,Paraguai,M,4.3044,6.50,102,2
+20.0,12,Pardo(a),MTN,78,158,Argentina,M,4.7104,3.90,90,0
+20.0,12,Pardo(a),MTN,78,158,Argentina,M,4.7104,6.30,90,12
+20.0,12,Pardo(a),MTN,202,86,Bolívia,M,6.0383,6.30,90,0
+20.0,13,Branco(a),MTN,72,155,Paraguai,M,3.1098,0.00,102,70
+20.0,13,Branco(a),MTN,80,148,Panamá,F,4.5820,0.00,102,68
+20.0,13,Branco(a),MTN,172,82,Paraguai,F,4.7070,0.00,102,17
+20.0,13,Branco(a),MTN,172,82,Paraguai,F,4.7070,0.20,102,8
+20.0,13,Branco(a),MTN,172,82,Paraguai,F,4.7070,1.30,102,44
+20.0,13,Branco(a),MTN,172,82,Paraguai,F,4.7070,1.70,102,7
+20.0,13,Branco(a),N,174,0,Brasil,M,5.8655,0.00,102,92
+20.0,13,Indígena,MTN,56,180,Paraguai,M,3.5240,2.40,90,0
+20.0,13,Indígena,MTN,56,180,Paraguai,M,3.5240,6.20,90,9
+20.0,13,Não Declarado(a),MTN,223,4,Peru,M,6.3469,1.00,102,4
+20.0,13,Não Declarado(a),MTN,223,4,Peru,M,6.3469,2.30,102,10
+20.0,13,Não Declarado(a),MTN,223,4,Peru,M,6.3469,6.70,102,0
+20.0,13,Pardo(a),MTN,244,10,Brasil,F,6.7344,2.40,102,27
+20.0,13,Pardo(a),MTN,244,10,Brasil,F,6.7344,2.50,102,8
+20.0,13,Pardo(a),MTN,244,10,Brasil,F,6.7344,6.00,102,20
+20.0,14,Branco(a),MTN,56,226,Paraguai,F,3.1279,0.00,102,52
+20.0,14,Branco(a),MTN,56,226,Paraguai,F,3.1279,0.60,102,0
+20.0,14,Branco(a),MTN,260,0,Chile,M,6.8747,3.70,102,8
+20.0,14,Branco(a),MTN,260,0,Chile,M,6.8747,4.00,102,21
+20.0,15,Amarelo(a),MTN,264,18,Colômbia,F,7.1055,1.20,90,0
+20.0,15,Amarelo(a),MTN,264,18,Colômbia,F,7.1055,6.80,102,2
+20.0,15,Branco(a),MTN,222,0,Paraguai,M,6.1594,3.30,90,10
+20.0,15,Branco(a),MTN,222,0,Paraguai,M,6.1594,6.30,90,8
+20.0,15,Branco(a),MTN,282,0,Paraguai,M,7.5357,9.00,102,0
+20.0,16,Indígena,MTN,288,0,El Salvador,F,7.8849,8.10,102,2
+20.0,17,Branco(a),MTN,48,166,Paraguai,M,2.1802,0.00,102,38
+20.0,17,Branco(a),MTN,48,166,Paraguai,M,2.1802,0.00,102,76
+20.0,17,Branco(a),MTN,228,0,Brasil,F,7.1169,5.10,90,2
+20.0,17,Pardo(a),MTN,282,0,Colômbia,M,6.8381,2.00,90,6
+20.0,17,Pardo(a),MTN,282,0,Colômbia,M,6.8381,6.90,102,2
+20.0,19,Pardo(a),N,174,0,Paraguai,F,6.6412,0.70,102,22
+20.0,20,Não Declarado(a),MTN,282,0,Bolívia,F,6.4455,5.30,90,0
+20.0,20,Não Declarado(a),MTN,282,0,Bolívia,F,6.4455,9.00,90,4
+20.0,23,Pardo(a),MTN,282,0,El Salvador,M,6.1681,6.70,90,0
+21.0,3,Branco(a),MTN,16,220,Brasil,M,1.3944,0.00,102,76
+21.0,3,Branco(a),MTN,16,220,Brasil,M,1.3944,0.20,90,40
+21.0,3,Pardo(a),MTN,38,190,Brasil,M,5.3063,0.30,102,50
+21.0,4,Branco(a),MTN,36,192,Brasil,M,4.6212,0.10,102,58
+21.0,4,Branco(a),MTN,58,230,Brasil,F,3.9016,0.10,102,0
+21.0,4,Branco(a),MTN,58,230,Brasil,F,3.9016,0.20,90,52
+21.0,4,Branco(a),MTN,58,230,Brasil,F,3.9016,0.60,102,50
+21.0,5,Branco(a),MTN,32,222,Paraguai,F,4.2429,0.10,102,11
+21.0,5,Branco(a),MTN,88,140,Brasil,F,6.5500,7.10,102,12
+21.0,5,Indígena,MTN,30,258,Peru,M,4.7319,3.10,102,22
+21.0,5,Pardo(a),MTN,34,220,Brasil,M,3.8606,1.20,102,90
+21.0,5,Pardo(a),MTN,50,178,Brasil,M,5.2152,4.30,102,10
+21.0,5,Pardo(a),MTN,50,178,Brasil,M,5.2152,6.60,102,6
+21.0,6,Indígena,MTN,64,164,Colômbia,F,6.8962,2.30,102,2
+21.0,6,Indígena,MTN,64,164,Colômbia,F,6.8962,6.00,102,0
+21.0,6,Pardo(a),MTN,42,186,Chile,M,4.4356,0.30,102,0
+21.0,6,Pardo(a),MTN,42,186,Chile,M,4.4356,0.40,90,34
+21.0,6,Pardo(a),MTN,42,186,Chile,M,4.4356,0.50,102,0
+21.0,6,Pardo(a),MTN,50,186,Bolívia,M,6.4797,1.20,90,22
+21.0,7,Branco(a),MTN,42,172,Brasil,M,5.1477,2.20,102,62
+21.0,7,Branco(a),MTN,86,168,Brasil,F,4.8864,0.00,102,14
+21.0,7,Não Declarado(a),MTN,72,156,Colômbia,F,6.6355,0.30,90,20
+21.0,7,Não Declarado(a),MTN,72,156,Colômbia,F,6.6355,3.80,90,20
+21.0,7,Não Declarado(a),MTN,72,156,Colômbia,F,6.6355,8.30,90,0
+21.0,7,Pardo(a),N,62,84,Venezuela,M,5.8772,3.70,90,0
+21.0,8,Pardo(a),MTN,52,176,Brasil,M,3.1364,0.00,102,0
+21.0,8,Pardo(a),MTN,52,176,Brasil,M,3.1364,0.80,102,10
+21.0,8,Pardo(a),MTN,52,176,Brasil,M,3.1364,1.40,102,25
+21.0,8,Pardo(a),MTN,52,176,Brasil,M,3.1364,2.80,102,4
+21.0,9,Branco(a),MTN,128,126,Brasil,M,5.3913,2.20,102,44
+21.0,9,Branco(a),MTN,128,126,Brasil,M,5.3913,5.30,102,12
+21.0,9,Branco(a),MTN,128,126,Brasil,M,5.3913,7.70,102,20
+21.0,9,Branco(a),MTN,168,54,Venezuela,M,7.6452,8.50,102,8
+21.0,9,Não Declarado(a),MTN,146,81,Paraguai,F,6.5180,1.30,102,6
+21.0,9,Pardo(a),MTN,18,196,Brasil,F,2.1933,0.00,102,38
+21.0,9,Pardo(a),MTN,148,134,Venezuela,M,7.0758,8.80,102,6
+21.0,9,Pardo(a),MTN,154,68,Chile,M,6.5440,0.40,102,6
+21.0,10,Branco(a),MTN,234,20,Brasil,F,6.8690,2.70,102,16
+21.0,10,Branco(a),MTN,234,20,Brasil,F,6.8690,6.00,102,10
+21.0,10,Pardo(a),MTN,40,242,Peru,M,3.1721,0.00,102,10
+21.0,10,Pardo(a),MTN,40,242,Peru,M,3.1721,0.70,102,54
+21.0,10,Pardo(a),MTN,88,140,Equador,M,5.7490,2.70,90,0
+21.0,10,Pardo(a),MTN,88,140,Equador,M,5.7490,6.00,90,8
+21.0,11,Branco(a),MTN,114,114,Paraguai,M,6.0505,5.40,102,14
+21.0,11,Branco(a),MTN,114,114,Paraguai,M,6.0505,6.90,102,6
+21.0,11,Branco(a),MTN,174,54,Brasil,F,6.6508,1.50,102,8
+21.0,11,Branco(a),MTN,174,54,Brasil,F,6.6508,4.40,102,24
+21.0,11,Branco(a),MTN,174,54,Brasil,F,6.6508,6.50,102,8
+21.0,11,Branco(a),MTN,204,78,Brasil,M,6.3900,6.20,90,10
+21.0,11,Não Declarado(a),MTN,272,16,Peru,F,7.9541,8.50,102,14
+21.0,11,Pardo(a),MTN,100,194,Paraguai,M,4.4388,0.20,90,0
+21.0,11,Pardo(a),MTN,100,194,Paraguai,M,4.4388,0.40,90,38
+21.0,11,Pardo(a),MTN,100,194,Paraguai,M,4.4388,1.20,90,8
+21.0,11,Pardo(a),MTN,100,194,Paraguai,M,4.4388,1.80,90,18
+21.0,11,Pardo(a),MTN,100,194,Paraguai,M,4.4388,2.10,90,0
+21.0,11,Preto(a),MTN,238,44,Brasil,F,7.6453,0.40,102,8
+21.0,11,Preto(a),MTN,238,44,Brasil,F,7.6453,7.00,102,0
+21.0,13,Branco(a),MTN,136,78,Brasil,M,5.1883,0.30,102,16
+21.0,13,Branco(a),MTN,228,0,Colômbia,F,7.8100,8.50,102,0
+21.0,13,Pardo(a),MTN,158,70,Brasil,F,5.8472,1.10,90,0
+21.0,13,Pardo(a),MTN,158,70,Brasil,F,5.8472,6.20,90,2
+21.0,14,Branco(a),MTN,196,31,Brasil,M,5.5340,0.00,102,0
+21.0,14,Branco(a),MTN,196,31,Brasil,M,5.5340,0.00,102,18
+21.0,14,Branco(a),MTN,196,31,Brasil,M,5.5340,0.40,102,0
+21.0,14,Branco(a),MTN,196,31,Brasil,M,5.5340,6.00,102,14
+21.0,14,Branco(a),MTN,282,0,Brasil,F,7.0063,0.80,90,48
+21.0,14,Branco(a),MTN,282,0,Brasil,F,7.0063,5.50,102,0
+21.0,14,Branco(a),MTN,282,0,Brasil,F,7.0063,6.70,102,18
+21.0,14,Pardo(a),N,95,79,Paraguai,F,4.8165,0.00,102,32
+21.0,15,Branco(a),MTN,228,0,Brasil,M,5.4742,7.10,90,0
+21.0,15,Indígena,MTN,282,0,Equador,M,6.7396,2.50,102,0
+21.0,15,Indígena,MTN,282,0,Equador,M,6.7396,6.00,102,2
+21.0,16,Branco(a),MTN,282,0,Chile,M,7.0368,6.40,90,8
+21.0,16,Indígena,MTN,82,145,Equador,M,2.3583,0.00,102,10
+21.0,16,Indígena,MTN,82,145,Equador,M,2.3583,0.00,102,20
+21.0,16,Indígena,MTN,82,145,Equador,M,2.3583,0.10,102,0
+21.0,16,Indígena,MTN,82,145,Equador,M,2.3583,0.30,102,20
+21.0,16,Indígena,MTN,82,145,Equador,M,2.3583,0.70,102,48
+21.0,16,Pardo(a),MTN,214,74,Bolívia,M,5.7948,2.80,90,0
+21.0,16,Pardo(a),MTN,214,74,Bolívia,M,5.7948,6.20,90,2
+21.0,17,Branco(a),MTN,260,0,Brasil,M,8.0705,3.50,102,0
+21.0,17,Branco(a),MTN,260,0,Brasil,M,8.0705,7.00,102,25
+21.0,18,Pardo(a),MTN,228,0,Equador,F,7.1379,1.90,90,22
+21.0,18,Pardo(a),MTN,228,0,Equador,F,7.1379,6.00,102,10
+22.0,3,Branco(a),MTN,30,198,Brasil,F,5.0448,1.60,102,37
+22.0,5,Branco(a),MTN,46,190,Brasil,F,4.0388,0.00,90,48
+22.0,5,Branco(a),MTN,46,190,Brasil,F,4.0388,0.00,90,52
+22.0,5,Branco(a),MTN,46,190,Brasil,F,4.0388,0.00,90,96
+22.0,5,Branco(a),MTN,84,144,Brasil,M,7.6208,4.10,102,4
+22.0,5,Branco(a),MTN,84,144,Brasil,M,7.6208,8.30,102,0
+22.0,5,Preto(a),MTN,34,199,Haiti,F,4.0221,0.00,102,0
+22.0,5,Preto(a),MTN,64,169,Haiti,M,5.8363,1.90,90,20
+22.0,5,Preto(a),MTN,64,169,Haiti,M,5.8363,6.00,102,0
+22.0,6,Não Declarado(a),MTN,28,208,Brasil,M,2.7337,0.00,90,82
+22.0,6,Não Declarado(a),MTN,68,168,Colômbia,F,6.2340,0.90,90,0
+22.0,7,Indígena,MTN,36,197,Bolívia,M,2.0168,0.00,102,36
+22.0,7,Indígena,MTN,74,140,Colômbia,M,5.4688,4.60,102,12
+22.0,7,Indígena,MTN,74,140,Colômbia,M,5.4688,7.00,102,6
+22.0,7,Pardo(a),MTN,66,161,Brasil,M,4.3121,0.00,102,30
+22.0,7,Pardo(a),MTN,66,161,Brasil,M,4.3121,0.00,102,34
+22.0,7,Pardo(a),MTN,66,161,Brasil,M,4.3121,0.00,102,39
+22.0,7,Pardo(a),MTN,66,161,Brasil,M,4.3121,0.30,102,28
+22.0,7,Pardo(a),N,52,122,Brasil,M,6.9673,0.70,102,10
+22.0,8,Pardo(a),MTN,76,178,Brasil,M,4.7665,0.20,102,16
+22.0,9,Branco(a),MTN,126,156,Colômbia,M,6.3649,1.10,102,12
+22.0,9,Pardo(a),MTN,30,197,Brasil,F,3.5419,0.00,102,84
+22.0,9,Pardo(a),MTN,78,158,Peru,M,4.2565,1.70,90,0
+22.0,9,Pardo(a),MTN,78,158,Peru,M,4.2565,5.20,90,4
+22.0,9,Pardo(a),MTN,78,158,Peru,M,4.2565,6.00,90,0
+22.0,10,Não Declarado(a),MTN,254,0,Colômbia,M,8.1975,6.00,102,0
+22.0,11,Branco(a),MTN,176,46,Brasil,M,6.3921,0.50,102,14
+22.0,11,Branco(a),MTN,176,46,Brasil,M,6.3921,6.00,102,0
+22.0,11,Preto(a),MTN,272,10,Haiti,M,7.5623,5.40,102,2
+22.0,11,Preto(a),MTN,272,10,Haiti,M,7.5623,6.90,102,0
+22.0,12,Branco(a),MTN,282,0,Paraguai,F,7.4705,7.30,102,0
+22.0,12,Pardo(a),MTN,228,0,Uruguai,M,6.7073,8.20,90,12
+22.0,12,Preto(a),MTN,282,0,Brasil,M,7.4868,7.20,102,0
+22.0,13,Branco(a),MTN,112,115,Paraguai,M,3.5804,0.20,102,52
+22.0,13,Branco(a),MTN,112,115,Paraguai,M,3.5804,0.30,102,13
+22.0,13,Branco(a),MTN,112,115,Paraguai,M,3.5804,0.30,102,22
+22.0,13,Branco(a),MTN,112,115,Paraguai,M,3.5804,1.00,102,14
+22.0,14,Amarelo(a),MTN,122,166,Peru,F,3.7696,0.10,90,70
+22.0,14,Amarelo(a),MTN,122,166,Peru,F,3.7696,0.10,102,0
+22.0,14,Amarelo(a),MTN,122,166,Peru,F,3.7696,0.40,90,0
+22.0,14,Amarelo(a),MTN,122,166,Peru,F,3.7696,0.60,102,42
+22.0,14,Amarelo(a),MTN,122,166,Peru,F,3.7696,0.90,90,60
+22.0,14,Amarelo(a),MTN,122,166,Peru,F,3.7696,1.00,102,0
+22.0,14,Amarelo(a),MTN,122,166,Peru,F,3.7696,1.20,90,0
+22.0,14,Amarelo(a),MTN,122,166,Peru,F,3.7696,1.90,102,42
+22.0,14,Amarelo(a),MTN,122,166,Peru,F,3.7696,2.00,102,48
+22.0,14,Amarelo(a),MTN,122,166,Peru,F,3.7696,3.20,90,8
+22.0,15,Indígena,MTN,42,186,Bolívia,M,2.6959,2.80,102,2
+22.0,17,Pardo(a),MTN,192,96,Equador,M,5.2442,0.40,90,20
+22.0,17,Pardo(a),MTN,192,96,Equador,M,5.2442,0.60,90,0
+22.0,17,Pardo(a),MTN,192,96,Equador,M,5.2442,1.50,90,4
+22.0,17,Pardo(a),MTN,192,96,Equador,M,5.2442,2.30,90,0
+22.0,17,Pardo(a),MTN,192,96,Equador,M,5.2442,4.10,102,10
+22.0,17,Pardo(a),MTN,192,96,Equador,M,5.2442,5.40,102,8
+22.0,17,Pardo(a),MTN,192,96,Equador,M,5.2442,6.00,102,0
+22.0,17,Pardo(a),MTN,282,0,Peru,M,6.8944,6.00,90,0
+22.0,18,Pardo(a),MTN,282,0,Equador,M,6.8991,4.60,102,0
+22.0,18,Pardo(a),MTN,282,0,Equador,M,6.8991,6.00,102,0
+22.0,22,Indígena,MTN,288,0,Equador,M,6.2983,5.30,90,0
+22.0,22,Indígena,MTN,288,0,Equador,M,6.2983,6.40,90,10
+23.0,3,Pardo(a),MTN,38,250,Brasil,F,4.1303,0.00,102,66
+23.0,4,Branco(a),MTN,22,206,Brasil,M,3.3758,0.00,102,14
+23.0,4,Preto(a),MTN,4,210,Brasil,M,0.9889,0.00,102,36
+23.0,5,Branco(a),MTN,0,254,Brasil,F,0.5275,0.00,102,88
+23.0,5,Branco(a),MTN,14,213,Paraguai,F,1.9811,0.00,102,24
+23.0,5,Preto(a),MTN,36,246,Haiti,M,3.5674,0.40,102,22
+23.0,5,Preto(a),MTN,40,188,Brasil,F,4.0393,0.00,102,50
+23.0,5,Preto(a),MTN,40,188,Brasil,F,4.0393,0.00,102,70
+23.0,6,Não Declarado(a),MTN,32,182,Brasil,M,4.2513,0.20,102,12
+23.0,6,Pardo(a),MTN,0,228,Brasil,M,0.5771,0.00,102,90
+23.0,7,Branco(a),MTN,82,200,Brasil,M,5.1381,0.50,102,42
+23.0,7,Não Declarado(a),MTN,54,164,Brasil,M,3.4385,0.00,90,0
+23.0,7,Não Declarado(a),MTN,54,164,Brasil,M,3.4385,0.00,90,52
+23.0,7,Pardo(a),MTN,44,170,Brasil,M,4.3507,4.00,102,10
+23.0,8,Branco(a),MTN,34,193,Brasil,M,2.5728,0.00,102,16
+23.0,8,Não Declarado(a),MTN,78,216,Brasil,M,4.8414,0.90,90,16
+23.0,8,Não Declarado(a),MTN,78,216,Brasil,M,4.8414,2.20,90,0
+23.0,9,Pardo(a),MTN,60,154,Brasil,M,4.4689,0.10,102,38
+23.0,9,Pardo(a),MTN,172,110,Peru,F,6.8375,0.00,102,40
+23.0,10,Branco(a),MTN,76,152,Brasil,M,5.0050,2.60,102,16
+23.0,10,Branco(a),MTN,76,152,Brasil,M,5.0050,2.90,102,22
+23.0,10,Branco(a),MTN,76,152,Brasil,M,5.0050,3.60,102,20
+23.0,10,Branco(a),MTN,76,152,Brasil,M,5.0050,7.10,102,22
+23.0,11,Não Declarado(a),MTN,40,196,Bolívia,M,2.2463,0.20,90,26
+23.0,11,Não Declarado(a),MTN,40,196,Bolívia,M,2.2463,0.20,90,64
+23.0,11,Não Declarado(a),MTN,40,196,Bolívia,M,2.2463,0.30,90,0
+23.0,11,Não Declarado(a),MTN,124,130,Paraguai,M,5.4473,0.40,102,14
+23.0,11,Não Declarado(a),MTN,124,130,Paraguai,M,5.4473,0.80,102,10
+23.0,11,Não Declarado(a),MTN,124,130,Paraguai,M,5.4473,1.60,102,20
+23.0,11,Não Declarado(a),MTN,188,34,Brasil,M,6.7617,1.00,102,24
+23.0,11,Não Declarado(a),MTN,188,34,Brasil,M,6.7617,7.20,102,0
+23.0,11,Pardo(a),MTN,220,62,Colômbia,F,7.1703,2.20,102,12
+23.0,11,Pardo(a),MTN,220,62,Colômbia,F,7.1703,6.00,102,0
+23.0,12,Indígena,MTN,288,0,Bolívia,M,6.7981,6.50,90,0
+23.0,13,Branco(a),MTN,254,0,Brasil,M,6.8774,6.00,102,0
+23.0,13,Preto(a),MTN,62,192,Haiti,M,4.7634,1.10,102,10
+23.0,13,Preto(a),MTN,62,192,Haiti,M,4.7634,3.80,102,0
+23.0,15,Preto(a),MTN,120,108,Bolívia,F,4.7317,3.60,90,0
+23.0,15,Preto(a),MTN,120,108,Bolívia,F,4.7317,6.00,90,2
+24.0,3,Branco(a),MTN,16,198,Brasil,F,2.3885,0.10,102,54
+24.0,5,Pardo(a),MTN,18,196,Brasil,M,2.9419,0.00,102,90
+24.0,5,Preto(a),MTN,42,218,Haiti,M,3.8557,0.00,102,78
+24.0,5,Preto(a),MTN,46,182,Haiti,M,4.3948,3.20,102,0
+24.0,6,Amarelo(a),MTN,16,238,Brasil,M,3.5167,0.00,102,44
+24.0,6,Branco(a),MTN,52,162,Brasil,F,5.3611,0.50,102,6
+24.0,6,Pardo(a),MTN,6,221,Venezuela,M,1.5083,0.00,102,80
+24.0,6,Pardo(a),MTN,30,198,Brasil,F,5.2800,0.00,102,48
+24.0,6,Preto(a),MTN,36,192,Haiti,F,4.0188,0.00,102,0
+24.0,6,Preto(a),MTN,36,192,Haiti,F,4.0188,0.10,102,26
+24.0,7,Branco(a),MTN,96,137,Brasil,M,5.7759,1.60,102,10
+24.0,7,Branco(a),MTN,96,137,Brasil,M,5.7759,4.80,102,10
+24.0,7,Branco(a),MTN,96,137,Brasil,M,5.7759,8.00,102,4
+24.0,7,Não Declarado(a),MTN,48,180,Brasil,M,3.6200,0.10,102,10
+24.0,7,Não Declarado(a),MTN,48,180,Brasil,M,3.6200,1.20,102,49
+24.0,7,Não Declarado(a),MTN,48,180,Brasil,M,3.6200,1.30,102,24
+24.0,8,Branco(a),MTN,30,197,Brasil,M,3.9597,0.20,102,46
+24.0,8,Branco(a),MTN,30,197,Brasil,M,3.9597,0.80,102,73
+24.0,8,Branco(a),MTN,46,182,Paraguai,M,4.3528,0.00,102,0
+24.0,8,Branco(a),MTN,46,182,Paraguai,M,4.3528,0.00,102,10
+24.0,8,Pardo(a),MTN,30,197,Brasil,M,3.0000,0.00,102,10
+24.0,8,Pardo(a),MTN,30,197,Brasil,M,3.0000,0.50,102,52
+24.0,8,Pardo(a),MTN,40,174,Paraguai,M,3.6516,0.70,102,44
+24.0,9,Preto(a),MTN,4,224,Paraguai,M,0.4082,0.20,102,48
+24.0,10,Não Declarado(a),MTN,102,180,Colômbia,F,5.3661,2.50,102,28
+24.0,10,Não Declarado(a),MTN,102,180,Colômbia,F,5.3661,4.10,102,0
+24.0,10,Não Declarado(a),MTN,102,180,Colômbia,F,5.3661,5.30,102,8
+24.0,11,Branco(a),MTN,58,170,Brasil,F,4.3898,0.30,102,24
+24.0,11,Branco(a),MTN,58,170,Brasil,F,4.3898,0.70,102,18
+24.0,11,Branco(a),MTN,58,170,Brasil,F,4.3898,1.60,102,0
+24.0,11,Branco(a),MTN,80,147,Brasil,M,3.8911,0.00,102,20
+24.0,11,Branco(a),MTN,228,0,El Salvador,M,7.6636,7.90,102,0
+24.0,11,Não Declarado(a),MTN,114,100,Paraguai,M,6.3325,3.80,102,2
+24.0,11,Não Declarado(a),MTN,114,100,Paraguai,M,6.3325,5.00,102,10
+24.0,12,Pardo(a),MTN,66,148,Brasil,F,5.0986,1.90,102,28
+24.0,12,Pardo(a),MTN,66,148,Brasil,F,5.0986,3.70,102,10
+24.0,16,Não Declarado(a),MTN,150,138,Uruguai,M,3.6420,2.20,90,0
+24.0,16,Não Declarado(a),MTN,150,138,Uruguai,M,3.6420,2.30,90,18
+24.0,16,Não Declarado(a),MTN,150,138,Uruguai,M,3.6420,6.00,90,0
+25.0,3,Amarelo(a),MTN,36,224,Brasil,M,5.7033,1.00,102,4
+25.0,5,Não Declarado(a),MTN,182,100,Colômbia,M,5.9295,0.80,102,54
+25.0,5,Preto(a),MTN,38,228,Brasil,M,6.0114,0.00,90,0
+25.0,7,Branco(a),MTN,78,150,Brasil,M,6.2290,0.80,102,8
+25.0,7,Branco(a),MTN,78,150,Brasil,M,6.2290,5.20,102,14
+25.0,7,Branco(a),MTN,78,150,Brasil,M,6.2290,5.40,102,10
+25.0,7,Branco(a),MTN,78,150,Brasil,M,6.2290,7.10,102,0
+25.0,7,Preto(a),MTN,56,204,Haiti,M,4.7185,2.90,102,6
+25.0,7,Preto(a),MTN,56,204,Haiti,M,4.7185,5.20,102,0
+25.0,11,Branco(a),MTN,130,158,Peru,M,5.4292,2.30,90,0
+25.0,11,Branco(a),MTN,130,158,Peru,M,5.4292,6.50,90,2
+25.0,11,Não Declarado(a),MTN,104,184,Peru,M,3.1790,8.00,90,0
+25.0,11,Preto(a),MTN,106,176,Brasil,M,5.2188,0.00,102,86
+25.0,11,Preto(a),MTN,106,176,Brasil,M,5.2188,0.50,102,0
+25.0,11,Preto(a),MTN,106,176,Brasil,M,5.2188,1.70,102,24
+25.0,12,Indígena,MTN,134,154,Peru,M,5.0129,6.60,90,0
+25.0,13,Preto(a),MTN,254,0,Haiti,M,6.9952,6.40,102,2
+25.0,14,Indígena,MTN,80,202,Equador,M,4.4644,3.00,102,4
+25.0,14,Preto(a),MTN,254,0,Haiti,M,6.6433,7.80,102,2
+25.0,15,Preto(a),MTN,210,18,Haiti,M,5.7870,7.40,90,0
+25.0,15,Preto(a),MTN,227,0,Haiti,M,6.4720,8.10,102,12
+25.0,16,Pardo(a),MTN,156,126,Paraguai,M,4.3724,0.10,102,0
+25.0,16,Pardo(a),MTN,156,126,Paraguai,M,4.3724,0.30,102,6
+25.0,16,Pardo(a),MTN,156,126,Paraguai,M,4.3724,0.60,102,0
+25.0,16,Pardo(a),MTN,156,126,Paraguai,M,4.3724,1.20,102,8
+25.0,16,Pardo(a),MTN,156,126,Paraguai,M,4.3724,1.70,102,10
+25.0,16,Pardo(a),MTN,156,126,Paraguai,M,4.3724,2.50,102,14
+26.0,5,Branco(a),MTN,38,176,Brasil,F,3.5653,0.50,102,32
+26.0,6,Branco(a),MTN,56,171,Paraguai,M,4.7444,0.40,102,6
+26.0,6,Branco(a),MTN,56,171,Paraguai,M,4.7444,6.10,102,15
+26.0,6,Pardo(a),MTN,60,176,Brasil,M,4.6062,0.00,90,59
+26.0,6,Pardo(a),MTN,60,176,Brasil,M,4.6062,0.00,90,86
+26.0,7,Preto(a),MTN,50,178,Guiné Bissau,M,6.9714,0.10,102,20
+26.0,9,Branco(a),MTN,54,179,Brasil,M,3.1989,0.00,102,26
+26.0,9,Branco(a),MTN,54,179,Brasil,M,3.1989,0.00,102,72
+26.0,9,Branco(a),MTN,54,179,Brasil,M,3.1989,0.00,102,76
+26.0,9,Branco(a),MTN,156,98,Paraguai,F,6.7070,0.20,102,21
+26.0,9,Branco(a),MTN,156,98,Paraguai,F,6.7070,1.70,102,8
+26.0,9,Preto(a),MTN,20,194,Brasil,M,1.7747,0.00,102,22
+26.0,10,Branco(a),MTN,260,0,Colômbia,F,8.2852,2.70,102,0
+26.0,10,Branco(a),MTN,260,0,Colômbia,F,8.2852,7.50,102,0
+26.0,11,Branco(a),MTN,218,64,Colômbia,F,7.0942,3.50,102,0
+26.0,11,Branco(a),MTN,218,64,Colômbia,F,7.0942,6.00,102,0
+26.0,13,Pardo(a),MTN,120,162,Brasil,M,5.1318,1.10,102,0
+26.0,13,Pardo(a),MTN,120,162,Brasil,M,5.1318,1.10,102,15
+26.0,13,Pardo(a),MTN,120,162,Brasil,M,5.1318,6.00,102,4
+26.0,13,Preto(a),MTN,60,194,Haiti,M,5.3720,0.00,102,66
+26.0,13,Preto(a),MTN,60,194,Haiti,M,5.3720,2.70,102,0
+26.0,13,Preto(a),MTN,60,194,Haiti,M,5.3720,3.00,102,11
+27.0,4,Preto(a),MTN,32,203,Haiti,M,4.7276,0.60,90,12
+27.0,5,Branco(a),MTN,42,226,Brasil,F,6.8846,0.80,90,0
+27.0,9,Branco(a),MTN,84,130,Colômbia,M,5.9553,6.50,102,6
+27.0,11,Branco(a),MTN,92,122,Brasil,M,4.7769,0.90,102,6
+27.0,11,Branco(a),MTN,205,22,Colômbia,M,7.1571,7.60,102,2
+27.0,11,Não Declarado(a),MTN,96,118,Paraguai,M,5.2114,4.20,102,20
+28.0,3,Branco(a),MTN,28,200,Brasil,M,5.0759,0.10,102,12
+28.0,4,Amarelo(a),MTN,74,159,Peru,F,5.6444,0.00,102,84
+28.0,4,Amarelo(a),MTN,74,159,Peru,F,5.6444,1.10,102,40
+28.0,5,Branco(a),MTN,32,201,Brasil,M,4.9637,0.00,102,96
+28.0,5,Branco(a),MTN,32,201,Brasil,M,4.9637,1.20,102,14
+28.0,6,Branco(a),MTN,10,218,Brasil,M,2.3348,0.00,102,94
+28.0,7,Pardo(a),MTN,72,161,Brasil,F,4.2433,0.00,102,37
+28.0,7,Pardo(a),MTN,72,161,Brasil,F,4.2433,5.00,102,0
+28.0,7,Preto(a),MTN,34,248,Haiti,M,3.5703,0.30,102,30
+28.0,7,Preto(a),MTN,70,190,Haiti,M,5.5304,6.00,102,4
+28.0,8,Preto(a),MTN,36,178,Haiti,M,2.7564,0.00,102,88
+28.0,8,Preto(a),MTN,36,178,Haiti,M,2.7564,0.70,102,10
+28.0,8,Preto(a),MTN,36,178,Haiti,M,2.7564,1.10,102,0
+29.0,6,Indígena,MTN,42,172,Bolívia,M,4.1856,2.60,102,10
+29.0,6,Pardo(a),MTN,60,228,Brasil,F,4.0702,0.00,102,0
+29.0,6,Pardo(a),MTN,60,228,Brasil,F,4.0702,0.00,102,52
+29.0,6,Pardo(a),MTN,60,228,Brasil,F,4.0702,0.30,102,0
+29.0,6,Pardo(a),MTN,60,228,Brasil,F,4.0702,0.50,90,4
+29.0,8,Amarelo(a),MTN,22,200,Brasil,M,1.9120,0.00,102,64
+29.0,8,Branco(a),MTN,108,174,Colômbia,M,5.3427,0.10,102,26
+29.0,8,Pardo(a),MTN,16,211,Colômbia,M,3.7862,0.00,102,96
+29.0,8,Pardo(a),MTN,108,174,Brasil,F,6.3661,0.10,102,34
+29.0,8,Pardo(a),MTN,108,174,Brasil,F,6.3661,0.20,102,32
+29.0,8,Pardo(a),MTN,108,174,Brasil,F,6.3661,0.50,102,0
+29.0,8,Preto(a),MTN,108,146,Haiti,M,4.9936,6.20,102,0
+29.0,13,Não Declarado(a),MTN,88,126,Brasil,M,3.4211,6.00,102,18
+30.0,7,Indígena,MTN,62,192,Peru,M,4.2468,0.00,102,6
+30.0,12,Preto(a),MTN,82,146,Haiti,M,5.0117,2.20,102,0
+30.0,12,Preto(a),MTN,82,146,Haiti,M,5.0117,6.40,102,4
+31.0,4,Branco(a),MTN,4,250,Brasil,F,1.9625,0.00,102,10
+31.0,8,Pardo(a),MTN,48,234,Brasil,M,3.0800,0.00,102,36
+31.0,11,Preto(a),MTN,120,102,Haiti,M,5.6192,2.20,102,4
+31.0,11,Preto(a),MTN,120,102,Haiti,M,5.6192,6.60,102,0
+32.0,3,Branco(a),MTN,40,187,Brasil,F,8.3045,6.10,102,2
+32.0,4,Branco(a),MTN,70,224,Brasil,M,7.0936,1.00,90,6
+32.0,8,Preto(a),MTN,78,150,Brasil,M,5.6688,0.60,102,0
+32.0,8,Preto(a),MTN,78,150,Brasil,M,5.6688,1.10,102,0
+32.0,8,Preto(a),MTN,78,150,Brasil,M,5.6688,2.10,102,8
+32.0,8,Preto(a),MTN,78,150,Brasil,M,5.6688,6.00,102,20
+32.0,9,Preto(a),MTN,50,244,Brasil,M,2.6806,0.00,90,64
+32.0,9,Preto(a),MTN,50,244,Brasil,M,2.6806,0.30,90,42
+32.0,9,Preto(a),MTN,50,244,Brasil,M,2.6806,0.80,90,0
+32.0,10,Preto(a),MTN,170,0,Brasil,M,8.0834,6.00,90,0
+32.0,11,Pardo(a),MTN,152,130,Brasil,F,6.4135,0.20,102,0
+32.0,11,Pardo(a),MTN,152,130,Brasil,F,6.4135,0.20,102,18
+33.0,3,Branco(a),MTN,14,246,Brasil,F,3.6519,0.00,102,60
+33.0,5,Pardo(a),MTN,64,224,Brasil,M,5.4896,3.90,90,16
+33.0,5,Pardo(a),MTN,64,224,Brasil,M,5.4896,6.50,102,20
+33.0,8,Branco(a),MTN,26,188,Brasil,F,2.7389,0.00,102,80
+33.0,8,Branco(a),MTN,26,188,Brasil,F,2.7389,2.00,102,63
+34.0,14,Pardo(a),MTN,44,238,Brasil,F,2.2075,0.00,102,10
+34.0,14,Pardo(a),MTN,44,238,Brasil,F,2.2075,0.00,102,48
+34.0,18,Preto(a),MTN,66,216,Brasil,M,2.0228,0.00,102,38
+34.0,18,Preto(a),MTN,66,216,Brasil,M,2.0228,0.00,102,61
+34.0,18,Preto(a),MTN,66,216,Brasil,M,2.0228,0.10,102,56
+34.0,18,Preto(a),MTN,66,216,Brasil,M,2.0228,0.20,90,50
+35.0,3,Branco(a),MTN,40,188,Brasil,M,5.0736,0.00,90,24
+36.0,5,Branco(a),MTN,62,166,Brasil,M,6.5611,0.40,102,8
+36.0,5,Preto(a),MTN,48,212,Brasil,M,5.2893,4.20,102,0
+36.0,9,Pardo(a),MTN,192,35,Paquistão,M,6.6646,2.30,102,10
+36.0,11,Branco(a),MTN,80,202,Brasil,M,4.0278,0.00,102,0
+36.0,11,Branco(a),MTN,80,202,Brasil,M,4.0278,0.00,102,42
+36.0,11,Branco(a),MTN,80,202,Brasil,M,4.0278,1.20,102,10
+36.0,11,Branco(a),MTN,80,202,Brasil,M,4.0278,1.20,102,12
+36.0,11,Branco(a),MTN,80,202,Brasil,M,4.0278,1.30,102,31
+36.0,11,Branco(a),MTN,80,202,Brasil,M,4.0278,2.90,102,8
+37.0,4,Preto(a),MTN,56,226,Brasil,M,5.6378,2.10,102,24
+38.0,4,Amarelo(a),MTN,20,194,Brasil,M,3.3885,0.00,102,22
+42.0,6,Pardo(a),MTN,40,242,Brasil,M,3.7750,0.00,102,52
+42.0,7,Branco(a),MTN,50,186,Brasil,M,3.9296,3.10,90,0
+42.0,7,Branco(a),MTN,50,186,Brasil,M,3.9296,6.00,90,0
+50.0,7,Indígena,MTN,14,200,Brasil,F,2.3059,0.00,102,24

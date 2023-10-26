@@ -1,13 +1,14 @@
 #------------------- Apresentação do R e RStudio -------------------------------
 
-# R é a linguagem de programação que vamos utilizar
-# RStudio é um software que torna a utilização do R mais simples para o usuário
+# R é a linguagem de programação R de código aberto usada principalmente para 
+# análise de dados, estatísticas e visualização de dados.
+# RStudio é o ambiente de desenvovlvimento do R.
 
-# A interface do RStudio divide-se em 4 grandes partes, principalmente para:
+# A interface do RStudio divide-se em 4 grandes partes:
 
-# 1ª Parte: script com o histórico de códigos daquele projeto ou análise
-# 2ª Parte: console onde os códigos podem ser digitados e são implementados
-# 3ª Parte: environment onde ficam listados os objetos
+# 1ª Parte: script onde são escritos os códigos 
+# 2ª Parte: console onde são apresentadas as saídas das operações
+# 3ª Parte: environment onde ficam listados os objetos criados em tempo de execução
 # 4ª Parte: onde aparecem outputs, help de pacotes, arquivos da pasta atual
 
 # Sempre que iniciar uma nova análise, sugere-se criar um "project"
@@ -19,15 +20,14 @@
 
 #------------------- Estrutura básica de operação do R -------------------------
 
-# Normalmente, utiliza-se um script para guardar o histórico das análises
-
 # File -> New File -> R Script
 
 # Vamos conhecer as operações fundamentais do R
 
 #COMENTÁRIOS
-# Os textos, neste script, que se iniciam com # indicam que são comentários, 
-# ou seja, não serão comandos interpretados
+# Os textos iniciados com # são comentários de código e servem 
+# para documentar as operações realizadas. Tudo que estiver com # 
+# não será interpretado pelo R.
 
 # Os códigos são digitados diretamente e são identificados como comandos
 # O R funciona com base em objetos que ficam listados no environment
@@ -43,17 +43,18 @@ sqrt(25)
 #########################################################
 
 # Uma variável é um espaço na memória do computador que é usado para armazenar um valor
-# e são usadas para representar dados que podem mudar durante a execução de um programa.
-# No R as variáveis podem ter letras, números e caracters . _
+# e são usadas para representar dados que podem mudar durante a execução do programa.
+# No R o nome das variáveis podem conter letras, números e caracters . _
 # O R é case sensitive, ou seja, ele diferencia letras minúsculas de maiúsculas.
 # É uma boa prática encontrar nomes significativos, que representem o valor que elas armazenam,
 # não muito extensos, e que sigam um padrão, por exemplo: minha_variavel
 
-nome <- "Afonso"
-cpf  <- "000.000.000-00"
+# Cada variável tem um nome e não há nomes iguais no ambiente
+modelo    <- "Carro 1.0"
+potencia  <- "75hp"
 
-#imprime o valor das variáveis nome e cpf
-cat("O CPF do " , nome , " é: " , cpf)
+#imprime o valor das variáveis
+cat("O ", modelo, " tem potência de: ", potencia)
 
 ############### ESTRUTURAS DE DADOS #####################
 # VETORES
@@ -69,31 +70,26 @@ numeros <- c(1, 2, 3, 4, 5)
 # A função c() indica que estamos concatenando (combinando) valores em um vetor
 
 numeros
+print(numeros)
 
 # Os comandos são "case sensitive", isto é, diferenciam maiúsculas e minúsculas 
 
 Numeros # note que houve um erro, não existe o objeto Numeros (maiúscula)
 
-# Seguindo com as funções, poderíamos utilizar o comando print()
-
-print(numeros)
-
-# Vamos criar um vetor com textos, isto é, com caracteres:
+# Vamos criar um vetor de textos. Em linguagem de programação, textos são 
+# representados por Strings, que são como um vetor de caracteres:
 
 pessoas <- c("João", "Maria", "Pedro", "Paula")
-
-# Agora, foi criado um vetor de textos que foram colocados entre aspas duplas
-
 pessoas
 
-# Também poderíamos criar um vetor com argumentos lógicos, TRUE ou FALSE
+# Vamos criar um vetor com argumentos lógicos, TRUE ou FALSE
 
 logico <- c(TRUE, FALSE, TRUE, TRUE, FALSE, FALSE)
 # Igualmente válido:
 logico = c(T, F, T, T, F, F)
 
 # Note que tais argumentos não são textos, estão definidos como lógicos
-# Para saber a classe de vetor, é possível utilizar:
+# Para saber a classe de uma variável, utilizamos:
 
 class(numeros)
 class(pessoas)
@@ -104,8 +100,6 @@ class(logico)
 length(numeros)
 length(pessoas)
 length(logico)
-
-# Cada objeto tem seu nome e não há nomes iguais no ambiente
 
 sequencia <- c(1:10) # esta é uma forma de gerar uma sequência de números
 
@@ -150,10 +144,15 @@ potencia <- c(65, 105, 103, 75, 68)
 consumo <- c(12.5, 9.5, 9.3, 11.2, 13.4)
 
 # Cria uma matriz com um único elemento
-matriz <- matrix(c(carros, potencia, consumo), nrow = 5, ncol = 3)
+carros <- matrix(c(carros, potencia, consumo), nrow = 5, ncol = 3)
+carros
+
+# acessando um determinado elemento da matriz
+# matriz[linha, coluna]
+carros [1,] #linha 1, todas as colunas
 
 # Calcula a média de consumo
-mean(as.numeric(matriz[,3]))
+mean(as.numeric(carros[,3]))
 
 ############### ESTRUTURAS DE DADOS #####################
 # DATA FRAMES

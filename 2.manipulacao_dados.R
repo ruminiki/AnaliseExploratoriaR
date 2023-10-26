@@ -3,8 +3,9 @@ library(dplyr)
 #################################
 # Carregar arquivo de dados
 #################################
-#+ O dataset é uma amostra de estudantes que cursaram a disciplina de Cálculo I
-#+ não deve ser utilizado para inferências sobre todo o universo de estudantes.
+#+ O dataset utilizado é uma amostra de matrículas na disciplina de Cálculo I.
+#+ Será utilizado apenas para fins didáticos, não podendo ser utilizado para 
+#+ inferências sobre o universo de estudantes.
 
 df <- read.csv("data/notas_calculo.csv")
 
@@ -62,19 +63,19 @@ df[,-2]
 # Também é possível filtrar observações por meio dos operadores:
 # Alguns operadores úteis para realizar filtros:
 
-"== igual"
-"> maior"
-">= maior ou igual"
-"< menor"
-"<= menor ou igual"
-"!= diferente"
-"& indica e"
-"| indica ou"
+#+ "== igual"
+#+ "> maior"
+#+ ">= maior ou igual"
+#+ "< menor"
+#+ "<= menor ou igual"
+#+ "!= diferente"
+#+ "& indica e"
+#+ "| indica ou"
 
 df1 <- df[df$media_final >= 8,]
 
 #percentual de alunos com nota maior que 8
-count(df[df$media_final >= 8,]) / nrow(df) * 100
+count(df1) / nrow(df) * 100
 
 #alunos do brasil, com média maior ou igual a 8
 brasil_media_maior_8 <- df[df$pais_origem == "Brasil" & df$media_final >= 8,]
@@ -89,11 +90,13 @@ brasil <- df[df$pais_origem == 'Brasil', c('raca', 'pais_origem')]
 table(brasil$raca, brasil$pais_origem)
 
 #percentual de alunos brasileiros por raça
-percentual_raca <- as.data.frame(table(brasil$raca, brasil$pais_origem))
-names(percentual_raca) <- c("raca", "pais", "total")
+raca_brasil <- as.data.frame(table(brasil$raca, brasil$pais_origem))
+raca_brasil
+names(raca_brasil) <- c("raca", "pais", "total")
+raca_brasil
 
-percentual_raca$percentual <- percentual_raca$total / sum(percentual_raca$total) * 100
-view(percentual_raca)
+raca_brasil$percentual <- raca_brasil$total / sum(raca_brasil$total) * 100
+view(raca_brasil)
 
 ############# ALTERANDO O CONJUNTO DE DADOS ############
 
@@ -151,13 +154,13 @@ df4 <- df %>% select(periodo_atual:ira)
 # A função "arrange" faz a ordenação do dataset
 # Se retirar o desc(), fica na ordem crescente
 df5 <- df %>% select(pais_origem, numero_faltas, media_final) %>% arrange(desc(media_final))
-
+df5
 ########## Mutate ##################
 #cria nova coluna, com o percentual de faltas calculado 
 df <- df %>% 
   mutate(percentual_faltas = round((numero_faltas / ch_total) * 100, digits = 2)) %>%
   mutate(reprovado_faltas = ifelse(percentual_faltas > 25, T, F))
-
+view(df)
 #cria variável para atribuir um conceito a nota
 df <- df %>% mutate(conceito_nota = case_when(media_final < 5 ~ "D",
                                               media_final >= 5 & media_final < 7 ~ "C",
@@ -172,7 +175,8 @@ table(df$conceito)
 
 #calcula a media de notas por pais de origem, ordenados pela maior média
 df %>% group_by(pais_origem) %>% 
-  summarise(media_notas = mean(media_final, na.rm = T))
+  summarise(media_notas = mean(media_final, na.rm = T)) %>% 
+  arrange(desc(media_notas))
 
 #média e mediana por raça
 df %>% group_by(raca) %>% 
@@ -184,7 +188,7 @@ df %>% group_by(sexo) %>%
   summarise(media_notas = mean(media_final, na.rm = T),
             mediana = median(media_final))
 
-#média e mediana por sexo
+#média e mediana por pais
 df %>% group_by(pais_origem) %>% 
   summarise(media_notas = mean(media_final, na.rm = T),
             mediana = median(media_final))

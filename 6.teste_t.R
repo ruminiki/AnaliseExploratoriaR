@@ -1,7 +1,14 @@
+
+#https://rstudio-pubs-static.s3.amazonaws.com/408638_6679293d4c7a415eaebe00faa3aea0cb.html
+
 #####################################
 # Carregar arquivo de dados
 #####################################
 df <- read.csv("data/notas_calculo.csv")
+
+# O teste t pressupõe a normalidade dos dados. 
+# Faremos o teste de normalidade
+# para a escolha do método mais adequado.
 
 #teste de normalidade dos dados Shapiro-Wilk
 #H0: dados seguem distribuição normal
