@@ -3,45 +3,25 @@
 #####################################
 df <- read.csv("data/notas_calculo.csv")
 
-masculino <- df %>% filter(sexo == "M")
-feminino  <- df %>% filter(sexo == "F")
+#teste de normalidade dos dados Shapiro-Wilk
+#H0: dados seguem distribuição normal
+#H1: dados não seguem distribuição normal
+#p-valor < 0.05 indica que os dados não seguem distribuição normal
+shapiro.test(df$media_final)
 
-t <- t.test(masculino$media_final ~ feminino$media_final, var.equal=TRUE)
+#se normal, usa o teste-t
+#H0: não há diferença significativa entre as médias das duas amostras
+#H1: há uma diferença significativa entre as médias das duas amostras
+#p-valor < 0.05 há evidências de diferença entre as médias
+t <- t.test(df$media_final ~ df$sexo, var.equal=TRUE)
+print(t)
 
-with(df, t.test(df[sexo == "M"], df[sexo == "F"]))
+#se não normal deve-se usar algum teste não paramétrico (Mann-Whitney-Wilcoxon)
+#H0: não há diferença significativa entre as médias das duas amostras
+#H1: há uma diferença significativa entre as médias das duas amostras
+#p-valor < 0.05 há evidências de diferença entre as médias
+df1 <- df[df$sexo=="F",'media_final']
+df2 <- df[df$sexo=="M",'media_final']
+w <- wilcox.test(df1, df2, correct = FALSE,  alternative = "two.sided")  
+print(w)
 
-cat(paste("\n Médias: ",round(t$estimate[[1]],digits = 2)," e ", round(t$estimate[[2]],digits = 2)))
-cat(paste("\n P-valor: ",t$p.value))
-cat(paste("\n Significância 1%? ",t$p.value<0.001))
-cat(paste("\n Significância 5%? ",t$p.value<0.05))
-cat("\n................................\n")
-
-
-#teste t student quando amostra distribuição normal
-diff2 <- function(a,vars){
-  for (n in vars){
-    cat(paste("\n> ", n,"\n"))
-    t <- t.test(a[[n]] ~ a$situacao, a, var.equal=TRUE)
-    cat(paste("\n Médias: ",round(t$estimate[[1]],digits = 2)," e ", round(t$estimate[[2]],digits = 2)))
-    cat(paste("\n P-valor: ",t$p.value))
-    cat(paste("\n Significância 1%? ",t$p.value<0.001))
-    cat(paste("\n Significância 5%? ",t$p.value<0.05))
-    cat("\n................................\n")
-  }
-}
-
-t.test(dfp$ch_total_integralizada ~ dfp$situacao, dataset, var.equal=TRUE)
-diff2(dfp, vars[2:length(vars)])
-
-table(dfp$ch_total_integralizada)
-
-do.call(data.frame,lapply(aux,function(x) replace(x, is.infinite(x), NA)))
-
-tapply(dfp$periodo_atual, summary)
-aggregate(df['periodo_atual'], list(df$situacao), FUN=mean, na.action = na.omit) 
-
-nrow(dfp['periodo_atual'])
-nrow(dfp['situacao'])
-
-ggplot(dfi, aes(x=ispl, y=iech, )) + 
-  geom_point() + scale_x_continuous(trans="log2") 
